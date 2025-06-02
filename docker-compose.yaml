@@ -1,0 +1,212 @@
+version: "3.8"
+
+services:
+  # annotation-api provides web hooks for label-studio
+  annotation-api:
+    restart: always
+    build: annotation-api
+    container_name: hans-ext-annotation-flask
+    hostname: localhost.flask
+    environment:
+    # Set to development and enable debug if needed
+      - FLASK_ENV=production
+      - FLASK_DEBUG=False
+    # Configure access to labelstud.io
+      - LABEL_STUDIO_USER_TOKEN=a9cpk42gv748hzs
+    # Configure access to annotationdb
+      - MINIO_ROOT_USER=minio
+      - MINIO_ROOT_PASSWORD=minio123
+    ports:
+      - 5002:5002
+    depends_on:
+      - label-studio-app
+      - label-studio-db
+      - annotationdb
+      - annotationdb-init
+    networks:
+      - ext-annotation-tier
+
+  # annotationdb stores annotation meta data and files for the annotation tasks in label-studio
+  annotationdb:
+    restart: always
+    build: annotationdb
+    container_name: hans-ext-annotation-annotationdb
+    volumes:
+      - ./annotation-data:/data:rw
+    ports:
+      - 9003:9003
+    environment:
+      MINIO_ROOT_USER: "minio"
+      MINIO_ROOT_PASSWORD: "minio123"
+    command: server --address 0.0.0.0:9003 --console-address 0.0.0.0:38588 /data
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:9003/minio/health/live"]
+      interval: 30s
+      timeout: 20s
+      retries: 3
+    networks:
+      - ext-annotation-tier
+
+  # annotationdb-init initializes the annotationdb
+  annotationdb-init:
+    build: annotationdb-init
+    container_name: hans-ext-annotation-annotationdb-init
+    entrypoint: /bin/bash
+    environment:
+      MINIO_ROOT_USER: "minio"
+      MINIO_ROOT_PASSWORD: "minio123"
+    command:
+      - -c
+      - |
+        ./init.sh -d "annotationdb" -p 9003 -b raw,assets,tasks,tasks-audio,error
+    depends_on:
+      - annotationdb
+    networks:
+      - ext-annotation-tier
+
+  # annotationdb-admin to manage the annotationdb
+  annotationdb-admin:
+    build: annotationdb-init
+    stdin_open: true
+    container_name: hans-ext-annotation-admin
+    entrypoint: /bin/bash
+    depends_on:
+      - annotationdb
+    networks:
+      - ext-annotation-tier
+
+  # label-studio
+  label-studio-nginx:
+    restart: always
+    build: label-studio
+    container_name: hans-ext-annotation-label-studio-nginx
+    ports:
+      - "8083:80"
+      - "8081:443"
+    depends_on:
+      - label-studio-app
+    environment:
+      - LABEL_STUDIO_HOST=${LABEL_STUDIO_HOST}
+#   Optional: Specify SSL termination certificate & key
+#   Just drop your cert.pem and cert.key into folder 'deploy/nginx/certs'
+#      - NGINX_SSL_CERT=/certs/cert.pem
+#      - NGINX_SSL_CERT_KEY=/certs/cert.key
+    volumes:
+      - ./label-studio-data:/label-studio/data:rw
+      - ./label-studio-nginx/default.conf:/label-studio/deploy/nginx/default.conf
+      - ./label-studio-nginx/certs:/certs:ro
+    command: nginx
+    networks:
+      - ext-annotation-tier
+
+  label-studio-app:
+    restart: always
+    stdin_open: true
+    tty: true
+    build: label-studio
+    container_name: hans-ext-annotation-label-studio-app
+    hostname: app
+    expose:
+      - 8080
+    depends_on:
+      - label-studio-db
+    command: label-studio --username hans@localhost --password hans --user-token a9cpk42gv748hzs
+    environment:
+      - DJANGO_DB=default
+      - POSTGRE_NAME=postgres
+      - POSTGRE_USER=postgres
+      - POSTGRE_PASSWORD=hans
+      - POSTGRE_PORT=5432
+      - POSTGRE_HOST=db
+      - LABEL_STUDIO_HOST=${LABEL_STUDIO_HOST}
+      - JSON_LOG=1
+      - LABEL_STUDIO_ALLOW_ORGANIZATION_WEBHOOKS=true
+      - LABEL_STUDIO_DISABLE_SIGNUP_WITHOUT_LINK=${LABEL_STUDIO_DISABLE_SIGNUP_WITHOUT_LINK:-true}
+    volumes:
+      - ./label-studio-data:/label-studio/data:rw
+    networks:
+      - ext-annotation-tier
+
+  label-studio-app-init:
+    # stdin_open: true
+    # tty: true
+    build: label-studio-init
+    container_name: hans-ext-annotation-label-studio-app-init
+    entrypoint: /bin/bash
+    environment:
+      LABEL_STUDIO_USER: "hans@localhost"
+      LABEL_STUDIO_PASSWORD: "hans"
+      LABEL_STUDIO_USER_TOKEN: "a9cpk42gv748hzs"
+    command:
+      - -c
+      - |
+        ./init.sh -p 8080
+    depends_on:
+      - annotationdb
+      - annotationdb-init
+      - label-studio-nginx    
+      - label-studio-app
+      - label-studio-db
+    networks:
+      - ext-annotation-tier
+
+  label-studio-db:
+    build: 
+      context: label-studio-postgresql
+      dockerfile: Dockerfile
+      args:
+        version: $POSTGRESQL_VERSION
+    container_name: hans-ext-annotation-label-studio-postgresql
+    hostname: db
+    # Please comment out if the docker environment runs as root:
+    user: "$UID:$GID"
+    restart: always
+    # Optional: Enable TLS on PostgreSQL
+    # Just drop your server.crt and server.key into folder 'deploy/pgsql/certs'
+    # NOTE: Both files must have permissions u=rw (0600) or less
+#    command: >
+#      -c ssl=on
+#      -c ssl_cert_file=/var/lib/postgresql/certs/server.crt
+#      -c ssl_key_file=/var/lib/postgresql/certs/server.key
+    environment:
+      - POSTGRES_HOST_AUTH_METHOD=trust
+    volumes:
+      - ${POSTGRES_DATA_DIR:-./postgresql-data}:/var/lib/postgresql/data
+      - ./label-studio-postgresql/certs:/var/lib/postgresql/certs:ro
+    networks:
+      - ext-annotation-tier
+
+  label-studio-task-man:
+    stdin_open: true
+    # tty: true
+    build: label-studio-task-man
+    container_name: hans-ext-annotation-label-studio-task-man
+    entrypoint: /bin/bash
+    volumes:
+      - ./task-import:/task-import:rw
+      # For production optional: Enable TLS
+      # - ./label-studio-nginx/certs/ca.crt:/usr/local/share/ca-certificates/ca.crt:ro
+    environment:
+      LABEL_STUDIO_HOST: ${LABEL_STUDIO_HOST}
+      LABEL_STUDIO_USER: "hans@localhost"
+      LABEL_STUDIO_PASSWORD: "hans"
+      LABEL_STUDIO_USER_TOKEN: "a9cpk42gv748hzs"
+      ANNOTATION_DB_ROOT_USER: "minio"
+      ANNOTATION_DB_ROOT_PASSWORD: "minio123"
+    depends_on:
+      - annotationdb
+      - annotationdb-init
+      - label-studio-nginx
+      - label-studio-app
+      - label-studio-app-init
+      - label-studio-db
+    networks:
+      - ext-annotation-tier
+   
+volumes:
+  static: {}
+
+networks:
+  ext-annotation-tier:
+    # Use a custom driver
+    driver: bridge

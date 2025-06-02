@@ -1,0 +1,14 @@
+{
+    "hans_video_snippets": {
+        "project": -1,
+        "url": "http://localhost.flask:5002/webhook/hans_video_snippets",
+        "send_payload": true,
+        "send_for_all_actions": false,
+        "headers": {},
+        "is_active": true,
+        "actions": [
+            "ANNOTATION_CREATED",
+            "ANNOTATION_UPDATED"
+        ]
+    }
+}

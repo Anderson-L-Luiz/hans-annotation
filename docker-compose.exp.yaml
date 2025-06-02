@@ -1,0 +1,18 @@
+version: "3.8"
+
+services:
+  importer:
+    restart: always
+    build: importer
+    container_name: hans-ext-annotation-importer
+    hostname: importer
+    expose:
+      - 8084
+    depends_on:
+      - label-studio-app
+      - label-studio-db
+      - annotationdb
+      - annotationdb-init
+      - annotation-api
+    networks:
+      - ext-annotation-tier

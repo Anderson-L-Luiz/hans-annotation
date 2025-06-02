@@ -1,0 +1,65 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Directories
+.DS_Store
+**/.DS_Store
+
+# Docker Environment Configuration
+*.env
+
+# labelstud.io related folders
+label-studio-data
+postgresql-data
+annotation-data
+
+# min.io related folders
+minio
+
+# PyCharm Workspace Configuration
+.idea
+__pycache__
+
+# Temporary files
+mc
+scripts/mc
+scripts/_venv_whisper
+annotation-task.json
+temp
+**/temp
+dist
+**/dist
+node_modules
+**/node_modules
+*-task.json
+*.mp4

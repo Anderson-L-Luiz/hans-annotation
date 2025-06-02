@@ -1,0 +1,22 @@
+[
+  {
+    "video": "http://localhost:9001/assets/d6381337-fcaa-47e9-82d8-a98e143670b0.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=minio%2F20220505%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220505T153305Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=1b310ee95fbb6d81c8bbe15dc5058b14df2e99f645043237270d78703c28f6ba",
+    "asrResult": "http://localhost:9001/assets/d6381337-fcaa-47e9-82d8-a98e143670b0.json?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=minio%2F20220505%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220505T153308Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=3c36676f71d8022fd22a9554c8c32c56aa6c2c87c008fe1e2ae8ee3765c57358",
+    "transcript": "http://localhost:9001/assets/d6381337-fcaa-47e9-82d8-a98e143670b0.html?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=minio%2F20220505%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220505T153308Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=5b718f01970c289bcd51a3fd438349f48399018d4329ca9164f44b7cfeb971fb",
+    "id": 6,
+    "annotatorLanguage": "en",
+    "slideVisible": "True",
+    "slideChange": "False",
+    "exampleShown": "True",
+    "exerciseShown": "False",
+    "boardUsed": "True",
+    "topicSwitch": "False",
+    "anonymizationRequired": "True",
+    "asrError": "False",
+    "annotator": 1,
+    "annotation_id": 3,
+    "created_at": "2022-05-06T10:59:55.835961Z",
+    "updated_at": "2022-05-06T10:59:55.835976Z",
+    "lead_time": 17.311
+  }
+]

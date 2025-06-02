@@ -1,0 +1,117 @@
+<View>
+    <Header value="Video Annotation"/>
+    <Header value="Video"/>
+    <Video name="video" value="$video" muted="true" sync="audio" />
+    <Labels name="marker" toName="audio" choice="single">
+      <View style="display: flex; justify-content: space-between;">
+          <View style="width: 30%;">
+            <Header value="Simple Markers" />
+            <Text name="p1">Mark the start of a specific topic, an exercise for the students, or a new chapter:</Text>
+            <Label value="Topic" background="#40FF0D" />
+            <Label value="Exercise" background="#FFD40D" />
+            <Label value="Chapter" background="#19D4FF" />
+          </View>
+          <View style="width: 25%;">
+            <Header value="Lecturer Markers" />
+            <Text name="p2">Mark the start of an example session or board work session started by the lecturer:</Text>
+            <Label value="Example" background="#9A19FF" />
+            <Label value="Board Work" background="#400303" />
+          </View>
+          <View style="width: 25%;">
+            <Header value="Slide Markers" />
+            <Text name="p3">Add a reference to a page number in the presentation slides:</Text>
+            <Label value="Slide Number" background="#1714CC" />
+          </View>
+          <View style="width: 25%;">
+            <Header value="AI-Tutor Markers" />
+            <Text name="p4">Mark a point in time where a Questionnaire incl. questions and answers could be started:</Text>
+            <Label value="Questionnaire" background="#FF0B0D" />
+          </View>
+      </View>
+    </Labels>
+    <View style="display: flex;">
+      <View style="width: 65%;">
+        <Header value="Audio"/>
+        <Text name="p5">Use the markers on the audio track to annotate the video:</Text>
+        <AudioPlus name="audio" value="$video" speed="false" sync="video" />
+      </View>
+      <View style="width: 35%;">
+        <Header value="Transcript" />
+        <View>
+          <Text name="p6">Compare the written text to the spoken audio and mark transcript errors, please mark the whole sentence including the interval:</Text>
+        </View>
+        <View style="display: flex;">
+          <View style="padding: 0em 1em; background: #f1f1f1; margin-right: 1em; border-radius: 3px;">
+            <View style="position: sticky; top: 0;">
+              <Labels name="asrError" toName="transcript">
+                <Label value="Error" background="#FF0B0D"></Label>
+              </Labels>
+            </View>
+          </View>
+          <View style="height: 300px; overflow: auto;">
+            <Style> .asrTranscript { display: inline-grid; }</Style>
+            <HyperText name="transcript" value="$transcript" valueType="url" inline="true" saveTextResult="yes" />
+          </View>
+        </View>
+      </View>
+    </View>
+
+    <View style="padding: 10px 20px; margin-top: 2em; box-shadow: 2px 2px 8px #AAA; margin-right: 1em;"
+          visibleWhen="region-selected" whenLabelValue="Topic">
+      <Header value="Name of the Topic" />
+      <TextArea name="marker_topic_name" toName="audio" perRegion="true" />
+    </View>
+
+    <View style="padding: 10px 20px; margin-top: 2em; box-shadow: 2px 2px 8px #AAA; margin-right: 1em;"
+          visibleWhen="region-selected" whenLabelValue="Exercise">
+      <Header value="Name of the Exercise" />
+      <TextArea name="marker_exercise_name" toName="audio" perRegion="true" />
+    </View>
+
+    <View style="padding: 10px 20px; margin-top: 2em; box-shadow: 2px 2px 8px #AAA; margin-right: 1em;"
+          visibleWhen="region-selected" whenLabelValue="Chapter">
+      <Header value="Name of the Chapter" />
+      <TextArea name="marker_chapter_name" toName="audio" perRegion="true" />
+    </View>
+
+    <View style="padding: 10px 20px; margin-top: 2em; box-shadow: 2px 2px 8px #AAA; margin-right: 1em;"
+          visibleWhen="region-selected" whenLabelValue="Example">
+      <Header value="Name of the Example" />
+      <TextArea name="marker_example_name" toName="audio" perRegion="true" />
+    </View>
+
+    <View style="padding: 10px 20px; margin-top: 2em; box-shadow: 2px 2px 8px #AAA; margin-right: 1em;"
+          visibleWhen="region-selected" whenLabelValue="Board Work">
+      <Header value="Topic of the Board Work" />
+      <TextArea name="marker_boardwork_topic_name" toName="audio" perRegion="true" />
+    </View>
+
+    <View style="padding: 10px 20px; margin-top: 2em; box-shadow: 2px 2px 8px #AAA; margin-right: 1em;"
+          visibleWhen="region-selected" whenLabelValue="Slide Number">
+      <Header value="Page Number of the Slide" />
+      <Number name="marker_slide_number" toName="audio" min="1" perRegion="true" />
+    </View>
+
+    <View style="padding: 10px 20px; margin-top: 2em; box-shadow: 2px 2px 8px #AAA; margin-right: 1em;"
+          visibleWhen="region-selected" whenLabelValue="Questionnaire">
+      <Header value="Questionnaire" />
+      <View style="display: grid;  grid-template-columns: 1fr 1fr; max-height: 600px; width: 400px;">
+        <TextArea name="marker_questionnaire_question_1" toName="audio" placeholder="question" editable="true" maxSubmissions="1" perRegion="true"/>
+        <TextArea name="marker_questionnaire_answer_1" toName="audio" placeholder="answer" editable="true" maxSubmissions="1" perRegion="true"/>
+        <TextArea name="marker_questionnaire_question_2" toName="audio" placeholder="question" editable="true" maxSubmissions="1" perRegion="true"/>
+        <TextArea name="marker_questionnaire_answer_2" toName="audio" placeholder="answer" editable="true" maxSubmissions="1" perRegion="true"/>
+        <TextArea name="marker_questionnaire_question_3" toName="audio" placeholder="question" editable="true" maxSubmissions="1" perRegion="true"/>
+        <TextArea name="marker_questionnaire_answer_3" toName="audio" placeholder="answer" editable="true" maxSubmissions="1" perRegion="true"/>
+        <TextArea name="marker_questionnaire_question_4" toName="audio" placeholder="question" editable="true" maxSubmissions="1" perRegion="true"/>
+        <TextArea name="marker_questionnaire_answer_4" toName="audio" placeholder="answer" editable="true" maxSubmissions="1" perRegion="true"/>
+        <TextArea name="marker_questionnaire_question_5" toName="audio" placeholder="question" editable="true" maxSubmissions="1" perRegion="true"/>
+        <TextArea name="marker_questionnaire_answer_5" toName="audio" placeholder="answer" editable="true" maxSubmissions="1" perRegion="true"/>
+        <TextArea name="marker_questionnaire_question_6" toName="audio" placeholder="question" editable="true" maxSubmissions="1" perRegion="true"/>
+        <TextArea name="marker_questionnaire_answer_6" toName="audio" placeholder="answer" editable="true" maxSubmissions="1" perRegion="true"/>
+        <TextArea name="marker_questionnaire_question_7" toName="audio" placeholder="question" editable="true" maxSubmissions="1" perRegion="true"/>
+        <TextArea name="marker_questionnaire_answer_7" toName="audio" placeholder="answer" editable="true" maxSubmissions="1" perRegion="true"/>
+        <TextArea name="marker_questionnaire_question_8" toName="audio" placeholder="question" editable="true" maxSubmissions="1" perRegion="true"/>
+        <TextArea name="marker_questionnaire_answer_8" toName="audio" placeholder="answer" editable="true" maxSubmissions="1" perRegion="true"/>
+      </View>
+    </View>
+</View>

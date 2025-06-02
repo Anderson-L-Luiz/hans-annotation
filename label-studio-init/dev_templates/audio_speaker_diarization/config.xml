@@ -1,0 +1,25 @@
+<View>
+  <Header value="Speaker Diarization" />
+
+  <Choices name="annotatorLanguage" toName="audio" choice="single-radio" required="true" showInline="true">
+      <Choice value="English" alias="en" />
+      <Choice value="German" alias="de" selected="true" />
+  </Choices>
+  <View visibleWhen="choice-selected" whenTagName="annotatorLanguage" whenChoiceValue="English">
+      <Header value="Listen to the following audio file." />
+      <Header value="The main speaker should be marked in the audio using the blue color." style="color: blue" />
+      <Header value="Other speakers should be marked in the audio using the red color." style="color: red" />
+      <Header value="Mark the regions of the audible speakers accordingly:" />
+  </View>
+  <View visibleWhen="choice-selected" whenTagName="annotatorLanguage" whenChoiceValue="German">
+      <Header value="Hören Sie sich die Audio-Datei an." />
+      <Header value="Der/die Vortragende Hauptsprecher(in) wird in Blau markiert." style="color: blue" />
+      <Header value="Andere Sprecher(innen) werden in Rot markiert." style="color: red" />
+      <Header value="Markieren Sie die Bereiche der jeweiligen hörbaren Sprecher(innen):" />
+  </View>
+  <Labels name="label" toName="audio" choice="single">
+      <Label value=" " alias="MainSpeaker" background="blue" />
+      <Label value=" " alias="OtherSpeaker" background="red" />
+  </Labels>
+  <AudioPlus name="audio" value="$audio" />
+</View>

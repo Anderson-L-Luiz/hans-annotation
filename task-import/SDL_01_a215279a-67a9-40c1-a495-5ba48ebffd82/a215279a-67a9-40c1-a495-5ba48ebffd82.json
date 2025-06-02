@@ -1,0 +1,7957 @@
+{
+  "result": [
+    {
+      "interval": [
+        0.0,
+        6.54
+      ],
+      "transcript": "Ich freue mich sehr, heute die komplexe Thematik der Service-Dominant-Logic erklären zu dürfen.",
+      "result_index": 0,
+      "confidence": 0.948,
+      "words": [
+        {
+          "interval": [
+            0.0,
+            0.44
+          ],
+          "word": "Ich",
+          "word_index": 0,
+          "confidence": 0.988
+        },
+        {
+          "interval": [
+            0.44,
+            0.72
+          ],
+          "word": "freue",
+          "word_index": 1,
+          "confidence": 0.998
+        },
+        {
+          "interval": [
+            0.72,
+            0.92
+          ],
+          "word": "mich",
+          "word_index": 2,
+          "confidence": 1.0
+        },
+        {
+          "interval": [
+            0.92,
+            1.32
+          ],
+          "word": "sehr,",
+          "word_index": 3,
+          "confidence": 0.966
+        },
+        {
+          "interval": [
+            1.4,
+            1.64
+          ],
+          "word": "heute",
+          "word_index": 4,
+          "confidence": 0.999
+        },
+        {
+          "interval": [
+            1.64,
+            1.84
+          ],
+          "word": "die",
+          "word_index": 5,
+          "confidence": 1.0
+        },
+        {
+          "interval": [
+            1.84,
+            2.6
+          ],
+          "word": "komplexe",
+          "word_index": 6,
+          "confidence": 0.999
+        },
+        {
+          "interval": [
+            2.6,
+            3.24
+          ],
+          "word": "Thematik",
+          "word_index": 7,
+          "confidence": 0.997
+        },
+        {
+          "interval": [
+            3.24,
+            3.46
+          ],
+          "word": "der",
+          "word_index": 8,
+          "confidence": 0.996
+        },
+        {
+          "interval": [
+            3.46,
+            4.88
+          ],
+          "word": "Service-Dominant-Logic",
+          "word_index": 9,
+          "confidence": 0.871
+        },
+        {
+          "interval": [
+            4.88,
+            5.5
+          ],
+          "word": "[*]",
+          "word_index": 10,
+          "confidence": 0
+        },
+        {
+          "interval": [
+            5.5,
+            5.76
+          ],
+          "word": "erklären",
+          "word_index": 11,
+          "confidence": 0.919
+        },
+        {
+          "interval": [
+            5.76,
+            6.16
+          ],
+          "word": "zu",
+          "word_index": 12,
+          "confidence": 1.0
+        },
+        {
+          "interval": [
+            6.16,
+            6.54
+          ],
+          "word": "dürfen.",
+          "word_index": 13,
+          "confidence": 0.999
+        }
+      ]
+    },
+    {
+      "interval": [
+        7.5,
+        18.21
+      ],
+      "transcript": "Service-Dominant-Logic bedeutet, egal was ein Unternehmen verkauft, es geht um den Nutzen oder den Service, den eine Leistung spendet.",
+      "result_index": 1,
+      "confidence": 0.86,
+      "words": [
+        {
+          "interval": [
+            7.5,
+            7.87
+          ],
+          "word": "[*]",
+          "word_index": 14,
+          "confidence": 0
+        },
+        {
+          "interval": [
+            7.87,
+            9.25
+          ],
+          "word": "Service-Dominant-Logic",
+          "word_index": 15,
+          "confidence": 0.634
+        },
+        {
+          "interval": [
+            9.25,
+            9.83
+          ],
+          "word": "[*]",
+          "word_index": 16,
+          "confidence": 0
+        },
+        {
+          "interval": [
+            9.83,
+            10.13
+          ],
+          "word": "bedeutet,",
+          "word_index": 17,
+          "confidence": 0.785
+        },
+        {
+          "interval": [
+            10.53,
+            10.97
+          ],
+          "word": "egal",
+          "word_index": 18,
+          "confidence": 0.988
+        },
+        {
+          "interval": [
+            10.97,
+            11.41
+          ],
+          "word": "was",
+          "word_index": 19,
+          "confidence": 0.97
+        },
+        {
+          "interval": [
+            11.41,
+            11.59
+          ],
+          "word": "ein",
+          "word_index": 20,
+          "confidence": 0.994
+        },
+        {
+          "interval": [
+            11.59,
+            12.01
+          ],
+          "word": "Unternehmen",
+          "word_index": 21,
+          "confidence": 0.995
+        },
+        {
+          "interval": [
+            12.01,
+            12.83
+          ],
+          "word": "verkauft,",
+          "word_index": 22,
+          "confidence": 0.99
+        },
+        {
+          "interval": [
+            12.93,
+            13.15
+          ],
+          "word": "es",
+          "word_index": 23,
+          "confidence": 0.736
+        },
+        {
+          "interval": [
+            13.15,
+            13.39
+          ],
+          "word": "geht",
+          "word_index": 24,
+          "confidence": 0.998
+        },
+        {
+          "interval": [
+            13.39,
+            13.57
+          ],
+          "word": "um",
+          "word_index": 25,
+          "confidence": 0.975
+        },
+        {
+          "interval": [
+            13.57,
+            13.79
+          ],
+          "word": "den",
+          "word_index": 26,
+          "confidence": 0.968
+        },
+        {
+          "interval": [
+            13.79,
+            14.37
+          ],
+          "word": "Nutzen",
+          "word_index": 27,
+          "confidence": 0.944
+        },
+        {
+          "interval": [
+            14.37,
+            14.77
+          ],
+          "word": "oder",
+          "word_index": 28,
+          "confidence": 0.914
+        },
+        {
+          "interval": [
+            14.77,
+            14.97
+          ],
+          "word": "den",
+          "word_index": 29,
+          "confidence": 0.99
+        },
+        {
+          "interval": [
+            14.97,
+            15.49
+          ],
+          "word": "Service,",
+          "word_index": 30,
+          "confidence": 0.997
+        },
+        {
+          "interval": [
+            15.49,
+            15.79
+          ],
+          "word": "[*]",
+          "word_index": 31,
+          "confidence": 0
+        },
+        {
+          "interval": [
+            15.79,
+            16.33
+          ],
+          "word": "den",
+          "word_index": 32,
+          "confidence": 0.963
+        },
+        {
+          "interval": [
+            16.33,
+            16.47
+          ],
+          "word": "eine",
+          "word_index": 33,
+          "confidence": 1.0
+        },
+        {
+          "interval": [
+            16.47,
+            17.27
+          ],
+          "word": "Leistung",
+          "word_index": 34,
+          "confidence": 1.0
+        },
+        {
+          "interval": [
+            17.27,
+            18.21
+          ],
+          "word": "spendet.",
+          "word_index": 35,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "interval": [
+        18.21,
+        33.55
+      ],
+      "transcript": "Am Beispiel des Krankenhauses. Ein Krankenhaus liefert höchste medizinische Versorgung versus die Menschen verlassen einen Gesundheitsdienstleister mit einer besseren Lebensqualität.",
+      "result_index": 2,
+      "confidence": 0.978,
+      "words": [
+        {
+          "interval": [
+            18.21,
+            19.23
+          ],
+          "word": "[*]",
+          "word_index": 36,
+          "confidence": 0
+        },
+        {
+          "interval": [
+            19.23,
+            19.49
+          ],
+          "word": "Am",
+          "word_index": 37,
+          "confidence": 0.853
+        },
+        {
+          "interval": [
+            19.49,
+            19.85
+          ],
+          "word": "Beispiel",
+          "word_index": 38,
+          "confidence": 0.998
+        },
+        {
+          "interval": [
+            19.85,
+            20.07
+          ],
+          "word": "des",
+          "word_index": 39,
+          "confidence": 0.996
+        },
+        {
+          "interval": [
+            20.07,
+            20.99
+          ],
+          "word": "Krankenhauses.",
+          "word_index": 40,
+          "confidence": 0.902
+        },
+        {
+          "interval": [
+            21.05,
+            21.41
+          ],
+          "word": "Ein",
+          "word_index": 41,
+          "confidence": 0.959
+        },
+        {
+          "interval": [
+            21.41,
+            22.13
+          ],
+          "word": "Krankenhaus",
+          "word_index": 42,
+          "confidence": 1.0
+        },
+        {
+          "interval": [
+            22.13,
+            22.79
+          ],
+          "word": "liefert",
+          "word_index": 43,
+          "confidence": 0.999
+        },
+        {
+          "interval": [
+            22.79,
+            23.13
+          ],
+          "word": "[*]",
+          "word_index": 44,
+          "confidence": 0
+        },
+        {
+          "interval": [
+            23.13,
+            24.27
+          ],
+          "word": "höchste",
+          "word_index": 45,
+          "confidence": 0.997
+        },
+        {
+          "interval": [
+            24.27,
+            24.85
+          ],
+          "word": "medizinische",
+          "word_index": 46,
+          "confidence": 0.999
+        },
+        {
+          "interval": [
+            24.85,
+            25.75
+          ],
+          "word": "Versorgung",
+          "word_index": 47,
+          "confidence": 0.999
+        },
+        {
+          "interval": [
+            25.75,
+            26.35
+          ],
+          "word": "[*]",
+          "word_index": 48,
+          "confidence": 0
+        },
+        {
+          "interval": [
+            26.35,
+            26.53
+          ],
+          "word": "versus",
+          "word_index": 49,
+          "confidence": 0.949
+        },
+        {
+          "interval": [
+            26.53,
+            27.57
+          ],
+          "word": "[*]",
+          "word_index": 50,
+          "confidence": 0
+        },
+        {
+          "interval": [
+            27.57,
+            27.83
+          ],
+          "word": "die",
+          "word_index": 51,
+          "confidence": 0.835
+        },
+        {
+          "interval": [
+            27.83,
+            28.07
+          ],
+          "word": "[*]",
+          "word_index": 52,
+          "confidence": 0
+        },
+        {
+          "interval": [
+            28.07,
+            28.21
+          ],
+          "word": "Menschen",
+          "word_index": 53,
+          "confidence": 0.999
+        },
+        {
+          "interval": [
+            28.21,
+            28.85
+          ],
+          "word": "verlassen",
+          "word_index": 54,
+          "confidence": 1.0
+        },
+        {
+          "interval": [
+            28.85,
+            29.13
+          ],
+          "word": "[*]",
+          "word_index": 55,
+          "confidence": 0
+        },
+        {
+          "interval": [
+            29.13,
+            29.25
+          ],
+          "word": "einen",
+          "word_index": 56,
+          "confidence": 0.999
+        },
+        {
+          "interval": [
+            29.25,
+            29.53
+          ],
+          "word": "[*]",
+          "word_index": 57,
+          "confidence": 0
+        },
+        {
+          "interval": [
+            29.53,
+            31.19
+          ],
+          "word": "Gesundheitsdienstleister",
+          "word_index": 58,
+          "confidence": 1.0
+        },
+        {
+          "interval": [
+            31.19,
+            31.43
+          ],
+          "word": "mit",
+          "word_index": 59,
+          "confidence": 1.0
+        },
+        {
+          "interval": [
+            31.43,
+            31.61
+          ],
+          "word": "einer",
+          "word_index": 60,
+          "confidence": 1.0
+        },
+        {
+          "interval": [
+            31.61,
+            32.15
+          ],
+          "word": "besseren",
+          "word_index": 61,
+          "confidence": 1.0
+        },
+        {
+          "interval": [
+            32.15,
+            33.55
+          ],
+          "word": "Lebensqualität.",
+          "word_index": 62,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "interval": [
+        34.51,
+        45.08
+      ],
+      "transcript": "Die Service-Dominant-Logic basiert auf zehn fundamentalen Prämissen, wovon ich gerne im Folgenden die aus meiner Sicht vier wichtigsten näher erklären möchte.",
+      "result_index": 3,
+      "confidence": 0.876,
+      "words": [
+        {
+          "interval": [
+            34.51,
+            35.0
+          ],
+          "word": "Die",
+          "word_index": 63,
+          "confidence": 0.95
+        },
+        {
+          "interval": [
+            35.0,
+            36.16
+          ],
+          "word": "Service-Dominant-Logic",
+          "word_index": 64,
+          "confidence": 0.828
+        },
+        {
+          "interval": [
+            36.16,
+            36.68
+          ],
+          "word": "basiert",
+          "word_index": 65,
+          "confidence": 0.996
+        },
+        {
+          "interval": [
+            36.68,
+            36.88
+          ],
+          "word": "auf",
+          "word_index": 66,
+          "confidence": 0.997
+        },
+        {
+          "interval": [
+            36.88,
+            37.18
+          ],
+          "word": "zehn",
+          "word_index": 67,
+          "confidence": 0.762
+        },
+        {
+          "interval": [
+            37.18,
+            37.48
+          ],
+          "word": "[*]",
+          "word_index": 68,
+          "confidence": 0
+        },
+        {
+          "interval": [
+            37.48,
+            38.44
+          ],
+          "word": "fundamentalen",
+          "word_index": 69,
+          "confidence": 0.994
+        },
+        {
+          "interval": [
+            38.44,
+            38.96
+          ],
+          "word": "Prämissen,",
+          "word_index": 70,
+          "confidence": 0.985
+        },
+        {
+          "interval": [
+            39.12,
+            40.08
+          ],
+          "word": "wovon",
+          "word_index": 71,
+          "confidence": 0.805
+        },
+        {
+          "interval": [
+            40.08,
+            40.14
+          ],
+          "word": "ich",
+          "word_index": 72,
+          "confidence": 0.982
+        },
+        {
+          "interval": [
+            40.14,
+            40.3
+          ],
+          "word": "[*]",
+          "word_index": 73,
+          "confidence": 0
+        },
+        {
+          "interval": [
+            40.3,
+            40.44
+          ],
+          "word": "gerne",
+          "word_index": 74,
+          "confidence": 0.902
+        },
+        {
+          "interval": [
+            40.44,
+            40.6
+          ],
+          "word": "im",
+          "word_index": 75,
+          "confidence": 0.478
+        },
+        {
+          "interval": [
+            40.6,
+            41.18
+          ],
+          "word": "Folgenden",
+          "word_index": 76,
+          "confidence": 0.669
+        },
+        {
+          "interval": [
+            41.18,
+            41.44
+          ],
+          "word": "die",
+          "word_index": 77,
+          "confidence": 0.801
+        },
+        {
+          "interval": [
+            41.44,
+            41.6
+          ],
+          "word": "aus",
+          "word_index": 78,
+          "confidence": 0.886
+        },
+        {
+          "interval": [
+            41.6,
+            42.06
+          ],
+          "word": "meiner",
+          "word_index": 79,
+          "confidence": 0.984
+        },
+        {
+          "interval": [
+            42.06,
+            42.38
+          ],
+          "word": "Sicht",
+          "word_index": 80,
+          "confidence": 0.984
+        },
+        {
+          "interval": [
+            42.38,
+            42.74
+          ],
+          "word": "vier",
+          "word_index": 81,
+          "confidence": 0.928
+        },
+        {
+          "interval": [
+            42.74,
+            43.62
+          ],
+          "word": "wichtigsten",
+          "word_index": 82,
+          "confidence": 0.967
+        },
+        {
+          "interval": [
+            43.62,
+            44.34
+          ],
+          "word": "näher",
+          "word_index": 83,
+          "confidence": 0.988
+        },
+        {
+          "interval": [
+            44.34,
+            44.54
+          ],
+          "word": "erklären",
+          "word_index": 84,
+          "confidence": 0.994
+        },
+        {
+          "interval": [
+            44.54,
+            44.82
+          ],
+          "word": "[*]",
+          "word_index": 85,
+          "confidence": 0
+        },
+        {
+          "interval": [
+            44.82,
+            45.08
+          ],
+          "word": "möchte.",
+          "word_index": 86,
+          "confidence": 0.97
+        }
+      ]
+    },
+    {
+      "interval": [
+        45.46,
+        47.84
+      ],
+      "transcript": "Fundamentale Prämisse Nummer eins.",
+      "result_index": 4,
+      "confidence": 0.828,
+      "words": [
+        {
+          "interval": [
+            45.46,
+            46.68
+          ],
+          "word": "Fundamentale",
+          "word_index": 87,
+          "confidence": 0.994
+        },
+        {
+          "interval": [
+            46.68,
+            47.12
+          ],
+          "word": "Prämisse",
+          "word_index": 88,
+          "confidence": 0.999
+        },
+        {
+          "interval": [
+            47.12,
+            47.4
+          ],
+          "word": "Nummer",
+          "word_index": 89,
+          "confidence": 0.944
+        },
+        {
+          "interval": [
+            47.4,
+            47.84
+          ],
+          "word": "eins.",
+          "word_index": 90,
+          "confidence": 0.445
+        }
+      ]
+    },
+    {
+      "interval": [
+        48.18,
+        53.66
+      ],
+      "transcript": "Die Basis eines jeden Leistungsaustausches ist Service gegen Service.",
+      "result_index": 5,
+      "confidence": 0.989,
+      "words": [
+        {
+          "interval": [
+            48.18,
+            48.68
+          ],
+          "word": "Die",
+          "word_index": 91,
+          "confidence": 0.915
+        },
+        {
+          "interval": [
+            48.68,
+            49.26
+          ],
+          "word": "Basis",
+          "word_index": 92,
+          "confidence": 0.999
+        },
+        {
+          "interval": [
+            49.26,
+            49.54
+          ],
+          "word": "eines",
+          "word_index": 93,
+          "confidence": 0.999
+        },
+        {
+          "interval": [
+            49.54,
+            49.92
+          ],
+          "word": "jeden",
+          "word_index": 94,
+          "confidence": 0.997
+        },
+        {
+          "interval": [
+            49.92,
+            51.72
+          ],
+          "word": "Leistungsaustausches",
+          "word_index": 95,
+          "confidence": 0.994
+        },
+        {
+          "interval": [
+            51.72,
+            52.02
+          ],
+          "word": "ist",
+          "word_index": 96,
+          "confidence": 0.99
+        },
+        {
+          "interval": [
+            52.02,
+            52.5
+          ],
+          "word": "Service",
+          "word_index": 97,
+          "confidence": 0.99
+        },
+        {
+          "interval": [
+            52.5,
+            53.18
+          ],
+          "word": "gegen",
+          "word_index": 98,
+          "confidence": 0.996
+        },
+        {
+          "interval": [
+            53.18,
+            53.2
+          ],
+          "word": "[*]",
+          "word_index": 99,
+          "confidence": 0
+        },
+        {
+          "interval": [
+            53.2,
+            53.66
+          ],
+          "word": "Service.",
+          "word_index": 100,
+          "confidence": 0.992
+        }
+      ]
+    },
+    {
+      "interval": [
+        53.66,
+        67.48
+      ],
+      "transcript": "Der Service von Tesla. Elektromobilität, ressourcenschonend, mit einem flächendeckenden Strom-Tankstellennetzwerk, komfortabel.",
+      "result_index": 6,
+      "confidence": 0.871,
+      "words": [
+        {
+          "interval": [
+            53.66,
+            53.96
+          ],
+          "word": "[*]",
+          "word_index": 101,
+          "confidence": 0
+        },
+        {
+          "interval": [
+            53.96,
+            54.66
+          ],
+          "word": "Der",
+          "word_index": 102,
+          "confidence": 0.897
+        },
+        {
+          "interval": [
+            54.66,
+            55.0
+          ],
+          "word": "Service",
+          "word_index": 103,
+          "confidence": 0.98
+        },
+        {
+          "interval": [
+            55.0,
+            55.22
+          ],
+          "word": "von",
+          "word_index": 104,
+          "confidence": 0.992
+        },
+        {
+          "interval": [
+            55.22,
+            55.38
+          ],
+          "word": "[*]",
+          "word_index": 105,
+          "confidence": 0
+        },
+        {
+          "interval": [
+            55.38,
+            55.6
+          ],
+          "word": "Tesla.",
+          "word_index": 106,
+          "confidence": 0.247
+        },
+        {
+          "interval": [
+            55.94,
+            56.66
+          ],
+          "word": "[*]",
+          "word_index": 107,
+          "confidence": 0
+        },
+        {
+          "interval": [
+            57.64,
+            58.84
+          ],
+          "word": "Elektromobilität,",
+          "word_index": 108,
+          "confidence": 0.929
+        },
+        {
+          "interval": [
+            59.06,
+            59.76
+          ],
+          "word": "[*]",
+          "word_index": 109,
+          "confidence": 0
+        },
+        {
+          "interval": [
+            59.76,
+            61.2
+          ],
+          "word": "ressourcenschonend,",
+          "word_index": 110,
+          "confidence": 0.968
+        },
+        {
+          "interval": [
+            61.34,
+            61.66
+          ],
+          "word": "[*]",
+          "word_index": 111,
+          "confidence": 0
+        },
+        {
+          "interval": [
+            61.66,
+            61.96
+          ],
+          "word": "mit",
+          "word_index": 112,
+          "confidence": 0.88
+        },
+        {
+          "interval": [
+            61.96,
+            62.18
+          ],
+          "word": "einem",
+          "word_index": 113,
+          "confidence": 0.994
+        },
+        {
+          "interval": [
+            62.18,
+            63.34
+          ],
+          "word": "flächendeckenden",
+          "word_index": 114,
+          "confidence": 0.992
+        },
+        {
+          "interval": [
+            63.34,
+            63.72
+          ],
+          "word": "[*]",
+          "word_index": 115,
+          "confidence": 0
+        },
+        {
+          "interval": [
+            63.72,
+            66.14
+          ],
+          "word": "Strom-Tankstellennetzwerk,",
+          "word_index": 116,
+          "confidence": 0.862
+        },
+        {
+          "interval": [
+            66.24,
+            67.48
+          ],
+          "word": "komfortabel.",
+          "word_index": 117,
+          "confidence": 0.98
+        }
+      ]
+    },
+    {
+      "interval": [
+        68.78,
+        75.82
+      ],
+      "transcript": "Der Service, den der Kunde liefert, ist dafür zu bezahlen im Anschaffungspreis.",
+      "result_index": 7,
+      "confidence": 0.987,
+      "words": [
+        {
+          "interval": [
+            68.78,
+            69.3
+          ],
+          "word": "Der",
+          "word_index": 118,
+          "confidence": 0.988
+        },
+        {
+          "interval": [
+            69.3,
+            69.68
+          ],
+          "word": "Service,",
+          "word_index": 119,
+          "confidence": 0.984
+        },
+        {
+          "interval": [
+            69.88,
+            70.26
+          ],
+          "word": "den",
+          "word_index": 120,
+          "confidence": 0.999
+        },
+        {
+          "interval": [
+            70.26,
+            70.36
+          ],
+          "word": "der",
+          "word_index": 121,
+          "confidence": 1.0
+        },
+        {
+          "interval": [
+            70.36,
+            70.9
+          ],
+          "word": "Kunde",
+          "word_index": 122,
+          "confidence": 0.999
+        },
+        {
+          "interval": [
+            70.9,
+            71.6
+          ],
+          "word": "liefert,",
+          "word_index": 123,
+          "confidence": 0.993
+        },
+        {
+          "interval": [
+            71.84,
+            72.4
+          ],
+          "word": "[*]",
+          "word_index": 124,
+          "confidence": 0
+        },
+        {
+          "interval": [
+            72.4,
+            72.68
+          ],
+          "word": "ist",
+          "word_index": 125,
+          "confidence": 0.98
+        },
+        {
+          "interval": [
+            72.68,
+            73.06
+          ],
+          "word": "dafür",
+          "word_index": 126,
+          "confidence": 0.966
+        },
+        {
+          "interval": [
+            73.06,
+            73.26
+          ],
+          "word": "zu",
+          "word_index": 127,
+          "confidence": 0.999
+        },
+        {
+          "interval": [
+            73.26,
+            74.14
+          ],
+          "word": "bezahlen",
+          "word_index": 128,
+          "confidence": 0.998
+        },
+        {
+          "interval": [
+            74.14,
+            74.56
+          ],
+          "word": "im",
+          "word_index": 129,
+          "confidence": 0.914
+        },
+        {
+          "interval": [
+            74.56,
+            75.82
+          ],
+          "word": "Anschaffungspreis.",
+          "word_index": 130,
+          "confidence": 0.987
+        }
+      ]
+    },
+    {
+      "interval": [
+        75.82,
+        79.38
+      ],
+      "transcript": "Aber auch die Gebühren für die Leistung.",
+      "result_index": 8,
+      "confidence": 0.264,
+      "words": [
+        {
+          "interval": [
+            75.82,
+            76.58
+          ],
+          "word": "[*]",
+          "word_index": 131,
+          "confidence": 0
+        },
+        {
+          "interval": [
+            76.58,
+            76.82
+          ],
+          "word": "Aber",
+          "word_index": 132,
+          "confidence": 0.186
+        },
+        {
+          "interval": [
+            76.82,
+            77.26
+          ],
+          "word": "auch",
+          "word_index": 133,
+          "confidence": 0.996
+        },
+        {
+          "interval": [
+            77.26,
+            77.9
+          ],
+          "word": "[*]",
+          "word_index": 134,
+          "confidence": 0
+        },
+        {
+          "interval": [
+            77.9,
+            78.56
+          ],
+          "word": "die",
+          "word_index": 135,
+          "confidence": 0.984
+        },
+        {
+          "interval": [
+            78.56,
+            79.0
+          ],
+          "word": "Gebühren",
+          "word_index": 136,
+          "confidence": 0.998
+        },
+        {
+          "interval": [
+            79.0,
+            79.14
+          ],
+          "word": "für",
+          "word_index": 137,
+          "confidence": 0.989
+        },
+        {
+          "interval": [
+            79.14,
+            79.24
+          ],
+          "word": "die",
+          "word_index": 138,
+          "confidence": 0.993
+        },
+        {
+          "interval": [
+            79.24,
+            79.38
+          ],
+          "word": "Leistung.",
+          "word_index": 139,
+          "confidence": 0.021
+        }
+      ]
+    },
+    {
+      "interval": [
+        79.38,
+        85.02
+      ],
+      "transcript": "Die Strom-Tankstellen natürlich zu entrichten, beziehungsweise Daten zu liefern.",
+      "result_index": 9,
+      "confidence": 0.535,
+      "words": [
+        {
+          "interval": [
+            79.38,
+            79.4
+          ],
+          "word": "Die",
+          "word_index": 140,
+          "confidence": 0.004
+        },
+        {
+          "interval": [
+            79.4,
+            80.2
+          ],
+          "word": "Strom-Tankstellen",
+          "word_index": 141,
+          "confidence": 0.385
+        },
+        {
+          "interval": [
+            80.2,
+            80.52
+          ],
+          "word": "[*]",
+          "word_index": 142,
+          "confidence": 0
+        },
+        {
+          "interval": [
+            80.52,
+            80.72
+          ],
+          "word": "natürlich",
+          "word_index": 143,
+          "confidence": 0.808
+        },
+        {
+          "interval": [
+            80.72,
+            81.04
+          ],
+          "word": "zu",
+          "word_index": 144,
+          "confidence": 0.98
+        },
+        {
+          "interval": [
+            81.04,
+            81.64
+          ],
+          "word": "entrichten,",
+          "word_index": 145,
+          "confidence": 0.646
+        },
+        {
+          "interval": [
+            81.86,
+            83.2
+          ],
+          "word": "beziehungsweise",
+          "word_index": 146,
+          "confidence": 0.864
+        },
+        {
+          "interval": [
+            83.2,
+            83.7
+          ],
+          "word": "Daten",
+          "word_index": 147,
+          "confidence": 0.985
+        },
+        {
+          "interval": [
+            83.7,
+            84.44
+          ],
+          "word": "zu",
+          "word_index": 148,
+          "confidence": 0.99
+        },
+        {
+          "interval": [
+            84.44,
+            85.02
+          ],
+          "word": "liefern.",
+          "word_index": 149,
+          "confidence": 0.977
+        }
+      ]
+    },
+    {
+      "interval": [
+        86.8,
+        89.01
+      ],
+      "transcript": "Fundamentale Prämisse Nummer zwei.",
+      "result_index": 10,
+      "confidence": 0.866,
+      "words": [
+        {
+          "interval": [
+            86.8,
+            86.91
+          ],
+          "word": "[*]",
+          "word_index": 150,
+          "confidence": 0
+        },
+        {
+          "interval": [
+            86.91,
+            87.85
+          ],
+          "word": "Fundamentale",
+          "word_index": 151,
+          "confidence": 0.994
+        },
+        {
+          "interval": [
+            87.85,
+            88.29
+          ],
+          "word": "Prämisse",
+          "word_index": 152,
+          "confidence": 0.999
+        },
+        {
+          "interval": [
+            88.29,
+            88.55
+          ],
+          "word": "Nummer",
+          "word_index": 153,
+          "confidence": 0.943
+        },
+        {
+          "interval": [
+            88.55,
+            89.01
+          ],
+          "word": "zwei.",
+          "word_index": 154,
+          "confidence": 0.543
+        }
+      ]
+    },
+    {
+      "interval": [
+        89.51,
+        93.47
+      ],
+      "transcript": "Der Kunde ist immer Mitgestalter des Wertes.",
+      "result_index": 11,
+      "confidence": 0.978,
+      "words": [
+        {
+          "interval": [
+            89.51,
+            90.01
+          ],
+          "word": "Der",
+          "word_index": 155,
+          "confidence": 0.867
+        },
+        {
+          "interval": [
+            90.01,
+            90.43
+          ],
+          "word": "Kunde",
+          "word_index": 156,
+          "confidence": 0.987
+        },
+        {
+          "interval": [
+            90.43,
+            90.61
+          ],
+          "word": "ist",
+          "word_index": 157,
+          "confidence": 0.998
+        },
+        {
+          "interval": [
+            90.61,
+            91.01
+          ],
+          "word": "immer",
+          "word_index": 158,
+          "confidence": 0.996
+        },
+        {
+          "interval": [
+            91.01,
+            92.43
+          ],
+          "word": "Mitgestalter",
+          "word_index": 159,
+          "confidence": 0.989
+        },
+        {
+          "interval": [
+            92.43,
+            92.69
+          ],
+          "word": "des",
+          "word_index": 160,
+          "confidence": 0.996
+        },
+        {
+          "interval": [
+            92.69,
+            93.47
+          ],
+          "word": "Wertes.",
+          "word_index": 161,
+          "confidence": 0.982
+        }
+      ]
+    },
+    {
+      "interval": [
+        93.51,
+        98.85
+      ],
+      "transcript": "Das heißt, es kommt sehr stark darauf an, wie er das Auto nutzt.",
+      "result_index": 12,
+      "confidence": 0.986,
+      "words": [
+        {
+          "interval": [
+            93.51,
+            93.99
+          ],
+          "word": "Das",
+          "word_index": 162,
+          "confidence": 0.888
+        },
+        {
+          "interval": [
+            93.99,
+            94.23
+          ],
+          "word": "heißt,",
+          "word_index": 163,
+          "confidence": 0.957
+        },
+        {
+          "interval": [
+            94.31,
+            94.43
+          ],
+          "word": "es",
+          "word_index": 164,
+          "confidence": 0.999
+        },
+        {
+          "interval": [
+            94.43,
+            94.61
+          ],
+          "word": "kommt",
+          "word_index": 165,
+          "confidence": 1.0
+        },
+        {
+          "interval": [
+            94.61,
+            94.85
+          ],
+          "word": "sehr",
+          "word_index": 166,
+          "confidence": 1.0
+        },
+        {
+          "interval": [
+            94.85,
+            95.27
+          ],
+          "word": "stark",
+          "word_index": 167,
+          "confidence": 1.0
+        },
+        {
+          "interval": [
+            95.27,
+            95.59
+          ],
+          "word": "darauf",
+          "word_index": 168,
+          "confidence": 1.0
+        },
+        {
+          "interval": [
+            95.59,
+            95.99
+          ],
+          "word": "an,",
+          "word_index": 169,
+          "confidence": 0.996
+        },
+        {
+          "interval": [
+            96.09,
+            96.55
+          ],
+          "word": "[*]",
+          "word_index": 170,
+          "confidence": 0
+        },
+        {
+          "interval": [
+            96.55,
+            96.85
+          ],
+          "word": "wie",
+          "word_index": 171,
+          "confidence": 0.987
+        },
+        {
+          "interval": [
+            96.85,
+            97.33
+          ],
+          "word": "er",
+          "word_index": 172,
+          "confidence": 0.998
+        },
+        {
+          "interval": [
+            97.33,
+            97.63
+          ],
+          "word": "das",
+          "word_index": 173,
+          "confidence": 0.999
+        },
+        {
+          "interval": [
+            97.63,
+            98.09
+          ],
+          "word": "Auto",
+          "word_index": 174,
+          "confidence": 0.999
+        },
+        {
+          "interval": [
+            98.09,
+            98.85
+          ],
+          "word": "nutzt.",
+          "word_index": 175,
+          "confidence": 0.998
+        }
+      ]
+    },
+    {
+      "interval": [
+        100.22,
+        103.82
+      ],
+      "transcript": "Ob er entsprechend plant.",
+      "result_index": 13,
+      "confidence": 0.589,
+      "words": [
+        {
+          "interval": [
+            100.22,
+            100.82
+          ],
+          "word": "Ob",
+          "word_index": 176,
+          "confidence": 0.134
+        },
+        {
+          "interval": [
+            100.82,
+            101.0
+          ],
+          "word": "[*]",
+          "word_index": 177,
+          "confidence": 0
+        },
+        {
+          "interval": [
+            101.0,
+            101.14
+          ],
+          "word": "er",
+          "word_index": 178,
+          "confidence": 0.995
+        },
+        {
+          "interval": [
+            101.14,
+            101.98
+          ],
+          "word": "[*]",
+          "word_index": 179,
+          "confidence": 0
+        },
+        {
+          "interval": [
+            102.16,
+            103.02
+          ],
+          "word": "entsprechend",
+          "word_index": 180,
+          "confidence": 0.928
+        },
+        {
+          "interval": [
+            103.02,
+            103.66
+          ],
+          "word": "[*]",
+          "word_index": 181,
+          "confidence": 0
+        },
+        {
+          "interval": [
+            103.66,
+            103.82
+          ],
+          "word": "plant.",
+          "word_index": 182,
+          "confidence": 0.756
+        }
+      ]
+    },
+    {
+      "interval": [
+        105.01,
+        108.35
+      ],
+      "transcript": "Ob er sich traut, den Autopilot zu nutzen.",
+      "result_index": 14,
+      "confidence": 0.858,
+      "words": [
+        {
+          "interval": [
+            105.01,
+            105.39
+          ],
+          "word": "[*]",
+          "word_index": 183,
+          "confidence": 0
+        },
+        {
+          "interval": [
+            105.39,
+            105.59
+          ],
+          "word": "Ob",
+          "word_index": 184,
+          "confidence": 0.36
+        },
+        {
+          "interval": [
+            105.59,
+            105.89
+          ],
+          "word": "er",
+          "word_index": 185,
+          "confidence": 0.994
+        },
+        {
+          "interval": [
+            105.89,
+            106.13
+          ],
+          "word": "sich",
+          "word_index": 186,
+          "confidence": 0.989
+        },
+        {
+          "interval": [
+            106.13,
+            106.79
+          ],
+          "word": "traut,",
+          "word_index": 187,
+          "confidence": 0.914
+        },
+        {
+          "interval": [
+            106.79,
+            107.05
+          ],
+          "word": "den",
+          "word_index": 188,
+          "confidence": 0.99
+        },
+        {
+          "interval": [
+            107.05,
+            107.71
+          ],
+          "word": "Autopilot",
+          "word_index": 189,
+          "confidence": 0.993
+        },
+        {
+          "interval": [
+            107.71,
+            107.89
+          ],
+          "word": "zu",
+          "word_index": 190,
+          "confidence": 0.997
+        },
+        {
+          "interval": [
+            107.89,
+            108.35
+          ],
+          "word": "nutzen.",
+          "word_index": 191,
+          "confidence": 0.725
+        }
+      ]
+    },
+    {
+      "interval": [
+        108.35,
+        111.53
+      ],
+      "transcript": "Ob er dieses flächendeckende Strom nähert.",
+      "result_index": 15,
+      "confidence": 0.276,
+      "words": [
+        {
+          "interval": [
+            108.35,
+            108.83
+          ],
+          "word": "Ob",
+          "word_index": 192,
+          "confidence": 0.021
+        },
+        {
+          "interval": [
+            108.83,
+            109.05
+          ],
+          "word": "er",
+          "word_index": 193,
+          "confidence": 0.975
+        },
+        {
+          "interval": [
+            109.05,
+            109.29
+          ],
+          "word": "dieses",
+          "word_index": 194,
+          "confidence": 0.965
+        },
+        {
+          "interval": [
+            109.29,
+            110.47
+          ],
+          "word": "flächendeckende",
+          "word_index": 195,
+          "confidence": 0.993
+        },
+        {
+          "interval": [
+            110.47,
+            110.71
+          ],
+          "word": "Strom",
+          "word_index": 196,
+          "confidence": 0.99
+        },
+        {
+          "interval": [
+            110.71,
+            111.53
+          ],
+          "word": "nähert.",
+          "word_index": 197,
+          "confidence": 0.041
+        }
+      ]
+    },
+    {
+      "interval": [
+        111.53,
+        113.39
+      ],
+      "transcript": "Ob er das Netzwerk tatsächlich in Anspruch nimmt.",
+      "result_index": 16,
+      "confidence": 0.126,
+      "words": [
+        {
+          "interval": [
+            111.53,
+            111.77
+          ],
+          "word": "Ob",
+          "word_index": 198,
+          "confidence": 0.0
+        },
+        {
+          "interval": [
+            111.77,
+            111.79
+          ],
+          "word": "er",
+          "word_index": 199,
+          "confidence": 0.78
+        },
+        {
+          "interval": [
+            111.79,
+            111.81
+          ],
+          "word": "das",
+          "word_index": 200,
+          "confidence": 0.039
+        },
+        {
+          "interval": [
+            111.81,
+            111.83
+          ],
+          "word": "Netzwerk",
+          "word_index": 201,
+          "confidence": 0.01
+        },
+        {
+          "interval": [
+            111.83,
+            112.03
+          ],
+          "word": "tatsächlich",
+          "word_index": 202,
+          "confidence": 0.913
+        },
+        {
+          "interval": [
+            112.03,
+            112.33
+          ],
+          "word": "[*]",
+          "word_index": 203,
+          "confidence": 0
+        },
+        {
+          "interval": [
+            112.33,
+            112.53
+          ],
+          "word": "in",
+          "word_index": 204,
+          "confidence": 0.991
+        },
+        {
+          "interval": [
+            112.53,
+            113.03
+          ],
+          "word": "Anspruch",
+          "word_index": 205,
+          "confidence": 0.997
+        },
+        {
+          "interval": [
+            113.03,
+            113.39
+          ],
+          "word": "nimmt.",
+          "word_index": 206,
+          "confidence": 0.484
+        }
+      ]
+    },
+    {
+      "interval": [
+        113.79,
+        120.17
+      ],
+      "transcript": "Ob er sich in die Software einarbeitet und alle Finessen zu nutzen weiß.",
+      "result_index": 17,
+      "confidence": 0.873,
+      "words": [
+        {
+          "interval": [
+            113.79,
+            114.23
+          ],
+          "word": "Ob",
+          "word_index": 207,
+          "confidence": 0.193
+        },
+        {
+          "interval": [
+            114.23,
+            114.31
+          ],
+          "word": "er",
+          "word_index": 208,
+          "confidence": 0.992
+        },
+        {
+          "interval": [
+            114.31,
+            114.57
+          ],
+          "word": "sich",
+          "word_index": 209,
+          "confidence": 0.993
+        },
+        {
+          "interval": [
+            114.57,
+            114.91
+          ],
+          "word": "[*]",
+          "word_index": 210,
+          "confidence": 0
+        },
+        {
+          "interval": [
+            114.91,
+            115.13
+          ],
+          "word": "in",
+          "word_index": 211,
+          "confidence": 0.992
+        },
+        {
+          "interval": [
+            115.13,
+            115.53
+          ],
+          "word": "die",
+          "word_index": 212,
+          "confidence": 0.996
+        },
+        {
+          "interval": [
+            115.53,
+            115.55
+          ],
+          "word": "[*]",
+          "word_index": 213,
+          "confidence": 0
+        },
+        {
+          "interval": [
+            115.55,
+            116.17
+          ],
+          "word": "Software",
+          "word_index": 214,
+          "confidence": 0.951
+        },
+        {
+          "interval": [
+            116.17,
+            117.53
+          ],
+          "word": "einarbeitet",
+          "word_index": 215,
+          "confidence": 0.988
+        },
+        {
+          "interval": [
+            117.53,
+            118.19
+          ],
+          "word": "und",
+          "word_index": 216,
+          "confidence": 0.888
+        },
+        {
+          "interval": [
+            118.19,
+            118.43
+          ],
+          "word": "alle",
+          "word_index": 217,
+          "confidence": 0.992
+        },
+        {
+          "interval": [
+            118.43,
+            119.15
+          ],
+          "word": "Finessen",
+          "word_index": 218,
+          "confidence": 0.995
+        },
+        {
+          "interval": [
+            119.15,
+            119.29
+          ],
+          "word": "zu",
+          "word_index": 219,
+          "confidence": 0.983
+        },
+        {
+          "interval": [
+            119.29,
+            119.67
+          ],
+          "word": "nutzen",
+          "word_index": 220,
+          "confidence": 0.943
+        },
+        {
+          "interval": [
+            119.67,
+            120.17
+          ],
+          "word": "weiß.",
+          "word_index": 221,
+          "confidence": 0.793
+        }
+      ]
+    },
+    {
+      "interval": [
+        120.55,
+        125.49
+      ],
+      "transcript": "Ob er sich in die Tesla Community einbringt und dort neue Menschen kennenlernt.",
+      "result_index": 18,
+      "confidence": 0.835,
+      "words": [
+        {
+          "interval": [
+            120.55,
+            120.97
+          ],
+          "word": "Ob",
+          "word_index": 222,
+          "confidence": 0.226
+        },
+        {
+          "interval": [
+            120.97,
+            121.07
+          ],
+          "word": "er",
+          "word_index": 223,
+          "confidence": 0.991
+        },
+        {
+          "interval": [
+            121.07,
+            121.21
+          ],
+          "word": "sich",
+          "word_index": 224,
+          "confidence": 0.997
+        },
+        {
+          "interval": [
+            121.21,
+            121.37
+          ],
+          "word": "in",
+          "word_index": 225,
+          "confidence": 0.995
+        },
+        {
+          "interval": [
+            121.37,
+            121.51
+          ],
+          "word": "die",
+          "word_index": 226,
+          "confidence": 0.998
+        },
+        {
+          "interval": [
+            121.51,
+            121.79
+          ],
+          "word": "Tesla",
+          "word_index": 227,
+          "confidence": 0.952
+        },
+        {
+          "interval": [
+            121.79,
+            122.19
+          ],
+          "word": "Community",
+          "word_index": 228,
+          "confidence": 0.593
+        },
+        {
+          "interval": [
+            122.19,
+            123.29
+          ],
+          "word": "einbringt",
+          "word_index": 229,
+          "confidence": 0.992
+        },
+        {
+          "interval": [
+            123.29,
+            123.55
+          ],
+          "word": "und",
+          "word_index": 230,
+          "confidence": 0.897
+        },
+        {
+          "interval": [
+            123.55,
+            123.89
+          ],
+          "word": "dort",
+          "word_index": 231,
+          "confidence": 0.989
+        },
+        {
+          "interval": [
+            123.89,
+            124.23
+          ],
+          "word": "neue",
+          "word_index": 232,
+          "confidence": 0.987
+        },
+        {
+          "interval": [
+            124.23,
+            124.55
+          ],
+          "word": "Menschen",
+          "word_index": 233,
+          "confidence": 0.986
+        },
+        {
+          "interval": [
+            124.55,
+            125.49
+          ],
+          "word": "kennenlernt.",
+          "word_index": 234,
+          "confidence": 0.778
+        }
+      ]
+    },
+    {
+      "interval": [
+        127.66,
+        134.58
+      ],
+      "transcript": "All diese Faktoren beeinflussen den Wert, den der Kunde verspürt.",
+      "result_index": 19,
+      "confidence": 0.995,
+      "words": [
+        {
+          "interval": [
+            127.66,
+            128.1
+          ],
+          "word": "All",
+          "word_index": 235,
+          "confidence": 0.936
+        },
+        {
+          "interval": [
+            128.1,
+            128.4
+          ],
+          "word": "diese",
+          "word_index": 236,
+          "confidence": 1.0
+        },
+        {
+          "interval": [
+            128.4,
+            129.1
+          ],
+          "word": "Faktoren",
+          "word_index": 237,
+          "confidence": 1.0
+        },
+        {
+          "interval": [
+            129.1,
+            129.86
+          ],
+          "word": "[*]",
+          "word_index": 238,
+          "confidence": 0
+        },
+        {
+          "interval": [
+            129.86,
+            130.9
+          ],
+          "word": "beeinflussen",
+          "word_index": 239,
+          "confidence": 0.999
+        },
+        {
+          "interval": [
+            130.9,
+            131.68
+          ],
+          "word": "[*]",
+          "word_index": 240,
+          "confidence": 0
+        },
+        {
+          "interval": [
+            131.68,
+            132.08
+          ],
+          "word": "den",
+          "word_index": 241,
+          "confidence": 0.995
+        },
+        {
+          "interval": [
+            132.08,
+            132.84
+          ],
+          "word": "Wert,",
+          "word_index": 242,
+          "confidence": 0.998
+        },
+        {
+          "interval": [
+            133.04,
+            133.34
+          ],
+          "word": "den",
+          "word_index": 243,
+          "confidence": 0.989
+        },
+        {
+          "interval": [
+            133.34,
+            133.46
+          ],
+          "word": "der",
+          "word_index": 244,
+          "confidence": 1.0
+        },
+        {
+          "interval": [
+            133.46,
+            133.8
+          ],
+          "word": "Kunde",
+          "word_index": 245,
+          "confidence": 1.0
+        },
+        {
+          "interval": [
+            133.8,
+            134.58
+          ],
+          "word": "verspürt.",
+          "word_index": 246,
+          "confidence": 0.999
+        }
+      ]
+    },
+    {
+      "interval": [
+        134.76,
+        139.32
+      ],
+      "transcript": "Das heißt, es gibt keinen objektiven Wert eines Autos Tesla.",
+      "result_index": 20,
+      "confidence": 0.97,
+      "words": [
+        {
+          "interval": [
+            134.76,
+            135.1
+          ],
+          "word": "Das",
+          "word_index": 247,
+          "confidence": 0.788
+        },
+        {
+          "interval": [
+            135.1,
+            135.34
+          ],
+          "word": "heißt,",
+          "word_index": 248,
+          "confidence": 0.921
+        },
+        {
+          "interval": [
+            135.42,
+            135.54
+          ],
+          "word": "es",
+          "word_index": 249,
+          "confidence": 1.0
+        },
+        {
+          "interval": [
+            135.54,
+            135.82
+          ],
+          "word": "gibt",
+          "word_index": 250,
+          "confidence": 1.0
+        },
+        {
+          "interval": [
+            135.82,
+            136.16
+          ],
+          "word": "keinen",
+          "word_index": 251,
+          "confidence": 0.999
+        },
+        {
+          "interval": [
+            136.16,
+            137.18
+          ],
+          "word": "objektiven",
+          "word_index": 252,
+          "confidence": 0.999
+        },
+        {
+          "interval": [
+            137.18,
+            137.58
+          ],
+          "word": "[*]",
+          "word_index": 253,
+          "confidence": 0
+        },
+        {
+          "interval": [
+            137.58,
+            137.96
+          ],
+          "word": "Wert",
+          "word_index": 254,
+          "confidence": 0.991
+        },
+        {
+          "interval": [
+            137.96,
+            138.38
+          ],
+          "word": "eines",
+          "word_index": 255,
+          "confidence": 0.996
+        },
+        {
+          "interval": [
+            138.38,
+            138.98
+          ],
+          "word": "Autos",
+          "word_index": 256,
+          "confidence": 0.998
+        },
+        {
+          "interval": [
+            138.98,
+            139.32
+          ],
+          "word": "Tesla.",
+          "word_index": 257,
+          "confidence": 0.982
+        }
+      ]
+    },
+    {
+      "interval": [
+        140.04,
+        142.57
+      ],
+      "transcript": "Fundamentale Prämisse Nummer drei.",
+      "result_index": 21,
+      "confidence": 0.803,
+      "words": [
+        {
+          "interval": [
+            140.04,
+            140.22
+          ],
+          "word": "[*]",
+          "word_index": 258,
+          "confidence": 0
+        },
+        {
+          "interval": [
+            140.4,
+            141.45
+          ],
+          "word": "Fundamentale",
+          "word_index": 259,
+          "confidence": 0.979
+        },
+        {
+          "interval": [
+            141.45,
+            141.95
+          ],
+          "word": "Prämisse",
+          "word_index": 260,
+          "confidence": 0.998
+        },
+        {
+          "interval": [
+            141.95,
+            142.21
+          ],
+          "word": "Nummer",
+          "word_index": 261,
+          "confidence": 0.788
+        },
+        {
+          "interval": [
+            142.21,
+            142.45
+          ],
+          "word": "[*]",
+          "word_index": 262,
+          "confidence": 0
+        },
+        {
+          "interval": [
+            142.45,
+            142.57
+          ],
+          "word": "drei.",
+          "word_index": 263,
+          "confidence": 0.434
+        }
+      ]
+    },
+    {
+      "interval": [
+        142.57,
+        147.27
+      ],
+      "transcript": "Alle Akteure sind Ressourcen, Integratoren.",
+      "result_index": 22,
+      "confidence": 0.992,
+      "words": [
+        {
+          "interval": [
+            142.57,
+            143.33
+          ],
+          "word": "[*]",
+          "word_index": 264,
+          "confidence": 0
+        },
+        {
+          "interval": [
+            143.33,
+            143.79
+          ],
+          "word": "Alle",
+          "word_index": 265,
+          "confidence": 0.953
+        },
+        {
+          "interval": [
+            143.79,
+            144.65
+          ],
+          "word": "Akteure",
+          "word_index": 266,
+          "confidence": 0.999
+        },
+        {
+          "interval": [
+            144.65,
+            144.97
+          ],
+          "word": "sind",
+          "word_index": 267,
+          "confidence": 0.999
+        },
+        {
+          "interval": [
+            144.97,
+            145.91
+          ],
+          "word": "Ressourcen,",
+          "word_index": 268,
+          "confidence": 0.993
+        },
+        {
+          "interval": [
+            145.95,
+            146.17
+          ],
+          "word": "[*]",
+          "word_index": 269,
+          "confidence": 0
+        },
+        {
+          "interval": [
+            146.17,
+            147.27
+          ],
+          "word": "Integratoren.",
+          "word_index": 270,
+          "confidence": 0.995
+        }
+      ]
+    },
+    {
+      "interval": [
+        147.27,
+        152.01
+      ],
+      "transcript": "Wir sprechen von sogenannten Operanten-Ressourcen mit T.",
+      "result_index": 23,
+      "confidence": 0.9,
+      "words": [
+        {
+          "interval": [
+            147.27,
+            148.23
+          ],
+          "word": "Wir",
+          "word_index": 271,
+          "confidence": 0.962
+        },
+        {
+          "interval": [
+            148.23,
+            148.59
+          ],
+          "word": "sprechen",
+          "word_index": 272,
+          "confidence": 0.999
+        },
+        {
+          "interval": [
+            148.59,
+            148.87
+          ],
+          "word": "von",
+          "word_index": 273,
+          "confidence": 0.999
+        },
+        {
+          "interval": [
+            148.87,
+            149.51
+          ],
+          "word": "sogenannten",
+          "word_index": 274,
+          "confidence": 0.992
+        },
+        {
+          "interval": [
+            149.51,
+            151.61
+          ],
+          "word": "Operanten-Ressourcen",
+          "word_index": 275,
+          "confidence": 0.824
+        },
+        {
+          "interval": [
+            151.61,
+            151.79
+          ],
+          "word": "mit",
+          "word_index": 276,
+          "confidence": 0.977
+        },
+        {
+          "interval": [
+            151.79,
+            152.01
+          ],
+          "word": "T.",
+          "word_index": 277,
+          "confidence": 0.926
+        }
+      ]
+    },
+    {
+      "interval": [
+        152.11,
+        155.73
+      ],
+      "transcript": "Das ist Wissen, die Batterietechnologie zum Beispiel.",
+      "result_index": 24,
+      "confidence": 0.899,
+      "words": [
+        {
+          "interval": [
+            152.11,
+            152.85
+          ],
+          "word": "Das",
+          "word_index": 278,
+          "confidence": 0.454
+        },
+        {
+          "interval": [
+            152.85,
+            153.03
+          ],
+          "word": "ist",
+          "word_index": 279,
+          "confidence": 0.968
+        },
+        {
+          "interval": [
+            153.03,
+            153.63
+          ],
+          "word": "Wissen,",
+          "word_index": 280,
+          "confidence": 0.922
+        },
+        {
+          "interval": [
+            153.73,
+            153.99
+          ],
+          "word": "die",
+          "word_index": 281,
+          "confidence": 0.93
+        },
+        {
+          "interval": [
+            153.99,
+            155.03
+          ],
+          "word": "Batterietechnologie",
+          "word_index": 282,
+          "confidence": 0.992
+        },
+        {
+          "interval": [
+            155.03,
+            155.23
+          ],
+          "word": "zum",
+          "word_index": 283,
+          "confidence": 0.924
+        },
+        {
+          "interval": [
+            155.23,
+            155.73
+          ],
+          "word": "Beispiel.",
+          "word_index": 284,
+          "confidence": 0.932
+        }
+      ]
+    },
+    {
+      "interval": [
+        156.11,
+        163.55
+      ],
+      "transcript": "Software, Autopilot, aber auch eine Philosophie.",
+      "result_index": 25,
+      "confidence": 0.935,
+      "words": [
+        {
+          "interval": [
+            156.11,
+            157.59
+          ],
+          "word": "[*]",
+          "word_index": 285,
+          "confidence": 0
+        },
+        {
+          "interval": [
+            157.59,
+            157.85
+          ],
+          "word": "Software,",
+          "word_index": 286,
+          "confidence": 0.781
+        },
+        {
+          "interval": [
+            158.41,
+            159.05
+          ],
+          "word": "[*]",
+          "word_index": 287,
+          "confidence": 0
+        },
+        {
+          "interval": [
+            159.05,
+            159.75
+          ],
+          "word": "Autopilot,",
+          "word_index": 288,
+          "confidence": 0.961
+        },
+        {
+          "interval": [
+            160.01,
+            160.72
+          ],
+          "word": "[*]",
+          "word_index": 289,
+          "confidence": 0
+        },
+        {
+          "interval": [
+            161.19,
+            161.67
+          ],
+          "word": "aber",
+          "word_index": 290,
+          "confidence": 0.92
+        },
+        {
+          "interval": [
+            161.67,
+            162.01
+          ],
+          "word": "auch",
+          "word_index": 291,
+          "confidence": 0.998
+        },
+        {
+          "interval": [
+            162.01,
+            162.69
+          ],
+          "word": "eine",
+          "word_index": 292,
+          "confidence": 0.99
+        },
+        {
+          "interval": [
+            162.69,
+            163.55
+          ],
+          "word": "Philosophie.",
+          "word_index": 293,
+          "confidence": 0.969
+        }
+      ]
+    },
+    {
+      "interval": [
+        163.55,
+        170.25
+      ],
+      "transcript": "Und von sogenannten Operanden-Ressourcen, in unserem Fall im wesentlichen Zeit und Geld.",
+      "result_index": 26,
+      "confidence": 0.739,
+      "words": [
+        {
+          "interval": [
+            163.55,
+            164.37
+          ],
+          "word": "Und",
+          "word_index": 294,
+          "confidence": 0.015
+        },
+        {
+          "interval": [
+            164.37,
+            164.57
+          ],
+          "word": "von",
+          "word_index": 295,
+          "confidence": 0.998
+        },
+        {
+          "interval": [
+            164.57,
+            165.19
+          ],
+          "word": "sogenannten",
+          "word_index": 296,
+          "confidence": 0.998
+        },
+        {
+          "interval": [
+            165.19,
+            167.17
+          ],
+          "word": "Operanden-Ressourcen,",
+          "word_index": 297,
+          "confidence": 0.851
+        },
+        {
+          "interval": [
+            167.25,
+            167.71
+          ],
+          "word": "in",
+          "word_index": 298,
+          "confidence": 0.988
+        },
+        {
+          "interval": [
+            167.71,
+            168.03
+          ],
+          "word": "unserem",
+          "word_index": 299,
+          "confidence": 1.0
+        },
+        {
+          "interval": [
+            168.03,
+            168.19
+          ],
+          "word": "[*]",
+          "word_index": 300,
+          "confidence": 0
+        },
+        {
+          "interval": [
+            168.19,
+            168.31
+          ],
+          "word": "Fall",
+          "word_index": 301,
+          "confidence": 1.0
+        },
+        {
+          "interval": [
+            168.31,
+            168.47
+          ],
+          "word": "im",
+          "word_index": 302,
+          "confidence": 0.999
+        },
+        {
+          "interval": [
+            168.47,
+            169.15
+          ],
+          "word": "wesentlichen",
+          "word_index": 303,
+          "confidence": 0.622
+        },
+        {
+          "interval": [
+            169.15,
+            169.31
+          ],
+          "word": "Zeit",
+          "word_index": 304,
+          "confidence": 0.999
+        },
+        {
+          "interval": [
+            169.31,
+            169.77
+          ],
+          "word": "und",
+          "word_index": 305,
+          "confidence": 1.0
+        },
+        {
+          "interval": [
+            169.77,
+            170.25
+          ],
+          "word": "Geld.",
+          "word_index": 306,
+          "confidence": 0.997
+        }
+      ]
+    },
+    {
+      "interval": [
+        170.49,
+        172.61
+      ],
+      "transcript": "Die Ressourcen, die Tesla nutzt, sind natürlich die Ressourcen, die Tesla nutzt.",
+      "result_index": 27,
+      "confidence": 0.546,
+      "words": [
+        {
+          "interval": [
+            170.49,
+            170.99
+          ],
+          "word": "Die",
+          "word_index": 307,
+          "confidence": 0.853
+        },
+        {
+          "interval": [
+            170.99,
+            171.53
+          ],
+          "word": "Ressourcen,",
+          "word_index": 308,
+          "confidence": 0.983
+        },
+        {
+          "interval": [
+            171.57,
+            171.67
+          ],
+          "word": "die",
+          "word_index": 309,
+          "confidence": 1.0
+        },
+        {
+          "interval": [
+            171.67,
+            171.93
+          ],
+          "word": "Tesla",
+          "word_index": 310,
+          "confidence": 0.998
+        },
+        {
+          "interval": [
+            171.93,
+            172.33
+          ],
+          "word": "nutzt,",
+          "word_index": 311,
+          "confidence": 0.942
+        },
+        {
+          "interval": [
+            172.47,
+            172.49
+          ],
+          "word": "sind",
+          "word_index": 312,
+          "confidence": 0.622
+        },
+        {
+          "interval": [
+            172.49,
+            172.51
+          ],
+          "word": "natürlich",
+          "word_index": 313,
+          "confidence": 0.002
+        },
+        {
+          "interval": [
+            172.51,
+            172.53
+          ],
+          "word": "die",
+          "word_index": 314,
+          "confidence": 0.014
+        },
+        {
+          "interval": [
+            172.53,
+            172.55
+          ],
+          "word": "Ressourcen,",
+          "word_index": 315,
+          "confidence": 0.586
+        },
+        {
+          "interval": [
+            172.55,
+            172.57
+          ],
+          "word": "die",
+          "word_index": 316,
+          "confidence": 0.985
+        },
+        {
+          "interval": [
+            172.57,
+            172.59
+          ],
+          "word": "Tesla",
+          "word_index": 317,
+          "confidence": 0.857
+        },
+        {
+          "interval": [
+            172.59,
+            172.61
+          ],
+          "word": "nutzt.",
+          "word_index": 318,
+          "confidence": 0.841
+        }
+      ]
+    },
+    {
+      "interval": [
+        172.61,
+        173.51
+      ],
+      "transcript": "Die Ressourcen, die Tesla nutzt, sind natürlich die Ressourcen, die Tesla nutzt.",
+      "result_index": 28,
+      "confidence": 0.099,
+      "words": [
+        {
+          "interval": [
+            172.61,
+            172.63
+          ],
+          "word": "Die",
+          "word_index": 319,
+          "confidence": 0.014
+        },
+        {
+          "interval": [
+            172.63,
+            172.65
+          ],
+          "word": "Ressourcen,",
+          "word_index": 320,
+          "confidence": 0.116
+        },
+        {
+          "interval": [
+            172.65,
+            172.67
+          ],
+          "word": "die",
+          "word_index": 321,
+          "confidence": 0.964
+        },
+        {
+          "interval": [
+            172.67,
+            172.69
+          ],
+          "word": "Tesla",
+          "word_index": 322,
+          "confidence": 0.0
+        },
+        {
+          "interval": [
+            172.69,
+            172.71
+          ],
+          "word": "nutzt,",
+          "word_index": 323,
+          "confidence": 0.302
+        },
+        {
+          "interval": [
+            172.71,
+            172.73
+          ],
+          "word": "sind",
+          "word_index": 324,
+          "confidence": 0.998
+        },
+        {
+          "interval": [
+            172.73,
+            172.95
+          ],
+          "word": "natürlich",
+          "word_index": 325,
+          "confidence": 0.995
+        },
+        {
+          "interval": [
+            172.95,
+            173.09
+          ],
+          "word": "die",
+          "word_index": 326,
+          "confidence": 0.0
+        },
+        {
+          "interval": [
+            173.09,
+            173.43
+          ],
+          "word": "Ressourcen,",
+          "word_index": 327,
+          "confidence": 0.231
+        },
+        {
+          "interval": [
+            173.43,
+            173.47
+          ],
+          "word": "die",
+          "word_index": 328,
+          "confidence": 0.98
+        },
+        {
+          "interval": [
+            173.47,
+            173.49
+          ],
+          "word": "Tesla",
+          "word_index": 329,
+          "confidence": 0.183
+        },
+        {
+          "interval": [
+            173.49,
+            173.51
+          ],
+          "word": "nutzt.",
+          "word_index": 330,
+          "confidence": 0.787
+        }
+      ]
+    },
+    {
+      "interval": [
+        173.51,
+        174.03
+      ],
+      "transcript": "Die Ressourcen, die Tesla nutzt, sind natürlich Zulieferer.",
+      "result_index": 29,
+      "confidence": 0.067,
+      "words": [
+        {
+          "interval": [
+            173.51,
+            173.53
+          ],
+          "word": "Die",
+          "word_index": 331,
+          "confidence": 0.002
+        },
+        {
+          "interval": [
+            173.53,
+            173.55
+          ],
+          "word": "Ressourcen,",
+          "word_index": 332,
+          "confidence": 0.101
+        },
+        {
+          "interval": [
+            173.55,
+            173.57
+          ],
+          "word": "die",
+          "word_index": 333,
+          "confidence": 0.688
+        },
+        {
+          "interval": [
+            173.57,
+            173.59
+          ],
+          "word": "Tesla",
+          "word_index": 334,
+          "confidence": 0.0
+        },
+        {
+          "interval": [
+            173.59,
+            173.61
+          ],
+          "word": "nutzt,",
+          "word_index": 335,
+          "confidence": 0.078
+        },
+        {
+          "interval": [
+            173.61,
+            173.63
+          ],
+          "word": "sind",
+          "word_index": 336,
+          "confidence": 0.439
+        },
+        {
+          "interval": [
+            173.63,
+            173.65
+          ],
+          "word": "natürlich",
+          "word_index": 337,
+          "confidence": 0.011
+        },
+        {
+          "interval": [
+            173.65,
+            174.03
+          ],
+          "word": "Zulieferer.",
+          "word_index": 338,
+          "confidence": 0.267
+        }
+      ]
+    },
+    {
+      "interval": [
+        174.49,
+        185.07
+      ],
+      "transcript": "Es sind aber auch Energieversorger, die das flächendeckende Strom-Tankstellen-Netzwerk zur Verfügung stellen.",
+      "result_index": 30,
+      "confidence": 0.959,
+      "words": [
+        {
+          "interval": [
+            174.49,
+            175.27
+          ],
+          "word": "Es",
+          "word_index": 339,
+          "confidence": 0.984
+        },
+        {
+          "interval": [
+            175.27,
+            175.57
+          ],
+          "word": "sind",
+          "word_index": 340,
+          "confidence": 0.994
+        },
+        {
+          "interval": [
+            175.57,
+            175.81
+          ],
+          "word": "aber",
+          "word_index": 341,
+          "confidence": 0.998
+        },
+        {
+          "interval": [
+            175.81,
+            176.05
+          ],
+          "word": "[*]",
+          "word_index": 342,
+          "confidence": 0
+        },
+        {
+          "interval": [
+            176.05,
+            176.33
+          ],
+          "word": "auch",
+          "word_index": 343,
+          "confidence": 1.0
+        },
+        {
+          "interval": [
+            176.33,
+            176.93
+          ],
+          "word": "[*]",
+          "word_index": 344,
+          "confidence": 0
+        },
+        {
+          "interval": [
+            176.93,
+            178.17
+          ],
+          "word": "Energieversorger,",
+          "word_index": 345,
+          "confidence": 0.998
+        },
+        {
+          "interval": [
+            178.33,
+            178.61
+          ],
+          "word": "die",
+          "word_index": 346,
+          "confidence": 0.968
+        },
+        {
+          "interval": [
+            178.61,
+            178.79
+          ],
+          "word": "das",
+          "word_index": 347,
+          "confidence": 0.998
+        },
+        {
+          "interval": [
+            178.79,
+            179.93
+          ],
+          "word": "flächendeckende",
+          "word_index": 348,
+          "confidence": 1.0
+        },
+        {
+          "interval": [
+            179.93,
+            181.29
+          ],
+          "word": "[*]",
+          "word_index": 349,
+          "confidence": 0
+        },
+        {
+          "interval": [
+            181.29,
+            183.85
+          ],
+          "word": "Strom-Tankstellen-Netzwerk",
+          "word_index": 350,
+          "confidence": 0.888
+        },
+        {
+          "interval": [
+            183.85,
+            184.01
+          ],
+          "word": "zur",
+          "word_index": 351,
+          "confidence": 0.924
+        },
+        {
+          "interval": [
+            184.01,
+            184.47
+          ],
+          "word": "Verfügung",
+          "word_index": 352,
+          "confidence": 0.999
+        },
+        {
+          "interval": [
+            184.47,
+            184.93
+          ],
+          "word": "[*]",
+          "word_index": 353,
+          "confidence": 0
+        },
+        {
+          "interval": [
+            184.93,
+            185.07
+          ],
+          "word": "stellen.",
+          "word_index": 354,
+          "confidence": 0.999
+        }
+      ]
+    },
+    {
+      "interval": [
+        185.49,
+        192.23
+      ],
+      "transcript": "Es ist Spotify, die Musikplattform, die übrigens sehr zu empfehlen ist im Tesla.",
+      "result_index": 31,
+      "confidence": 0.922,
+      "words": [
+        {
+          "interval": [
+            185.49,
+            185.87
+          ],
+          "word": "Es",
+          "word_index": 355,
+          "confidence": 0.696
+        },
+        {
+          "interval": [
+            185.87,
+            186.07
+          ],
+          "word": "ist",
+          "word_index": 356,
+          "confidence": 0.993
+        },
+        {
+          "interval": [
+            186.07,
+            186.55
+          ],
+          "word": "Spotify,",
+          "word_index": 357,
+          "confidence": 0.897
+        },
+        {
+          "interval": [
+            186.55,
+            187.15
+          ],
+          "word": "[*]",
+          "word_index": 358,
+          "confidence": 0
+        },
+        {
+          "interval": [
+            187.15,
+            187.75
+          ],
+          "word": "die",
+          "word_index": 359,
+          "confidence": 0.783
+        },
+        {
+          "interval": [
+            187.75,
+            189.99
+          ],
+          "word": "Musikplattform,",
+          "word_index": 360,
+          "confidence": 0.961
+        },
+        {
+          "interval": [
+            190.19,
+            190.35
+          ],
+          "word": "die",
+          "word_index": 361,
+          "confidence": 0.956
+        },
+        {
+          "interval": [
+            190.35,
+            190.59
+          ],
+          "word": "übrigens",
+          "word_index": 362,
+          "confidence": 0.99
+        },
+        {
+          "interval": [
+            190.59,
+            190.85
+          ],
+          "word": "sehr",
+          "word_index": 363,
+          "confidence": 0.983
+        },
+        {
+          "interval": [
+            190.85,
+            190.99
+          ],
+          "word": "zu",
+          "word_index": 364,
+          "confidence": 0.995
+        },
+        {
+          "interval": [
+            190.99,
+            191.53
+          ],
+          "word": "empfehlen",
+          "word_index": 365,
+          "confidence": 0.993
+        },
+        {
+          "interval": [
+            191.53,
+            191.71
+          ],
+          "word": "ist",
+          "word_index": 366,
+          "confidence": 0.994
+        },
+        {
+          "interval": [
+            191.71,
+            191.91
+          ],
+          "word": "im",
+          "word_index": 367,
+          "confidence": 0.625
+        },
+        {
+          "interval": [
+            191.91,
+            192.23
+          ],
+          "word": "Tesla.",
+          "word_index": 368,
+          "confidence": 0.973
+        }
+      ]
+    },
+    {
+      "interval": [
+        192.49,
+        200.79
+      ],
+      "transcript": "Es sind aber auch staatliche Ressourcen, Steuererleichterungen, Subventionen.",
+      "result_index": 32,
+      "confidence": 0.996,
+      "words": [
+        {
+          "interval": [
+            192.49,
+            192.91
+          ],
+          "word": "[*]",
+          "word_index": 369,
+          "confidence": 0
+        },
+        {
+          "interval": [
+            193.68,
+            194.15
+          ],
+          "word": "Es",
+          "word_index": 370,
+          "confidence": 0.955
+        },
+        {
+          "interval": [
+            194.15,
+            194.39
+          ],
+          "word": "sind",
+          "word_index": 371,
+          "confidence": 0.999
+        },
+        {
+          "interval": [
+            194.39,
+            194.67
+          ],
+          "word": "aber",
+          "word_index": 372,
+          "confidence": 0.999
+        },
+        {
+          "interval": [
+            194.67,
+            194.89
+          ],
+          "word": "[*]",
+          "word_index": 373,
+          "confidence": 0
+        },
+        {
+          "interval": [
+            194.89,
+            195.15
+          ],
+          "word": "auch",
+          "word_index": 374,
+          "confidence": 1.0
+        },
+        {
+          "interval": [
+            195.15,
+            196.03
+          ],
+          "word": "[*]",
+          "word_index": 375,
+          "confidence": 0
+        },
+        {
+          "interval": [
+            196.03,
+            196.75
+          ],
+          "word": "staatliche",
+          "word_index": 376,
+          "confidence": 0.999
+        },
+        {
+          "interval": [
+            196.75,
+            198.03
+          ],
+          "word": "Ressourcen,",
+          "word_index": 377,
+          "confidence": 0.997
+        },
+        {
+          "interval": [
+            198.11,
+            198.61
+          ],
+          "word": "[*]",
+          "word_index": 378,
+          "confidence": 0
+        },
+        {
+          "interval": [
+            198.61,
+            199.75
+          ],
+          "word": "Steuererleichterungen,",
+          "word_index": 379,
+          "confidence": 0.998
+        },
+        {
+          "interval": [
+            199.81,
+            200.79
+          ],
+          "word": "Subventionen.",
+          "word_index": 380,
+          "confidence": 0.997
+        }
+      ]
+    },
+    {
+      "interval": [
+        200.97,
+        215.04
+      ],
+      "transcript": "Die Ressourcen, die der Kunde einbringt, sind seine Planungsfähigkeiten, seine Bereitschaft, sich auf den Gedanken einzulassen, je langsamer man fährt, desto früher kommt man an.",
+      "result_index": 33,
+      "confidence": 0.933,
+      "words": [
+        {
+          "interval": [
+            200.97,
+            201.49
+          ],
+          "word": "[*]",
+          "word_index": 381,
+          "confidence": 0
+        },
+        {
+          "interval": [
+            201.8,
+            202.0
+          ],
+          "word": "Die",
+          "word_index": 382,
+          "confidence": 0.875
+        },
+        {
+          "interval": [
+            202.0,
+            202.68
+          ],
+          "word": "Ressourcen,",
+          "word_index": 383,
+          "confidence": 0.972
+        },
+        {
+          "interval": [
+            202.74,
+            202.92
+          ],
+          "word": "die",
+          "word_index": 384,
+          "confidence": 0.998
+        },
+        {
+          "interval": [
+            202.92,
+            203.02
+          ],
+          "word": "der",
+          "word_index": 385,
+          "confidence": 0.998
+        },
+        {
+          "interval": [
+            203.02,
+            203.46
+          ],
+          "word": "Kunde",
+          "word_index": 386,
+          "confidence": 0.997
+        },
+        {
+          "interval": [
+            203.46,
+            204.28
+          ],
+          "word": "einbringt,",
+          "word_index": 387,
+          "confidence": 0.951
+        },
+        {
+          "interval": [
+            204.3,
+            204.56
+          ],
+          "word": "sind",
+          "word_index": 388,
+          "confidence": 0.979
+        },
+        {
+          "interval": [
+            204.56,
+            204.74
+          ],
+          "word": "seine",
+          "word_index": 389,
+          "confidence": 0.953
+        },
+        {
+          "interval": [
+            204.74,
+            206.14
+          ],
+          "word": "Planungsfähigkeiten,",
+          "word_index": 390,
+          "confidence": 0.978
+        },
+        {
+          "interval": [
+            206.34,
+            207.2
+          ],
+          "word": "seine",
+          "word_index": 391,
+          "confidence": 0.697
+        },
+        {
+          "interval": [
+            207.2,
+            208.16
+          ],
+          "word": "Bereitschaft,",
+          "word_index": 392,
+          "confidence": 0.943
+        },
+        {
+          "interval": [
+            208.3,
+            208.8
+          ],
+          "word": "sich",
+          "word_index": 393,
+          "confidence": 0.393
+        },
+        {
+          "interval": [
+            208.8,
+            209.02
+          ],
+          "word": "auf",
+          "word_index": 394,
+          "confidence": 0.937
+        },
+        {
+          "interval": [
+            209.02,
+            209.16
+          ],
+          "word": "den",
+          "word_index": 395,
+          "confidence": 0.959
+        },
+        {
+          "interval": [
+            209.16,
+            209.56
+          ],
+          "word": "Gedanken",
+          "word_index": 396,
+          "confidence": 0.992
+        },
+        {
+          "interval": [
+            209.56,
+            210.5
+          ],
+          "word": "einzulassen,",
+          "word_index": 397,
+          "confidence": 0.959
+        },
+        {
+          "interval": [
+            210.64,
+            211.24
+          ],
+          "word": "je",
+          "word_index": 398,
+          "confidence": 0.603
+        },
+        {
+          "interval": [
+            211.24,
+            211.96
+          ],
+          "word": "langsamer",
+          "word_index": 399,
+          "confidence": 1.0
+        },
+        {
+          "interval": [
+            211.96,
+            212.16
+          ],
+          "word": "man",
+          "word_index": 400,
+          "confidence": 0.999
+        },
+        {
+          "interval": [
+            212.16,
+            212.7
+          ],
+          "word": "fährt,",
+          "word_index": 401,
+          "confidence": 1.0
+        },
+        {
+          "interval": [
+            212.84,
+            213.38
+          ],
+          "word": "desto",
+          "word_index": 402,
+          "confidence": 0.999
+        },
+        {
+          "interval": [
+            213.38,
+            214.0
+          ],
+          "word": "früher",
+          "word_index": 403,
+          "confidence": 0.998
+        },
+        {
+          "interval": [
+            214.0,
+            214.26
+          ],
+          "word": "kommt",
+          "word_index": 404,
+          "confidence": 0.999
+        },
+        {
+          "interval": [
+            214.26,
+            214.66
+          ],
+          "word": "man",
+          "word_index": 405,
+          "confidence": 1.0
+        },
+        {
+          "interval": [
+            214.66,
+            215.04
+          ],
+          "word": "an.",
+          "word_index": 406,
+          "confidence": 0.825
+        }
+      ]
+    },
+    {
+      "interval": [
+        215.04,
+        220.62
+      ],
+      "transcript": "Seine Bereitschaft, auch Softwarefehler zu verzeihen.",
+      "result_index": 34,
+      "confidence": 0.815,
+      "words": [
+        {
+          "interval": [
+            215.04,
+            215.64
+          ],
+          "word": "[*]",
+          "word_index": 407,
+          "confidence": 0
+        },
+        {
+          "interval": [
+            215.64,
+            216.34
+          ],
+          "word": "Seine",
+          "word_index": 408,
+          "confidence": 0.287
+        },
+        {
+          "interval": [
+            216.34,
+            216.74
+          ],
+          "word": "[*]",
+          "word_index": 409,
+          "confidence": 0
+        },
+        {
+          "interval": [
+            216.74,
+            217.6
+          ],
+          "word": "Bereitschaft,",
+          "word_index": 410,
+          "confidence": 0.932
+        },
+        {
+          "interval": [
+            217.66,
+            217.92
+          ],
+          "word": "auch",
+          "word_index": 411,
+          "confidence": 0.946
+        },
+        {
+          "interval": [
+            217.92,
+            219.38
+          ],
+          "word": "Softwarefehler",
+          "word_index": 412,
+          "confidence": 0.992
+        },
+        {
+          "interval": [
+            219.38,
+            219.76
+          ],
+          "word": "zu",
+          "word_index": 413,
+          "confidence": 0.999
+        },
+        {
+          "interval": [
+            219.76,
+            220.62
+          ],
+          "word": "verzeihen.",
+          "word_index": 414,
+          "confidence": 0.95
+        }
+      ]
+    },
+    {
+      "interval": [
+        221.0,
+        230.38
+      ],
+      "transcript": "Seine Compliance, das heißt den Autopiloten tatsächlich so zu nutzen, wie er gedacht ist und nicht während des Fahrens zu schlafen oder Filme zu gucken.",
+      "result_index": 35,
+      "confidence": 0.843,
+      "words": [
+        {
+          "interval": [
+            221.0,
+            221.34
+          ],
+          "word": "[*]",
+          "word_index": 415,
+          "confidence": 0
+        },
+        {
+          "interval": [
+            221.34,
+            221.8
+          ],
+          "word": "Seine",
+          "word_index": 416,
+          "confidence": 0.239
+        },
+        {
+          "interval": [
+            221.8,
+            222.46
+          ],
+          "word": "Compliance,",
+          "word_index": 417,
+          "confidence": 0.912
+        },
+        {
+          "interval": [
+            222.68,
+            222.82
+          ],
+          "word": "das",
+          "word_index": 418,
+          "confidence": 0.779
+        },
+        {
+          "interval": [
+            222.82,
+            223.06
+          ],
+          "word": "heißt",
+          "word_index": 419,
+          "confidence": 0.961
+        },
+        {
+          "interval": [
+            223.06,
+            223.24
+          ],
+          "word": "den",
+          "word_index": 420,
+          "confidence": 0.821
+        },
+        {
+          "interval": [
+            223.24,
+            224.0
+          ],
+          "word": "Autopiloten",
+          "word_index": 421,
+          "confidence": 0.992
+        },
+        {
+          "interval": [
+            224.0,
+            224.34
+          ],
+          "word": "tatsächlich",
+          "word_index": 422,
+          "confidence": 0.934
+        },
+        {
+          "interval": [
+            224.34,
+            224.68
+          ],
+          "word": "so",
+          "word_index": 423,
+          "confidence": 0.982
+        },
+        {
+          "interval": [
+            224.68,
+            224.92
+          ],
+          "word": "zu",
+          "word_index": 424,
+          "confidence": 0.978
+        },
+        {
+          "interval": [
+            224.92,
+            225.12
+          ],
+          "word": "[*]",
+          "word_index": 425,
+          "confidence": 0
+        },
+        {
+          "interval": [
+            225.12,
+            225.28
+          ],
+          "word": "nutzen,",
+          "word_index": 426,
+          "confidence": 0.778
+        },
+        {
+          "interval": [
+            225.38,
+            225.5
+          ],
+          "word": "wie",
+          "word_index": 427,
+          "confidence": 0.833
+        },
+        {
+          "interval": [
+            225.5,
+            225.62
+          ],
+          "word": "er",
+          "word_index": 428,
+          "confidence": 0.938
+        },
+        {
+          "interval": [
+            225.62,
+            225.82
+          ],
+          "word": "gedacht",
+          "word_index": 429,
+          "confidence": 0.874
+        },
+        {
+          "interval": [
+            225.82,
+            226.3
+          ],
+          "word": "ist",
+          "word_index": 430,
+          "confidence": 0.89
+        },
+        {
+          "interval": [
+            226.3,
+            226.7
+          ],
+          "word": "[*]",
+          "word_index": 431,
+          "confidence": 0
+        },
+        {
+          "interval": [
+            226.7,
+            226.84
+          ],
+          "word": "und",
+          "word_index": 432,
+          "confidence": 0.276
+        },
+        {
+          "interval": [
+            226.84,
+            227.08
+          ],
+          "word": "nicht",
+          "word_index": 433,
+          "confidence": 0.952
+        },
+        {
+          "interval": [
+            227.08,
+            227.26
+          ],
+          "word": "während",
+          "word_index": 434,
+          "confidence": 0.989
+        },
+        {
+          "interval": [
+            227.26,
+            227.46
+          ],
+          "word": "des",
+          "word_index": 435,
+          "confidence": 0.988
+        },
+        {
+          "interval": [
+            227.46,
+            228.12
+          ],
+          "word": "Fahrens",
+          "word_index": 436,
+          "confidence": 0.971
+        },
+        {
+          "interval": [
+            228.12,
+            228.3
+          ],
+          "word": "[*]",
+          "word_index": 437,
+          "confidence": 0
+        },
+        {
+          "interval": [
+            228.3,
+            228.76
+          ],
+          "word": "zu",
+          "word_index": 438,
+          "confidence": 0.974
+        },
+        {
+          "interval": [
+            228.76,
+            229.34
+          ],
+          "word": "schlafen",
+          "word_index": 439,
+          "confidence": 0.995
+        },
+        {
+          "interval": [
+            229.34,
+            229.48
+          ],
+          "word": "oder",
+          "word_index": 440,
+          "confidence": 0.985
+        },
+        {
+          "interval": [
+            229.48,
+            229.86
+          ],
+          "word": "Filme",
+          "word_index": 441,
+          "confidence": 0.996
+        },
+        {
+          "interval": [
+            229.86,
+            229.98
+          ],
+          "word": "zu",
+          "word_index": 442,
+          "confidence": 0.998
+        },
+        {
+          "interval": [
+            229.98,
+            230.2
+          ],
+          "word": "[*]",
+          "word_index": 443,
+          "confidence": 0
+        },
+        {
+          "interval": [
+            230.2,
+            230.38
+          ],
+          "word": "gucken.",
+          "word_index": 444,
+          "confidence": 0.974
+        }
+      ]
+    },
+    {
+      "interval": [
+        230.38,
+        238.94
+      ],
+      "transcript": "Oder auch sich tatsächlich in diese Tesla Community einzubringen.",
+      "result_index": 36,
+      "confidence": 0.762,
+      "words": [
+        {
+          "interval": [
+            230.38,
+            231.25
+          ],
+          "word": "[*]",
+          "word_index": 445,
+          "confidence": 0
+        },
+        {
+          "interval": [
+            232.7,
+            233.06
+          ],
+          "word": "Oder",
+          "word_index": 446,
+          "confidence": 0.093
+        },
+        {
+          "interval": [
+            233.06,
+            233.56
+          ],
+          "word": "auch",
+          "word_index": 447,
+          "confidence": 0.928
+        },
+        {
+          "interval": [
+            233.56,
+            234.44
+          ],
+          "word": "[*]",
+          "word_index": 448,
+          "confidence": 0
+        },
+        {
+          "interval": [
+            234.44,
+            234.54
+          ],
+          "word": "sich",
+          "word_index": 449,
+          "confidence": 0.595
+        },
+        {
+          "interval": [
+            234.54,
+            235.02
+          ],
+          "word": "[*]",
+          "word_index": 450,
+          "confidence": 0
+        },
+        {
+          "interval": [
+            235.02,
+            235.22
+          ],
+          "word": "tatsächlich",
+          "word_index": 451,
+          "confidence": 0.98
+        },
+        {
+          "interval": [
+            235.22,
+            236.1
+          ],
+          "word": "in",
+          "word_index": 452,
+          "confidence": 0.987
+        },
+        {
+          "interval": [
+            236.1,
+            236.4
+          ],
+          "word": "diese",
+          "word_index": 453,
+          "confidence": 0.977
+        },
+        {
+          "interval": [
+            236.4,
+            236.7
+          ],
+          "word": "Tesla",
+          "word_index": 454,
+          "confidence": 0.88
+        },
+        {
+          "interval": [
+            236.7,
+            236.96
+          ],
+          "word": "[*]",
+          "word_index": 455,
+          "confidence": 0
+        },
+        {
+          "interval": [
+            236.96,
+            237.12
+          ],
+          "word": "Community",
+          "word_index": 456,
+          "confidence": 0.775
+        },
+        {
+          "interval": [
+            237.12,
+            238.08
+          ],
+          "word": "[*]",
+          "word_index": 457,
+          "confidence": 0
+        },
+        {
+          "interval": [
+            238.08,
+            238.94
+          ],
+          "word": "einzubringen.",
+          "word_index": 458,
+          "confidence": 0.978
+        }
+      ]
+    },
+    {
+      "interval": [
+        238.94,
+        242.75
+      ],
+      "transcript": "Fundamentale Prämisse Nummer 3.",
+      "result_index": 37,
+      "confidence": 0.842,
+      "words": [
+        {
+          "interval": [
+            238.94,
+            239.63
+          ],
+          "word": "[*]",
+          "word_index": 459,
+          "confidence": 0
+        },
+        {
+          "interval": [
+            240.25,
+            241.19
+          ],
+          "word": "Fundamentale",
+          "word_index": 460,
+          "confidence": 0.99
+        },
+        {
+          "interval": [
+            241.19,
+            241.77
+          ],
+          "word": "Prämisse",
+          "word_index": 461,
+          "confidence": 0.999
+        },
+        {
+          "interval": [
+            241.77,
+            242.15
+          ],
+          "word": "[*]",
+          "word_index": 462,
+          "confidence": 0
+        },
+        {
+          "interval": [
+            242.15,
+            242.37
+          ],
+          "word": "Nummer",
+          "word_index": 463,
+          "confidence": 0.958
+        },
+        {
+          "interval": [
+            242.37,
+            242.59
+          ],
+          "word": "[*]",
+          "word_index": 464,
+          "confidence": 0
+        },
+        {
+          "interval": [
+            242.59,
+            242.75
+          ],
+          "word": "3.",
+          "word_index": 465,
+          "confidence": 0.478
+        }
+      ]
+    },
+    {
+      "interval": [
+        246.28,
+        247.76
+      ],
+      "transcript": "Fundamentale Prämisse Nummer 4.",
+      "result_index": 38,
+      "confidence": 0.785,
+      "words": [
+        {
+          "interval": [
+            246.28,
+            246.82
+          ],
+          "word": "Fundamentale",
+          "word_index": 466,
+          "confidence": 0.77
+        },
+        {
+          "interval": [
+            246.82,
+            247.22
+          ],
+          "word": "Prämisse",
+          "word_index": 467,
+          "confidence": 0.995
+        },
+        {
+          "interval": [
+            247.22,
+            247.44
+          ],
+          "word": "Nummer",
+          "word_index": 468,
+          "confidence": 0.904
+        },
+        {
+          "interval": [
+            247.44,
+            247.76
+          ],
+          "word": "4.",
+          "word_index": 469,
+          "confidence": 0.528
+        }
+      ]
+    },
+    {
+      "interval": [
+        247.98,
+        254.58
+      ],
+      "transcript": "Der Wert der Leistung wird ausschließlich durch den Kunden bestimmt.",
+      "result_index": 39,
+      "confidence": 0.999,
+      "words": [
+        {
+          "interval": [
+            247.98,
+            248.56
+          ],
+          "word": "[*]",
+          "word_index": 470,
+          "confidence": 0
+        },
+        {
+          "interval": [
+            249.1,
+            249.6
+          ],
+          "word": "Der",
+          "word_index": 471,
+          "confidence": 0.996
+        },
+        {
+          "interval": [
+            249.6,
+            249.96
+          ],
+          "word": "Wert",
+          "word_index": 472,
+          "confidence": 1.0
+        },
+        {
+          "interval": [
+            249.96,
+            250.24
+          ],
+          "word": "der",
+          "word_index": 473,
+          "confidence": 1.0
+        },
+        {
+          "interval": [
+            250.24,
+            251.06
+          ],
+          "word": "Leistung",
+          "word_index": 474,
+          "confidence": 1.0
+        },
+        {
+          "interval": [
+            251.06,
+            251.38
+          ],
+          "word": "wird",
+          "word_index": 475,
+          "confidence": 0.999
+        },
+        {
+          "interval": [
+            251.38,
+            252.34
+          ],
+          "word": "ausschließlich",
+          "word_index": 476,
+          "confidence": 0.998
+        },
+        {
+          "interval": [
+            252.34,
+            253.18
+          ],
+          "word": "[*]",
+          "word_index": 477,
+          "confidence": 0
+        },
+        {
+          "interval": [
+            253.18,
+            253.36
+          ],
+          "word": "durch",
+          "word_index": 478,
+          "confidence": 0.997
+        },
+        {
+          "interval": [
+            253.36,
+            253.56
+          ],
+          "word": "den",
+          "word_index": 479,
+          "confidence": 1.0
+        },
+        {
+          "interval": [
+            253.56,
+            253.72
+          ],
+          "word": "[*]",
+          "word_index": 480,
+          "confidence": 0
+        },
+        {
+          "interval": [
+            253.72,
+            253.9
+          ],
+          "word": "Kunden",
+          "word_index": 481,
+          "confidence": 1.0
+        },
+        {
+          "interval": [
+            253.9,
+            254.46
+          ],
+          "word": "[*]",
+          "word_index": 482,
+          "confidence": 0
+        },
+        {
+          "interval": [
+            254.46,
+            254.58
+          ],
+          "word": "bestimmt.",
+          "word_index": 483,
+          "confidence": 0.997
+        }
+      ]
+    },
+    {
+      "interval": [
+        254.58,
+        259.08
+      ],
+      "transcript": "Lassen Sie mich das an folgendem Beispiel näher erläutern.",
+      "result_index": 40,
+      "confidence": 0.882,
+      "words": [
+        {
+          "interval": [
+            254.58,
+            255.96
+          ],
+          "word": "Lassen",
+          "word_index": 484,
+          "confidence": 0.765
+        },
+        {
+          "interval": [
+            255.96,
+            256.12
+          ],
+          "word": "Sie",
+          "word_index": 485,
+          "confidence": 0.907
+        },
+        {
+          "interval": [
+            256.12,
+            256.28
+          ],
+          "word": "mich",
+          "word_index": 486,
+          "confidence": 0.999
+        },
+        {
+          "interval": [
+            256.28,
+            256.44
+          ],
+          "word": "das",
+          "word_index": 487,
+          "confidence": 0.986
+        },
+        {
+          "interval": [
+            256.44,
+            256.58
+          ],
+          "word": "an",
+          "word_index": 488,
+          "confidence": 0.953
+        },
+        {
+          "interval": [
+            256.58,
+            257.24
+          ],
+          "word": "folgendem",
+          "word_index": 489,
+          "confidence": 0.858
+        },
+        {
+          "interval": [
+            257.24,
+            257.42
+          ],
+          "word": "[*]",
+          "word_index": 490,
+          "confidence": 0
+        },
+        {
+          "interval": [
+            257.42,
+            257.56
+          ],
+          "word": "Beispiel",
+          "word_index": 491,
+          "confidence": 0.995
+        },
+        {
+          "interval": [
+            257.56,
+            257.8
+          ],
+          "word": "[*]",
+          "word_index": 492,
+          "confidence": 0
+        },
+        {
+          "interval": [
+            257.8,
+            258.44
+          ],
+          "word": "näher",
+          "word_index": 493,
+          "confidence": 0.986
+        },
+        {
+          "interval": [
+            258.44,
+            259.08
+          ],
+          "word": "erläutern.",
+          "word_index": 494,
+          "confidence": 0.827
+        }
+      ]
+    },
+    {
+      "interval": [
+        259.08,
+        264.78
+      ],
+      "transcript": "Ein Tesla-Fahrer macht mit seiner geliebten Partnerin eine Spritztour.",
+      "result_index": 41,
+      "confidence": 0.969,
+      "words": [
+        {
+          "interval": [
+            259.08,
+            259.9
+          ],
+          "word": "[*]",
+          "word_index": 495,
+          "confidence": 0
+        },
+        {
+          "interval": [
+            259.9,
+            260.2
+          ],
+          "word": "Ein",
+          "word_index": 496,
+          "confidence": 0.986
+        },
+        {
+          "interval": [
+            260.2,
+            261.26
+          ],
+          "word": "Tesla-Fahrer",
+          "word_index": 497,
+          "confidence": 0.992
+        },
+        {
+          "interval": [
+            261.26,
+            261.66
+          ],
+          "word": "[*]",
+          "word_index": 498,
+          "confidence": 0
+        },
+        {
+          "interval": [
+            261.66,
+            262.02
+          ],
+          "word": "macht",
+          "word_index": 499,
+          "confidence": 0.999
+        },
+        {
+          "interval": [
+            262.02,
+            262.26
+          ],
+          "word": "mit",
+          "word_index": 500,
+          "confidence": 0.998
+        },
+        {
+          "interval": [
+            262.26,
+            262.5
+          ],
+          "word": "seiner",
+          "word_index": 501,
+          "confidence": 1.0
+        },
+        {
+          "interval": [
+            262.5,
+            262.98
+          ],
+          "word": "geliebten",
+          "word_index": 502,
+          "confidence": 0.999
+        },
+        {
+          "interval": [
+            262.98,
+            263.64
+          ],
+          "word": "Partnerin",
+          "word_index": 503,
+          "confidence": 0.999
+        },
+        {
+          "interval": [
+            263.64,
+            263.84
+          ],
+          "word": "eine",
+          "word_index": 504,
+          "confidence": 0.998
+        },
+        {
+          "interval": [
+            263.84,
+            264.78
+          ],
+          "word": "Spritztour.",
+          "word_index": 505,
+          "confidence": 0.885
+        }
+      ]
+    },
+    {
+      "interval": [
+        264.78,
+        270.32
+      ],
+      "transcript": "Und macht ihr während dieser Autofahrt einen Heiratsantrag.",
+      "result_index": 42,
+      "confidence": 0.79,
+      "words": [
+        {
+          "interval": [
+            264.78,
+            265.74
+          ],
+          "word": "Und",
+          "word_index": 506,
+          "confidence": 0.03
+        },
+        {
+          "interval": [
+            265.74,
+            266.64
+          ],
+          "word": "[*]",
+          "word_index": 507,
+          "confidence": 0
+        },
+        {
+          "interval": [
+            266.64,
+            266.92
+          ],
+          "word": "macht",
+          "word_index": 508,
+          "confidence": 0.98
+        },
+        {
+          "interval": [
+            266.92,
+            267.34
+          ],
+          "word": "ihr",
+          "word_index": 509,
+          "confidence": 0.981
+        },
+        {
+          "interval": [
+            267.34,
+            267.58
+          ],
+          "word": "[*]",
+          "word_index": 510,
+          "confidence": 0
+        },
+        {
+          "interval": [
+            267.58,
+            267.96
+          ],
+          "word": "während",
+          "word_index": 511,
+          "confidence": 0.993
+        },
+        {
+          "interval": [
+            267.96,
+            268.24
+          ],
+          "word": "dieser",
+          "word_index": 512,
+          "confidence": 0.993
+        },
+        {
+          "interval": [
+            268.24,
+            269.02
+          ],
+          "word": "Autofahrt",
+          "word_index": 513,
+          "confidence": 0.999
+        },
+        {
+          "interval": [
+            269.02,
+            269.2
+          ],
+          "word": "einen",
+          "word_index": 514,
+          "confidence": 0.993
+        },
+        {
+          "interval": [
+            269.2,
+            270.32
+          ],
+          "word": "Heiratsantrag.",
+          "word_index": 515,
+          "confidence": 0.966
+        }
+      ]
+    },
+    {
+      "interval": [
+        270.52,
+        276.04
+      ],
+      "transcript": "Die Partnerin nimmt diesen Heiratsantrag an und die beiden heiraten.",
+      "result_index": 43,
+      "confidence": 0.991,
+      "words": [
+        {
+          "interval": [
+            270.52,
+            271.1
+          ],
+          "word": "[*]",
+          "word_index": 516,
+          "confidence": 0
+        },
+        {
+          "interval": [
+            271.1,
+            271.46
+          ],
+          "word": "Die",
+          "word_index": 517,
+          "confidence": 0.957
+        },
+        {
+          "interval": [
+            271.46,
+            272.04
+          ],
+          "word": "Partnerin",
+          "word_index": 518,
+          "confidence": 0.995
+        },
+        {
+          "interval": [
+            272.04,
+            272.2
+          ],
+          "word": "nimmt",
+          "word_index": 519,
+          "confidence": 0.999
+        },
+        {
+          "interval": [
+            272.2,
+            272.38
+          ],
+          "word": "diesen",
+          "word_index": 520,
+          "confidence": 0.984
+        },
+        {
+          "interval": [
+            272.38,
+            273.38
+          ],
+          "word": "Heiratsantrag",
+          "word_index": 521,
+          "confidence": 0.995
+        },
+        {
+          "interval": [
+            273.38,
+            273.62
+          ],
+          "word": "[*]",
+          "word_index": 522,
+          "confidence": 0
+        },
+        {
+          "interval": [
+            273.62,
+            273.76
+          ],
+          "word": "an",
+          "word_index": 523,
+          "confidence": 0.998
+        },
+        {
+          "interval": [
+            273.76,
+            274.24
+          ],
+          "word": "[*]",
+          "word_index": 524,
+          "confidence": 0
+        },
+        {
+          "interval": [
+            274.24,
+            274.58
+          ],
+          "word": "und",
+          "word_index": 525,
+          "confidence": 0.963
+        },
+        {
+          "interval": [
+            274.58,
+            275.12
+          ],
+          "word": "die",
+          "word_index": 526,
+          "confidence": 0.997
+        },
+        {
+          "interval": [
+            275.12,
+            275.44
+          ],
+          "word": "beiden",
+          "word_index": 527,
+          "confidence": 0.994
+        },
+        {
+          "interval": [
+            275.44,
+            276.04
+          ],
+          "word": "heiraten.",
+          "word_index": 528,
+          "confidence": 0.997
+        }
+      ]
+    },
+    {
+      "interval": [
+        276.04,
+        283.74
+      ],
+      "transcript": "Für diesen Tesla-Fahrer wird das Auto Tesla für immer mit einer positiven Erfahrung verbunden sein.",
+      "result_index": 44,
+      "confidence": 0.968,
+      "words": [
+        {
+          "interval": [
+            276.04,
+            277.08
+          ],
+          "word": "Für",
+          "word_index": 529,
+          "confidence": 0.894
+        },
+        {
+          "interval": [
+            277.08,
+            277.36
+          ],
+          "word": "diesen",
+          "word_index": 530,
+          "confidence": 0.963
+        },
+        {
+          "interval": [
+            277.36,
+            278.32
+          ],
+          "word": "Tesla-Fahrer",
+          "word_index": 531,
+          "confidence": 0.97
+        },
+        {
+          "interval": [
+            278.32,
+            278.34
+          ],
+          "word": "[*]",
+          "word_index": 532,
+          "confidence": 0
+        },
+        {
+          "interval": [
+            278.34,
+            278.78
+          ],
+          "word": "wird",
+          "word_index": 533,
+          "confidence": 0.991
+        },
+        {
+          "interval": [
+            278.78,
+            279.02
+          ],
+          "word": "das",
+          "word_index": 534,
+          "confidence": 0.981
+        },
+        {
+          "interval": [
+            279.02,
+            279.34
+          ],
+          "word": "Auto",
+          "word_index": 535,
+          "confidence": 0.956
+        },
+        {
+          "interval": [
+            279.34,
+            279.7
+          ],
+          "word": "[*]",
+          "word_index": 536,
+          "confidence": 0
+        },
+        {
+          "interval": [
+            279.7,
+            279.8
+          ],
+          "word": "Tesla",
+          "word_index": 537,
+          "confidence": 0.953
+        },
+        {
+          "interval": [
+            279.8,
+            280.4
+          ],
+          "word": "für",
+          "word_index": 538,
+          "confidence": 0.966
+        },
+        {
+          "interval": [
+            280.4,
+            280.64
+          ],
+          "word": "immer",
+          "word_index": 539,
+          "confidence": 0.998
+        },
+        {
+          "interval": [
+            280.64,
+            280.78
+          ],
+          "word": "mit",
+          "word_index": 540,
+          "confidence": 0.988
+        },
+        {
+          "interval": [
+            280.78,
+            280.98
+          ],
+          "word": "einer",
+          "word_index": 541,
+          "confidence": 0.995
+        },
+        {
+          "interval": [
+            280.98,
+            281.66
+          ],
+          "word": "positiven",
+          "word_index": 542,
+          "confidence": 0.996
+        },
+        {
+          "interval": [
+            281.66,
+            282.08
+          ],
+          "word": "[*]",
+          "word_index": 543,
+          "confidence": 0
+        },
+        {
+          "interval": [
+            282.08,
+            282.32
+          ],
+          "word": "Erfahrung",
+          "word_index": 544,
+          "confidence": 0.992
+        },
+        {
+          "interval": [
+            282.32,
+            283.32
+          ],
+          "word": "verbunden",
+          "word_index": 545,
+          "confidence": 0.986
+        },
+        {
+          "interval": [
+            283.32,
+            283.74
+          ],
+          "word": "sein.",
+          "word_index": 546,
+          "confidence": 0.91
+        }
+      ]
+    },
+    {
+      "interval": [
+        283.74,
+        293.16
+      ],
+      "transcript": "Versus ein Tesla-Fahrer bleibt auf der Autobahn liegen, muss vom Abschleppdienst zur nächsten Stromtankstelle geschleppt werden,",
+      "result_index": 45,
+      "confidence": 0.875,
+      "words": [
+        {
+          "interval": [
+            283.74,
+            285.0
+          ],
+          "word": "Versus",
+          "word_index": 547,
+          "confidence": 0.756
+        },
+        {
+          "interval": [
+            285.0,
+            285.38
+          ],
+          "word": "[*]",
+          "word_index": 548,
+          "confidence": 0
+        },
+        {
+          "interval": [
+            285.38,
+            285.66
+          ],
+          "word": "ein",
+          "word_index": 549,
+          "confidence": 0.513
+        },
+        {
+          "interval": [
+            285.66,
+            286.52
+          ],
+          "word": "Tesla-Fahrer",
+          "word_index": 550,
+          "confidence": 0.942
+        },
+        {
+          "interval": [
+            286.52,
+            286.66
+          ],
+          "word": "bleibt",
+          "word_index": 551,
+          "confidence": 0.961
+        },
+        {
+          "interval": [
+            286.66,
+            286.96
+          ],
+          "word": "auf",
+          "word_index": 552,
+          "confidence": 0.996
+        },
+        {
+          "interval": [
+            286.96,
+            287.18
+          ],
+          "word": "der",
+          "word_index": 553,
+          "confidence": 0.998
+        },
+        {
+          "interval": [
+            287.18,
+            287.66
+          ],
+          "word": "Autobahn",
+          "word_index": 554,
+          "confidence": 0.985
+        },
+        {
+          "interval": [
+            287.66,
+            287.84
+          ],
+          "word": "[*]",
+          "word_index": 555,
+          "confidence": 0
+        },
+        {
+          "interval": [
+            287.84,
+            287.98
+          ],
+          "word": "liegen,",
+          "word_index": 556,
+          "confidence": 0.926
+        },
+        {
+          "interval": [
+            288.16,
+            288.92
+          ],
+          "word": "[*]",
+          "word_index": 557,
+          "confidence": 0
+        },
+        {
+          "interval": [
+            288.92,
+            289.18
+          ],
+          "word": "muss",
+          "word_index": 558,
+          "confidence": 0.53
+        },
+        {
+          "interval": [
+            289.18,
+            289.42
+          ],
+          "word": "vom",
+          "word_index": 559,
+          "confidence": 0.984
+        },
+        {
+          "interval": [
+            289.42,
+            290.28
+          ],
+          "word": "Abschleppdienst",
+          "word_index": 560,
+          "confidence": 0.948
+        },
+        {
+          "interval": [
+            290.28,
+            290.44
+          ],
+          "word": "zur",
+          "word_index": 561,
+          "confidence": 0.951
+        },
+        {
+          "interval": [
+            290.44,
+            290.76
+          ],
+          "word": "nächsten",
+          "word_index": 562,
+          "confidence": 0.996
+        },
+        {
+          "interval": [
+            290.76,
+            292.18
+          ],
+          "word": "Stromtankstelle",
+          "word_index": 563,
+          "confidence": 0.94
+        },
+        {
+          "interval": [
+            292.18,
+            292.76
+          ],
+          "word": "geschleppt",
+          "word_index": 564,
+          "confidence": 0.998
+        },
+        {
+          "interval": [
+            292.76,
+            292.96
+          ],
+          "word": "[*]",
+          "word_index": 565,
+          "confidence": 0
+        },
+        {
+          "interval": [
+            292.96,
+            293.16
+          ],
+          "word": "werden,",
+          "word_index": 566,
+          "confidence": 0.457
+        }
+      ]
+    },
+    {
+      "interval": [
+        293.52,
+        300.52
+      ],
+      "transcript": "verpasst einen wichtigen Vorstellungstermin und verliert möglicherweise seinen Traumjob.",
+      "result_index": 46,
+      "confidence": 0.978,
+      "words": [
+        {
+          "interval": [
+            293.52,
+            294.3
+          ],
+          "word": "[*]",
+          "word_index": 567,
+          "confidence": 0
+        },
+        {
+          "interval": [
+            294.3,
+            295.04
+          ],
+          "word": "verpasst",
+          "word_index": 568,
+          "confidence": 0.957
+        },
+        {
+          "interval": [
+            295.04,
+            295.3
+          ],
+          "word": "[*]",
+          "word_index": 569,
+          "confidence": 0
+        },
+        {
+          "interval": [
+            295.3,
+            295.52
+          ],
+          "word": "einen",
+          "word_index": 570,
+          "confidence": 0.992
+        },
+        {
+          "interval": [
+            295.52,
+            296.04
+          ],
+          "word": "wichtigen",
+          "word_index": 571,
+          "confidence": 0.997
+        },
+        {
+          "interval": [
+            296.04,
+            297.44
+          ],
+          "word": "Vorstellungstermin",
+          "word_index": 572,
+          "confidence": 0.988
+        },
+        {
+          "interval": [
+            297.44,
+            297.68
+          ],
+          "word": "und",
+          "word_index": 573,
+          "confidence": 0.883
+        },
+        {
+          "interval": [
+            297.68,
+            298.44
+          ],
+          "word": "verliert",
+          "word_index": 574,
+          "confidence": 0.993
+        },
+        {
+          "interval": [
+            298.44,
+            298.52
+          ],
+          "word": "[*]",
+          "word_index": 575,
+          "confidence": 0
+        },
+        {
+          "interval": [
+            298.52,
+            299.62
+          ],
+          "word": "möglicherweise",
+          "word_index": 576,
+          "confidence": 0.975
+        },
+        {
+          "interval": [
+            299.62,
+            299.9
+          ],
+          "word": "seinen",
+          "word_index": 577,
+          "confidence": 0.99
+        },
+        {
+          "interval": [
+            299.9,
+            300.52
+          ],
+          "word": "Traumjob.",
+          "word_index": 578,
+          "confidence": 0.985
+        }
+      ]
+    },
+    {
+      "interval": [
+        300.52,
+        308.28
+      ],
+      "transcript": "Für diesen Tesla-Fahrer ist das Auto mit einer negativen Erfahrung verbunden.",
+      "result_index": 47,
+      "confidence": 0.996,
+      "words": [
+        {
+          "interval": [
+            300.52,
+            301.28
+          ],
+          "word": "Für",
+          "word_index": 579,
+          "confidence": 0.981
+        },
+        {
+          "interval": [
+            301.28,
+            301.56
+          ],
+          "word": "diesen",
+          "word_index": 580,
+          "confidence": 0.997
+        },
+        {
+          "interval": [
+            301.56,
+            303.22
+          ],
+          "word": "Tesla-Fahrer",
+          "word_index": 581,
+          "confidence": 0.992
+        },
+        {
+          "interval": [
+            303.22,
+            303.6
+          ],
+          "word": "[*]",
+          "word_index": 582,
+          "confidence": 0
+        },
+        {
+          "interval": [
+            303.6,
+            303.82
+          ],
+          "word": "ist",
+          "word_index": 583,
+          "confidence": 0.998
+        },
+        {
+          "interval": [
+            303.82,
+            303.96
+          ],
+          "word": "das",
+          "word_index": 584,
+          "confidence": 1.0
+        },
+        {
+          "interval": [
+            303.96,
+            304.44
+          ],
+          "word": "Auto",
+          "word_index": 585,
+          "confidence": 0.999
+        },
+        {
+          "interval": [
+            304.44,
+            305.39
+          ],
+          "word": "[*]",
+          "word_index": 586,
+          "confidence": 0
+        },
+        {
+          "interval": [
+            305.58,
+            306.02
+          ],
+          "word": "mit",
+          "word_index": 587,
+          "confidence": 0.996
+        },
+        {
+          "interval": [
+            306.02,
+            306.36
+          ],
+          "word": "einer",
+          "word_index": 588,
+          "confidence": 1.0
+        },
+        {
+          "interval": [
+            306.36,
+            307.04
+          ],
+          "word": "negativen",
+          "word_index": 589,
+          "confidence": 1.0
+        },
+        {
+          "interval": [
+            307.04,
+            307.5
+          ],
+          "word": "Erfahrung",
+          "word_index": 590,
+          "confidence": 1.0
+        },
+        {
+          "interval": [
+            307.5,
+            308.28
+          ],
+          "word": "verbunden.",
+          "word_index": 591,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "interval": [
+        308.76,
+        314.33
+      ],
+      "transcript": "Lassen Sie mich die wichtigsten Punkte der Service Dominant Logic noch einmal zusammenfassen.",
+      "result_index": 48,
+      "confidence": 0.914,
+      "words": [
+        {
+          "interval": [
+            308.76,
+            309.14
+          ],
+          "word": "[*]",
+          "word_index": 592,
+          "confidence": 0
+        },
+        {
+          "interval": [
+            309.27,
+            309.91
+          ],
+          "word": "Lassen",
+          "word_index": 593,
+          "confidence": 0.968
+        },
+        {
+          "interval": [
+            309.91,
+            309.99
+          ],
+          "word": "Sie",
+          "word_index": 594,
+          "confidence": 0.907
+        },
+        {
+          "interval": [
+            309.99,
+            310.13
+          ],
+          "word": "mich",
+          "word_index": 595,
+          "confidence": 0.998
+        },
+        {
+          "interval": [
+            310.13,
+            310.25
+          ],
+          "word": "die",
+          "word_index": 596,
+          "confidence": 0.992
+        },
+        {
+          "interval": [
+            310.25,
+            310.99
+          ],
+          "word": "wichtigsten",
+          "word_index": 597,
+          "confidence": 0.997
+        },
+        {
+          "interval": [
+            310.99,
+            311.33
+          ],
+          "word": "Punkte",
+          "word_index": 598,
+          "confidence": 0.985
+        },
+        {
+          "interval": [
+            311.33,
+            311.59
+          ],
+          "word": "der",
+          "word_index": 599,
+          "confidence": 0.93
+        },
+        {
+          "interval": [
+            311.59,
+            311.81
+          ],
+          "word": "Service",
+          "word_index": 600,
+          "confidence": 0.906
+        },
+        {
+          "interval": [
+            311.81,
+            312.29
+          ],
+          "word": "Dominant",
+          "word_index": 601,
+          "confidence": 0.681
+        },
+        {
+          "interval": [
+            312.29,
+            312.59
+          ],
+          "word": "Logic",
+          "word_index": 602,
+          "confidence": 0.905
+        },
+        {
+          "interval": [
+            312.59,
+            313.01
+          ],
+          "word": "noch",
+          "word_index": 603,
+          "confidence": 0.9
+        },
+        {
+          "interval": [
+            313.01,
+            313.35
+          ],
+          "word": "einmal",
+          "word_index": 604,
+          "confidence": 0.978
+        },
+        {
+          "interval": [
+            313.35,
+            314.33
+          ],
+          "word": "zusammenfassen.",
+          "word_index": 605,
+          "confidence": 0.92
+        }
+      ]
+    },
+    {
+      "interval": [
+        314.33,
+        318.03
+      ],
+      "transcript": "Ich möchte anfangen mit einem falschen Denken über Produkte.",
+      "result_index": 49,
+      "confidence": 0.996,
+      "words": [
+        {
+          "interval": [
+            314.33,
+            314.91
+          ],
+          "word": "Ich",
+          "word_index": 606,
+          "confidence": 0.98
+        },
+        {
+          "interval": [
+            314.91,
+            315.15
+          ],
+          "word": "möchte",
+          "word_index": 607,
+          "confidence": 0.999
+        },
+        {
+          "interval": [
+            315.15,
+            315.71
+          ],
+          "word": "anfangen",
+          "word_index": 608,
+          "confidence": 0.998
+        },
+        {
+          "interval": [
+            315.71,
+            315.87
+          ],
+          "word": "mit",
+          "word_index": 609,
+          "confidence": 0.996
+        },
+        {
+          "interval": [
+            315.87,
+            316.09
+          ],
+          "word": "einem",
+          "word_index": 610,
+          "confidence": 0.999
+        },
+        {
+          "interval": [
+            316.09,
+            316.73
+          ],
+          "word": "falschen",
+          "word_index": 611,
+          "confidence": 0.998
+        },
+        {
+          "interval": [
+            316.73,
+            317.21
+          ],
+          "word": "Denken",
+          "word_index": 612,
+          "confidence": 0.998
+        },
+        {
+          "interval": [
+            317.21,
+            317.45
+          ],
+          "word": "über",
+          "word_index": 613,
+          "confidence": 0.998
+        },
+        {
+          "interval": [
+            317.45,
+            318.03
+          ],
+          "word": "Produkte.",
+          "word_index": 614,
+          "confidence": 0.994
+        }
+      ]
+    },
+    {
+      "interval": [
+        319.39,
+        323.67
+      ],
+      "transcript": "Wir kaufen Produkte nicht wegen ihrer produktspezifischen Eigenschaften.",
+      "result_index": 50,
+      "confidence": 0.966,
+      "words": [
+        {
+          "interval": [
+            319.39,
+            319.41
+          ],
+          "word": "Wir",
+          "word_index": 615,
+          "confidence": 0.85
+        },
+        {
+          "interval": [
+            319.41,
+            319.77
+          ],
+          "word": "kaufen",
+          "word_index": 616,
+          "confidence": 0.996
+        },
+        {
+          "interval": [
+            319.77,
+            320.25
+          ],
+          "word": "Produkte",
+          "word_index": 617,
+          "confidence": 0.995
+        },
+        {
+          "interval": [
+            320.25,
+            320.67
+          ],
+          "word": "nicht",
+          "word_index": 618,
+          "confidence": 0.969
+        },
+        {
+          "interval": [
+            320.67,
+            321.01
+          ],
+          "word": "wegen",
+          "word_index": 619,
+          "confidence": 0.952
+        },
+        {
+          "interval": [
+            321.01,
+            321.35
+          ],
+          "word": "ihrer",
+          "word_index": 620,
+          "confidence": 0.982
+        },
+        {
+          "interval": [
+            321.35,
+            322.57
+          ],
+          "word": "produktspezifischen",
+          "word_index": 621,
+          "confidence": 0.982
+        },
+        {
+          "interval": [
+            322.57,
+            323.67
+          ],
+          "word": "Eigenschaften.",
+          "word_index": 622,
+          "confidence": 0.957
+        }
+      ]
+    },
+    {
+      "interval": [
+        323.67,
+        327.95
+      ],
+      "transcript": "Sondern weil sie uns einen Nutzen stiften, eben diesen Service.",
+      "result_index": 51,
+      "confidence": 0.762,
+      "words": [
+        {
+          "interval": [
+            323.67,
+            324.61
+          ],
+          "word": "Sondern",
+          "word_index": 623,
+          "confidence": 0.209
+        },
+        {
+          "interval": [
+            324.61,
+            324.77
+          ],
+          "word": "weil",
+          "word_index": 624,
+          "confidence": 0.804
+        },
+        {
+          "interval": [
+            324.77,
+            324.93
+          ],
+          "word": "sie",
+          "word_index": 625,
+          "confidence": 0.937
+        },
+        {
+          "interval": [
+            324.93,
+            325.15
+          ],
+          "word": "uns",
+          "word_index": 626,
+          "confidence": 0.989
+        },
+        {
+          "interval": [
+            325.15,
+            325.49
+          ],
+          "word": "einen",
+          "word_index": 627,
+          "confidence": 0.915
+        },
+        {
+          "interval": [
+            325.49,
+            326.11
+          ],
+          "word": "Nutzen",
+          "word_index": 628,
+          "confidence": 0.953
+        },
+        {
+          "interval": [
+            326.11,
+            326.77
+          ],
+          "word": "stiften,",
+          "word_index": 629,
+          "confidence": 0.871
+        },
+        {
+          "interval": [
+            326.79,
+            327.09
+          ],
+          "word": "eben",
+          "word_index": 630,
+          "confidence": 0.947
+        },
+        {
+          "interval": [
+            327.09,
+            327.39
+          ],
+          "word": "diesen",
+          "word_index": 631,
+          "confidence": 0.974
+        },
+        {
+          "interval": [
+            327.39,
+            327.95
+          ],
+          "word": "Service.",
+          "word_index": 632,
+          "confidence": 0.945
+        }
+      ]
+    },
+    {
+      "interval": [
+        327.95,
+        334.07
+      ],
+      "transcript": "Wir kaufen Produkte, weil sie uns sogenannte Intangibles liefern.",
+      "result_index": 52,
+      "confidence": 0.91,
+      "words": [
+        {
+          "interval": [
+            327.95,
+            328.63
+          ],
+          "word": "[*]",
+          "word_index": 633,
+          "confidence": 0
+        },
+        {
+          "interval": [
+            328.63,
+            328.93
+          ],
+          "word": "Wir",
+          "word_index": 634,
+          "confidence": 0.817
+        },
+        {
+          "interval": [
+            329.01,
+            329.69
+          ],
+          "word": "kaufen",
+          "word_index": 635,
+          "confidence": 0.989
+        },
+        {
+          "interval": [
+            329.69,
+            330.35
+          ],
+          "word": "Produkte,",
+          "word_index": 636,
+          "confidence": 0.963
+        },
+        {
+          "interval": [
+            330.49,
+            331.01
+          ],
+          "word": "[*]",
+          "word_index": 637,
+          "confidence": 0
+        },
+        {
+          "interval": [
+            331.01,
+            331.19
+          ],
+          "word": "weil",
+          "word_index": 638,
+          "confidence": 0.976
+        },
+        {
+          "interval": [
+            331.19,
+            331.27
+          ],
+          "word": "sie",
+          "word_index": 639,
+          "confidence": 0.957
+        },
+        {
+          "interval": [
+            331.27,
+            331.47
+          ],
+          "word": "uns",
+          "word_index": 640,
+          "confidence": 0.988
+        },
+        {
+          "interval": [
+            331.47,
+            331.95
+          ],
+          "word": "sogenannte",
+          "word_index": 641,
+          "confidence": 0.925
+        },
+        {
+          "interval": [
+            331.95,
+            332.91
+          ],
+          "word": "Intangibles",
+          "word_index": 642,
+          "confidence": 0.765
+        },
+        {
+          "interval": [
+            332.91,
+            333.59
+          ],
+          "word": "[*]",
+          "word_index": 643,
+          "confidence": 0
+        },
+        {
+          "interval": [
+            333.59,
+            334.07
+          ],
+          "word": "liefern.",
+          "word_index": 644,
+          "confidence": 0.952
+        }
+      ]
+    },
+    {
+      "interval": [
+        334.07,
+        344.99
+      ],
+      "transcript": "Also etwas nicht Greifbares, wie der Zugang zu einer Community, die Marke an sich, den Status, den wir erreichen, wenn wir ein bestimmtes Produkt nutzen.",
+      "result_index": 53,
+      "confidence": 0.894,
+      "words": [
+        {
+          "interval": [
+            334.07,
+            334.69
+          ],
+          "word": "Also",
+          "word_index": 645,
+          "confidence": 0.652
+        },
+        {
+          "interval": [
+            334.69,
+            335.15
+          ],
+          "word": "etwas",
+          "word_index": 646,
+          "confidence": 0.964
+        },
+        {
+          "interval": [
+            335.15,
+            335.35
+          ],
+          "word": "nicht",
+          "word_index": 647,
+          "confidence": 0.739
+        },
+        {
+          "interval": [
+            335.35,
+            336.17
+          ],
+          "word": "Greifbares,",
+          "word_index": 648,
+          "confidence": 0.828
+        },
+        {
+          "interval": [
+            336.31,
+            336.53
+          ],
+          "word": "wie",
+          "word_index": 649,
+          "confidence": 0.984
+        },
+        {
+          "interval": [
+            336.53,
+            336.73
+          ],
+          "word": "der",
+          "word_index": 650,
+          "confidence": 0.973
+        },
+        {
+          "interval": [
+            336.73,
+            337.21
+          ],
+          "word": "Zugang",
+          "word_index": 651,
+          "confidence": 0.992
+        },
+        {
+          "interval": [
+            337.21,
+            337.33
+          ],
+          "word": "zu",
+          "word_index": 652,
+          "confidence": 0.992
+        },
+        {
+          "interval": [
+            337.33,
+            337.51
+          ],
+          "word": "einer",
+          "word_index": 653,
+          "confidence": 0.996
+        },
+        {
+          "interval": [
+            337.51,
+            337.69
+          ],
+          "word": "[*]",
+          "word_index": 654,
+          "confidence": 0
+        },
+        {
+          "interval": [
+            337.69,
+            337.97
+          ],
+          "word": "Community,",
+          "word_index": 655,
+          "confidence": 0.934
+        },
+        {
+          "interval": [
+            337.97,
+            338.35
+          ],
+          "word": "[*]",
+          "word_index": 656,
+          "confidence": 0
+        },
+        {
+          "interval": [
+            338.35,
+            338.83
+          ],
+          "word": "die",
+          "word_index": 657,
+          "confidence": 0.789
+        },
+        {
+          "interval": [
+            338.83,
+            339.35
+          ],
+          "word": "Marke",
+          "word_index": 658,
+          "confidence": 0.993
+        },
+        {
+          "interval": [
+            339.35,
+            339.47
+          ],
+          "word": "an",
+          "word_index": 659,
+          "confidence": 0.912
+        },
+        {
+          "interval": [
+            339.47,
+            339.83
+          ],
+          "word": "sich,",
+          "word_index": 660,
+          "confidence": 0.925
+        },
+        {
+          "interval": [
+            339.95,
+            340.17
+          ],
+          "word": "den",
+          "word_index": 661,
+          "confidence": 0.399
+        },
+        {
+          "interval": [
+            340.17,
+            340.45
+          ],
+          "word": "[*]",
+          "word_index": 662,
+          "confidence": 0
+        },
+        {
+          "interval": [
+            340.45,
+            340.67
+          ],
+          "word": "Status,",
+          "word_index": 663,
+          "confidence": 0.874
+        },
+        {
+          "interval": [
+            340.87,
+            341.05
+          ],
+          "word": "den",
+          "word_index": 664,
+          "confidence": 0.745
+        },
+        {
+          "interval": [
+            341.05,
+            341.21
+          ],
+          "word": "wir",
+          "word_index": 665,
+          "confidence": 0.98
+        },
+        {
+          "interval": [
+            341.21,
+            341.65
+          ],
+          "word": "erreichen,",
+          "word_index": 666,
+          "confidence": 0.983
+        },
+        {
+          "interval": [
+            341.89,
+            342.43
+          ],
+          "word": "wenn",
+          "word_index": 667,
+          "confidence": 0.88
+        },
+        {
+          "interval": [
+            342.43,
+            342.57
+          ],
+          "word": "wir",
+          "word_index": 668,
+          "confidence": 0.998
+        },
+        {
+          "interval": [
+            342.57,
+            342.67
+          ],
+          "word": "ein",
+          "word_index": 669,
+          "confidence": 0.998
+        },
+        {
+          "interval": [
+            342.67,
+            343.19
+          ],
+          "word": "bestimmtes",
+          "word_index": 670,
+          "confidence": 0.989
+        },
+        {
+          "interval": [
+            343.19,
+            343.55
+          ],
+          "word": "Produkt",
+          "word_index": 671,
+          "confidence": 0.999
+        },
+        {
+          "interval": [
+            343.55,
+            344.87
+          ],
+          "word": "[*]",
+          "word_index": 672,
+          "confidence": 0
+        },
+        {
+          "interval": [
+            344.87,
+            344.99
+          ],
+          "word": "nutzen.",
+          "word_index": 673,
+          "confidence": 0.984
+        }
+      ]
+    },
+    {
+      "interval": [
+        344.99,
+        350.12
+      ],
+      "transcript": "Wir kaufen Produkte, weil wir damit eine ganzheitliche Erfahrung machen.",
+      "result_index": 54,
+      "confidence": 0.964,
+      "words": [
+        {
+          "interval": [
+            344.99,
+            345.59
+          ],
+          "word": "Wir",
+          "word_index": 674,
+          "confidence": 0.712
+        },
+        {
+          "interval": [
+            346.32,
+            346.98
+          ],
+          "word": "kaufen",
+          "word_index": 675,
+          "confidence": 0.983
+        },
+        {
+          "interval": [
+            346.98,
+            347.56
+          ],
+          "word": "Produkte,",
+          "word_index": 676,
+          "confidence": 0.973
+        },
+        {
+          "interval": [
+            347.66,
+            347.8
+          ],
+          "word": "weil",
+          "word_index": 677,
+          "confidence": 0.989
+        },
+        {
+          "interval": [
+            347.8,
+            347.86
+          ],
+          "word": "wir",
+          "word_index": 678,
+          "confidence": 0.996
+        },
+        {
+          "interval": [
+            347.86,
+            348.08
+          ],
+          "word": "damit",
+          "word_index": 679,
+          "confidence": 0.996
+        },
+        {
+          "interval": [
+            348.08,
+            348.32
+          ],
+          "word": "eine",
+          "word_index": 680,
+          "confidence": 0.988
+        },
+        {
+          "interval": [
+            348.32,
+            349.16
+          ],
+          "word": "ganzheitliche",
+          "word_index": 681,
+          "confidence": 0.998
+        },
+        {
+          "interval": [
+            349.16,
+            349.6
+          ],
+          "word": "Erfahrung",
+          "word_index": 682,
+          "confidence": 0.991
+        },
+        {
+          "interval": [
+            349.6,
+            349.86
+          ],
+          "word": "[*]",
+          "word_index": 683,
+          "confidence": 0
+        },
+        {
+          "interval": [
+            349.86,
+            350.12
+          ],
+          "word": "machen.",
+          "word_index": 684,
+          "confidence": 0.971
+        }
+      ]
+    },
+    {
+      "interval": [
+        350.24,
+        356.07
+      ],
+      "transcript": "Ein falsches Denken über Services wäre folgendes.",
+      "result_index": 55,
+      "confidence": 0.91,
+      "words": [
+        {
+          "interval": [
+            350.24,
+            351.06
+          ],
+          "word": "Ein",
+          "word_index": 685,
+          "confidence": 0.919
+        },
+        {
+          "interval": [
+            352.55,
+            353.15
+          ],
+          "word": "falsches",
+          "word_index": 686,
+          "confidence": 0.986
+        },
+        {
+          "interval": [
+            353.15,
+            353.81
+          ],
+          "word": "Denken",
+          "word_index": 687,
+          "confidence": 0.986
+        },
+        {
+          "interval": [
+            353.81,
+            354.09
+          ],
+          "word": "über",
+          "word_index": 688,
+          "confidence": 0.989
+        },
+        {
+          "interval": [
+            354.09,
+            354.55
+          ],
+          "word": "Services",
+          "word_index": 689,
+          "confidence": 0.976
+        },
+        {
+          "interval": [
+            354.55,
+            355.29
+          ],
+          "word": "wäre",
+          "word_index": 690,
+          "confidence": 0.982
+        },
+        {
+          "interval": [
+            355.29,
+            356.07
+          ],
+          "word": "folgendes.",
+          "word_index": 691,
+          "confidence": 0.79
+        }
+      ]
+    },
+    {
+      "interval": [
+        356.07,
+        364.59
+      ],
+      "transcript": "Services sind eine eigene Produktkategorie e. v. mit einem immateriell Leistungsergebnis.",
+      "result_index": 56,
+      "confidence": 0.268,
+      "words": [
+        {
+          "interval": [
+            356.07,
+            357.05
+          ],
+          "word": "Services",
+          "word_index": 692,
+          "confidence": 0.94
+        },
+        {
+          "interval": [
+            357.05,
+            357.41
+          ],
+          "word": "sind",
+          "word_index": 693,
+          "confidence": 0.998
+        },
+        {
+          "interval": [
+            357.41,
+            357.77
+          ],
+          "word": "eine",
+          "word_index": 694,
+          "confidence": 0.996
+        },
+        {
+          "interval": [
+            357.77,
+            358.09
+          ],
+          "word": "[*]",
+          "word_index": 695,
+          "confidence": 0
+        },
+        {
+          "interval": [
+            358.09,
+            358.39
+          ],
+          "word": "eigene",
+          "word_index": 696,
+          "confidence": 0.998
+        },
+        {
+          "interval": [
+            358.39,
+            360.05
+          ],
+          "word": "Produktkategorie",
+          "word_index": 697,
+          "confidence": 0.999
+        },
+        {
+          "interval": [
+            360.05,
+            360.71
+          ],
+          "word": "e.",
+          "word_index": 698,
+          "confidence": 0.004
+        },
+        {
+          "interval": [
+            360.71,
+            360.89
+          ],
+          "word": "v.",
+          "word_index": 699,
+          "confidence": 0.046
+        },
+        {
+          "interval": [
+            361.31,
+            361.57
+          ],
+          "word": "mit",
+          "word_index": 700,
+          "confidence": 0.938
+        },
+        {
+          "interval": [
+            361.57,
+            361.89
+          ],
+          "word": "[*]",
+          "word_index": 701,
+          "confidence": 0
+        },
+        {
+          "interval": [
+            361.89,
+            362.17
+          ],
+          "word": "einem",
+          "word_index": 702,
+          "confidence": 0.954
+        },
+        {
+          "interval": [
+            362.17,
+            362.51
+          ],
+          "word": "[*]",
+          "word_index": 703,
+          "confidence": 0
+        },
+        {
+          "interval": [
+            362.51,
+            363.33
+          ],
+          "word": "immateriell",
+          "word_index": 704,
+          "confidence": 0.069
+        },
+        {
+          "interval": [
+            363.33,
+            364.59
+          ],
+          "word": "Leistungsergebnis.",
+          "word_index": 705,
+          "confidence": 0.454
+        }
+      ]
+    },
+    {
+      "interval": [
+        364.59,
+        367.83
+      ],
+      "transcript": "E.V. ein Beratungsgespräch.",
+      "result_index": 57,
+      "confidence": 0.334,
+      "words": [
+        {
+          "interval": [
+            364.59,
+            365.39
+          ],
+          "word": "E.V.",
+          "word_index": 706,
+          "confidence": 0.04
+        },
+        {
+          "interval": [
+            365.77,
+            366.03
+          ],
+          "word": "ein",
+          "word_index": 707,
+          "confidence": 0.928
+        },
+        {
+          "interval": [
+            366.03,
+            367.83
+          ],
+          "word": "Beratungsgespräch.",
+          "word_index": 708,
+          "confidence": 0.971
+        }
+      ]
+    },
+    {
+      "interval": [
+        368.92,
+        380.22
+      ],
+      "transcript": "Oder Services sind allenfalls ein Anhängsel für Produkte, im Sinne von Value-Added-Services.",
+      "result_index": 58,
+      "confidence": 0.738,
+      "words": [
+        {
+          "interval": [
+            368.92,
+            369.71
+          ],
+          "word": "Oder",
+          "word_index": 709,
+          "confidence": 0.59
+        },
+        {
+          "interval": [
+            372.17,
+            372.63
+          ],
+          "word": "Services",
+          "word_index": 710,
+          "confidence": 0.93
+        },
+        {
+          "interval": [
+            372.63,
+            373.25
+          ],
+          "word": "[*]",
+          "word_index": 711,
+          "confidence": 0
+        },
+        {
+          "interval": [
+            373.25,
+            373.53
+          ],
+          "word": "sind",
+          "word_index": 712,
+          "confidence": 0.994
+        },
+        {
+          "interval": [
+            373.53,
+            374.45
+          ],
+          "word": "[*]",
+          "word_index": 713,
+          "confidence": 0
+        },
+        {
+          "interval": [
+            374.82,
+            375.56
+          ],
+          "word": "allenfalls",
+          "word_index": 714,
+          "confidence": 0.993
+        },
+        {
+          "interval": [
+            375.56,
+            375.86
+          ],
+          "word": "ein",
+          "word_index": 715,
+          "confidence": 0.987
+        },
+        {
+          "interval": [
+            375.86,
+            376.82
+          ],
+          "word": "Anhängsel",
+          "word_index": 716,
+          "confidence": 0.997
+        },
+        {
+          "interval": [
+            376.82,
+            377.14
+          ],
+          "word": "[*]",
+          "word_index": 717,
+          "confidence": 0
+        },
+        {
+          "interval": [
+            377.14,
+            377.28
+          ],
+          "word": "für",
+          "word_index": 718,
+          "confidence": 0.993
+        },
+        {
+          "interval": [
+            377.28,
+            377.98
+          ],
+          "word": "Produkte,",
+          "word_index": 719,
+          "confidence": 0.264
+        },
+        {
+          "interval": [
+            378.14,
+            378.4
+          ],
+          "word": "im",
+          "word_index": 720,
+          "confidence": 0.848
+        },
+        {
+          "interval": [
+            378.4,
+            378.64
+          ],
+          "word": "Sinne",
+          "word_index": 721,
+          "confidence": 0.997
+        },
+        {
+          "interval": [
+            378.64,
+            378.88
+          ],
+          "word": "von",
+          "word_index": 722,
+          "confidence": 0.997
+        },
+        {
+          "interval": [
+            378.88,
+            380.22
+          ],
+          "word": "Value-Added-Services.",
+          "word_index": 723,
+          "confidence": 0.734
+        }
+      ]
+    },
+    {
+      "interval": [
+        380.24,
+        383.24
+      ],
+      "transcript": "Aber keinesfalls einusted Services.",
+      "result_index": 59,
+      "confidence": 0.02,
+      "words": [
+        {
+          "interval": [
+            380.24,
+            380.72
+          ],
+          "word": "Aber",
+          "word_index": 724,
+          "confidence": 0.213
+        },
+        {
+          "interval": [
+            380.72,
+            382.06
+          ],
+          "word": "keinesfalls",
+          "word_index": 725,
+          "confidence": 0.996
+        },
+        {
+          "interval": [
+            382.06,
+            382.46
+          ],
+          "word": "[*]",
+          "word_index": 726,
+          "confidence": 0
+        },
+        {
+          "interval": [
+            382.46,
+            383.22
+          ],
+          "word": "einusted",
+          "word_index": 727,
+          "confidence": 0.0
+        },
+        {
+          "interval": [
+            383.22,
+            383.24
+          ],
+          "word": "Services.",
+          "word_index": 728,
+          "confidence": 0.002
+        }
+      ]
+    },
+    {
+      "interval": [
+        383.24,
+        392.38
+      ],
+      "transcript": "im Vordergrund zu sehen. Ein aus der Service-Dominant-Logic richtiges Denken über Service wäre das",
+      "result_index": 60,
+      "confidence": 0.88,
+      "words": [
+        {
+          "interval": [
+            383.24,
+            383.98
+          ],
+          "word": "[*]",
+          "word_index": 729,
+          "confidence": 0
+        },
+        {
+          "interval": [
+            383.98,
+            384.14
+          ],
+          "word": "im",
+          "word_index": 730,
+          "confidence": 0.678
+        },
+        {
+          "interval": [
+            384.14,
+            384.92
+          ],
+          "word": "Vordergrund",
+          "word_index": 731,
+          "confidence": 0.946
+        },
+        {
+          "interval": [
+            384.92,
+            385.04
+          ],
+          "word": "zu",
+          "word_index": 732,
+          "confidence": 0.986
+        },
+        {
+          "interval": [
+            385.04,
+            385.4
+          ],
+          "word": "sehen.",
+          "word_index": 733,
+          "confidence": 0.967
+        },
+        {
+          "interval": [
+            385.5,
+            386.07
+          ],
+          "word": "[*]",
+          "word_index": 734,
+          "confidence": 0
+        },
+        {
+          "interval": [
+            387.7,
+            387.92
+          ],
+          "word": "Ein",
+          "word_index": 735,
+          "confidence": 0.756
+        },
+        {
+          "interval": [
+            387.92,
+            388.14
+          ],
+          "word": "aus",
+          "word_index": 736,
+          "confidence": 0.937
+        },
+        {
+          "interval": [
+            388.14,
+            388.36
+          ],
+          "word": "der",
+          "word_index": 737,
+          "confidence": 0.992
+        },
+        {
+          "interval": [
+            388.36,
+            389.86
+          ],
+          "word": "Service-Dominant-Logic",
+          "word_index": 738,
+          "confidence": 0.82
+        },
+        {
+          "interval": [
+            389.86,
+            390.6
+          ],
+          "word": "richtiges",
+          "word_index": 739,
+          "confidence": 0.922
+        },
+        {
+          "interval": [
+            390.6,
+            391.08
+          ],
+          "word": "Denken",
+          "word_index": 740,
+          "confidence": 0.907
+        },
+        {
+          "interval": [
+            391.08,
+            391.36
+          ],
+          "word": "über",
+          "word_index": 741,
+          "confidence": 0.867
+        },
+        {
+          "interval": [
+            391.36,
+            391.74
+          ],
+          "word": "Service",
+          "word_index": 742,
+          "confidence": 0.96
+        },
+        {
+          "interval": [
+            391.74,
+            392.12
+          ],
+          "word": "wäre",
+          "word_index": 743,
+          "confidence": 0.926
+        },
+        {
+          "interval": [
+            392.12,
+            392.38
+          ],
+          "word": "das",
+          "word_index": 744,
+          "confidence": 0.949
+        }
+      ]
+    },
+    {
+      "interval": [
+        392.38,
+        401.77
+      ],
+      "transcript": "folgende. Service ist ein Prozess. Es werden Ressourcen eines Akteurs zum Nutzen eines anderen",
+      "result_index": 61,
+      "confidence": 0.835,
+      "words": [
+        {
+          "interval": [
+            392.38,
+            392.92
+          ],
+          "word": "folgende.",
+          "word_index": 745,
+          "confidence": 0.324
+        },
+        {
+          "interval": [
+            393.04,
+            393.62
+          ],
+          "word": "[*]",
+          "word_index": 746,
+          "confidence": 0
+        },
+        {
+          "interval": [
+            393.62,
+            394.02
+          ],
+          "word": "Service",
+          "word_index": 747,
+          "confidence": 0.869
+        },
+        {
+          "interval": [
+            394.02,
+            394.44
+          ],
+          "word": "ist",
+          "word_index": 748,
+          "confidence": 0.999
+        },
+        {
+          "interval": [
+            394.44,
+            394.8
+          ],
+          "word": "ein",
+          "word_index": 749,
+          "confidence": 0.997
+        },
+        {
+          "interval": [
+            394.8,
+            395.54
+          ],
+          "word": "Prozess.",
+          "word_index": 750,
+          "confidence": 0.949
+        },
+        {
+          "interval": [
+            395.76,
+            396.32
+          ],
+          "word": "[*]",
+          "word_index": 751,
+          "confidence": 0
+        },
+        {
+          "interval": [
+            396.78,
+            397.31
+          ],
+          "word": "Es",
+          "word_index": 752,
+          "confidence": 0.982
+        },
+        {
+          "interval": [
+            397.31,
+            397.73
+          ],
+          "word": "werden",
+          "word_index": 753,
+          "confidence": 0.993
+        },
+        {
+          "interval": [
+            397.73,
+            398.71
+          ],
+          "word": "Ressourcen",
+          "word_index": 754,
+          "confidence": 0.993
+        },
+        {
+          "interval": [
+            398.71,
+            399.39
+          ],
+          "word": "eines",
+          "word_index": 755,
+          "confidence": 0.984
+        },
+        {
+          "interval": [
+            399.39,
+            400.25
+          ],
+          "word": "Akteurs",
+          "word_index": 756,
+          "confidence": 0.992
+        },
+        {
+          "interval": [
+            400.25,
+            400.49
+          ],
+          "word": "zum",
+          "word_index": 757,
+          "confidence": 0.75
+        },
+        {
+          "interval": [
+            400.49,
+            401.05
+          ],
+          "word": "Nutzen",
+          "word_index": 758,
+          "confidence": 0.942
+        },
+        {
+          "interval": [
+            401.05,
+            401.35
+          ],
+          "word": "eines",
+          "word_index": 759,
+          "confidence": 0.981
+        },
+        {
+          "interval": [
+            401.35,
+            401.77
+          ],
+          "word": "anderen",
+          "word_index": 760,
+          "confidence": 0.885
+        }
+      ]
+    },
+    {
+      "interval": [
+        401.77,
+        414.19
+      ],
+      "transcript": "Akteurs integriert. Service oder andersrum gesprochen, ein Produkt ist ein Vehikel für",
+      "result_index": 62,
+      "confidence": 0.796,
+      "words": [
+        {
+          "interval": [
+            401.77,
+            402.63
+          ],
+          "word": "Akteurs",
+          "word_index": 761,
+          "confidence": 0.827
+        },
+        {
+          "interval": [
+            402.63,
+            403.51
+          ],
+          "word": "integriert.",
+          "word_index": 762,
+          "confidence": 0.971
+        },
+        {
+          "interval": [
+            403.65,
+            404.34
+          ],
+          "word": "[*]",
+          "word_index": 763,
+          "confidence": 0
+        },
+        {
+          "interval": [
+            407.42,
+            407.76
+          ],
+          "word": "Service",
+          "word_index": 764,
+          "confidence": 0.934
+        },
+        {
+          "interval": [
+            407.76,
+            408.69
+          ],
+          "word": "[*]",
+          "word_index": 765,
+          "confidence": 0
+        },
+        {
+          "interval": [
+            409.61,
+            409.77
+          ],
+          "word": "oder",
+          "word_index": 766,
+          "confidence": 0.577
+        },
+        {
+          "interval": [
+            409.77,
+            410.33
+          ],
+          "word": "andersrum",
+          "word_index": 767,
+          "confidence": 0.903
+        },
+        {
+          "interval": [
+            410.33,
+            410.81
+          ],
+          "word": "gesprochen,",
+          "word_index": 768,
+          "confidence": 0.447
+        },
+        {
+          "interval": [
+            411.07,
+            411.57
+          ],
+          "word": "ein",
+          "word_index": 769,
+          "confidence": 0.967
+        },
+        {
+          "interval": [
+            411.57,
+            411.95
+          ],
+          "word": "Produkt",
+          "word_index": 770,
+          "confidence": 0.992
+        },
+        {
+          "interval": [
+            411.95,
+            412.31
+          ],
+          "word": "[*]",
+          "word_index": 771,
+          "confidence": 0
+        },
+        {
+          "interval": [
+            412.31,
+            412.41
+          ],
+          "word": "ist",
+          "word_index": 772,
+          "confidence": 0.981
+        },
+        {
+          "interval": [
+            412.41,
+            412.57
+          ],
+          "word": "ein",
+          "word_index": 773,
+          "confidence": 0.967
+        },
+        {
+          "interval": [
+            412.57,
+            413.59
+          ],
+          "word": "Vehikel",
+          "word_index": 774,
+          "confidence": 0.548
+        },
+        {
+          "interval": [
+            413.59,
+            414.19
+          ],
+          "word": "für",
+          "word_index": 775,
+          "confidence": 0.873
+        }
+      ]
+    },
+    {
+      "interval": [
+        414.19,
+        423.07
+      ],
+      "transcript": "Service. Die Philosophie wird umgedreht und am Ende ist auch der Kunde als Leistungsnehmer",
+      "result_index": 63,
+      "confidence": 0.923,
+      "words": [
+        {
+          "interval": [
+            414.19,
+            414.71
+          ],
+          "word": "Service.",
+          "word_index": 776,
+          "confidence": 0.59
+        },
+        {
+          "interval": [
+            415.37,
+            416.07
+          ],
+          "word": "[*]",
+          "word_index": 777,
+          "confidence": 0
+        },
+        {
+          "interval": [
+            416.07,
+            416.25
+          ],
+          "word": "Die",
+          "word_index": 778,
+          "confidence": 0.985
+        },
+        {
+          "interval": [
+            416.25,
+            416.85
+          ],
+          "word": "Philosophie",
+          "word_index": 779,
+          "confidence": 0.994
+        },
+        {
+          "interval": [
+            416.85,
+            417.05
+          ],
+          "word": "wird",
+          "word_index": 780,
+          "confidence": 0.997
+        },
+        {
+          "interval": [
+            417.05,
+            417.83
+          ],
+          "word": "umgedreht",
+          "word_index": 781,
+          "confidence": 0.999
+        },
+        {
+          "interval": [
+            417.83,
+            418.27
+          ],
+          "word": "[*]",
+          "word_index": 782,
+          "confidence": 0
+        },
+        {
+          "interval": [
+            418.27,
+            418.53
+          ],
+          "word": "und",
+          "word_index": 783,
+          "confidence": 0.647
+        },
+        {
+          "interval": [
+            418.53,
+            418.79
+          ],
+          "word": "am",
+          "word_index": 784,
+          "confidence": 0.994
+        },
+        {
+          "interval": [
+            418.79,
+            419.05
+          ],
+          "word": "[*]",
+          "word_index": 785,
+          "confidence": 0
+        },
+        {
+          "interval": [
+            419.05,
+            419.21
+          ],
+          "word": "Ende",
+          "word_index": 786,
+          "confidence": 0.979
+        },
+        {
+          "interval": [
+            419.21,
+            419.67
+          ],
+          "word": "ist",
+          "word_index": 787,
+          "confidence": 0.975
+        },
+        {
+          "interval": [
+            419.67,
+            420.13
+          ],
+          "word": "auch",
+          "word_index": 788,
+          "confidence": 0.985
+        },
+        {
+          "interval": [
+            420.13,
+            420.35
+          ],
+          "word": "der",
+          "word_index": 789,
+          "confidence": 0.999
+        },
+        {
+          "interval": [
+            420.35,
+            420.93
+          ],
+          "word": "Kunde",
+          "word_index": 790,
+          "confidence": 0.991
+        },
+        {
+          "interval": [
+            420.93,
+            421.49
+          ],
+          "word": "[*]",
+          "word_index": 791,
+          "confidence": 0
+        },
+        {
+          "interval": [
+            421.49,
+            421.83
+          ],
+          "word": "als",
+          "word_index": 792,
+          "confidence": 0.974
+        },
+        {
+          "interval": [
+            421.83,
+            423.07
+          ],
+          "word": "Leistungsnehmer",
+          "word_index": 793,
+          "confidence": 0.934
+        }
+      ]
+    },
+    {
+      "interval": [
+        423.07,
+        429.72
+      ],
+      "transcript": "ein Service-Provider. Vielen Dank für die Aufmerksamkeit.",
+      "result_index": 64,
+      "confidence": 0.749,
+      "words": [
+        {
+          "interval": [
+            423.07,
+            423.81
+          ],
+          "word": "ein",
+          "word_index": 794,
+          "confidence": 0.292
+        },
+        {
+          "interval": [
+            423.81,
+            424.51
+          ],
+          "word": "[*]",
+          "word_index": 795,
+          "confidence": 0
+        },
+        {
+          "interval": [
+            424.51,
+            425.85
+          ],
+          "word": "Service-Provider.",
+          "word_index": 796,
+          "confidence": 0.644
+        },
+        {
+          "interval": [
+            426.05,
+            426.71
+          ],
+          "word": "[*]",
+          "word_index": 797,
+          "confidence": 0
+        },
+        {
+          "interval": [
+            428.18,
+            428.38
+          ],
+          "word": "Vielen",
+          "word_index": 798,
+          "confidence": 0.826
+        },
+        {
+          "interval": [
+            428.38,
+            428.64
+          ],
+          "word": "Dank",
+          "word_index": 799,
+          "confidence": 0.963
+        },
+        {
+          "interval": [
+            428.64,
+            428.78
+          ],
+          "word": "für",
+          "word_index": 800,
+          "confidence": 0.995
+        },
+        {
+          "interval": [
+            428.78,
+            428.9
+          ],
+          "word": "die",
+          "word_index": 801,
+          "confidence": 0.996
+        },
+        {
+          "interval": [
+            428.9,
+            429.72
+          ],
+          "word": "Aufmerksamkeit.",
+          "word_index": 802,
+          "confidence": 0.903
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "model": {
+      "model": "large-v3",
+      "language": "de"
+    },
+    "engine": {
+      "name": "whisper",
+      "version": "20231117",
+      "version-timestamped": "1.15.4"
+    }
+  }
+}

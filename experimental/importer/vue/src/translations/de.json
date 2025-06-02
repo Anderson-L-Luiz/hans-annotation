@@ -1,0 +1,22 @@
+{
+    "App": {
+        "route" : {
+            "import": "Import",
+            "about": "Über",
+            "api": "API"
+        },
+        "welcome": "Hallo!",
+        "instructions": "Importiere eine Videodatei (mp4) um Annotationsaufgaben in labelstud.io zu erzeugen."
+    },
+    "Import": {
+        "description": "Wähle eine Videodatei (mp4) aus:",
+        "language": "Sprache:",
+        "upload": "Hochladen",
+        "ok": "Das Hochladen Ihrer Datei wurde erfolgreich abgeschlossen.",
+        "error": "Beim Hochladen Ihrer Datei ist ein Fehler unterlaufen, bitte versuchen Sie es erneut.",
+        "progress": "Hochladen läuft..."
+    },
+    "ServiceConfig": {
+        "description": "Aktuelle Konfiguration:"
+    }
+}

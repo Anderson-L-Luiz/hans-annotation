@@ -1,0 +1,6 @@
+{
+    "video": "http://localhost:9003/assets/4d4d1a4b-cffe-4c35-97cd-b840d812854b.000000.0-7.mp4",
+    "audio": "http://localhost:9003/assets/4d4d1a4b-cffe-4c35-97cd-b840d812854b.000000.0-7.wav",
+    "transcript": "http://localhost:9003/assets/4d4d1a4b-cffe-4c35-97cd-b840d812854b.000000.0-7.html",
+    "asrResult": "http://localhost:9003/assets/4d4d1a4b-cffe-4c35-97cd-b840d812854b.000000.0-7.json"
+}

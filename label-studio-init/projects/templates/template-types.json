@@ -1,0 +1,10 @@
+{
+  "question": {
+    "type": "question",
+    "members": [
+      "question_text",
+      "name"
+    ],
+    "template": "<View visibleWhen=\"choice-selected\" whenTagName=\"annotatorLanguage\" whenChoiceValue=\"English\"><Style> .ant-radio { height: 32px; width: 32px; } .ant-radio-inner { height: 32px; width: 32px; } .ant-radio-inner::after { height: 24px; width: 24px; margin-left: -12px; margin-top: -12px; } .ant-radio-checked .ant-radio-inner::after { transform: scale(1); } </Style>\n      <Header value=\"{{ question_text.en }}\" />\n    </View>\n    <View visibleWhen=\"choice-selected\" whenTagName=\"annotatorLanguage\" whenChoiceValue=\"German\">\n      <Header value=\"{{ question_text.de }}\" />\n    </View>\n    <Choices name=\"{{ name }}\" toName=\"audio\" choice=\"single-radio\" showInline=\"true\">\n      <Choice value=\" \" alias=\"True\" style=\"background-image: url(https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/svg/thumb-up.svg);  padding-left: 4em; background-repeat: no-repeat; background-size: contain;\" />\n      <Choice value=\" \" alias=\"False\" style=\"background-image: url(https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/svg/thumb-down.svg);  padding-left: 4em; background-repeat: no-repeat; background-size: contain;\" />\n    </Choices>"
+  }
+}

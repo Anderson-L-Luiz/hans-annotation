@@ -1,0 +1,7389 @@
+{
+  "text": " Ich freue mich sehr, heute die komplexe Thematik der Service-Dominant-Logic erklären zu dürfen. Service-Dominant-Logic bedeutet, egal was ein Unternehmen verkauft, es geht um den Nutzen oder den Service, den eine Leistung spendet. Am Beispiel des Krankenhauses. Ein Krankenhaus liefert höchste medizinische Versorgung versus die Menschen verlassen einen Gesundheitsdienstleister mit einer besseren Lebensqualität. Die Service-Dominant-Logic basiert auf zehn fundamentalen Prämissen, wovon ich gerne im Folgenden die aus meiner Sicht vier wichtigsten näher erklären möchte. Fundamentale Prämisse Nummer eins. Die Basis eines jeden Leistungsaustausches ist Service gegen Service. Der Service von Tesla. Elektromobilität, ressourcenschonend, mit einem flächendeckenden Strom-Tankstellennetzwerk, komfortabel. Der Service, den der Kunde liefert, ist dafür zu bezahlen im Anschaffungspreis. Aber auch die Gebühren für die Leistung. Die Strom-Tankstellen natürlich zu entrichten, beziehungsweise Daten zu liefern. Fundamentale Prämisse Nummer zwei. Der Kunde ist immer Mitgestalter des Wertes. Das heißt, es kommt sehr stark darauf an, wie er das Auto nutzt. Ob er entsprechend plant. Ob er sich traut, den Autopilot zu nutzen. Ob er dieses flächendeckende Strom nähert. Ob er das Netzwerk tatsächlich in Anspruch nimmt. Ob er sich in die Software einarbeitet und alle Finessen zu nutzen weiß. Ob er sich in die Tesla Community einbringt und dort neue Menschen kennenlernt. All diese Faktoren beeinflussen den Wert, den der Kunde verspürt. Das heißt, es gibt keinen objektiven Wert eines Autos Tesla. Fundamentale Prämisse Nummer drei. Alle Akteure sind Ressourcen, Integratoren. Wir sprechen von sogenannten Operanten-Ressourcen mit T. Das ist Wissen, die Batterietechnologie zum Beispiel. Software, Autopilot, aber auch eine Philosophie. Und von sogenannten Operanden-Ressourcen, in unserem Fall im wesentlichen Zeit und Geld. Die Ressourcen, die Tesla nutzt, sind natürlich die Ressourcen, die Tesla nutzt. Die Ressourcen, die Tesla nutzt, sind natürlich die Ressourcen, die Tesla nutzt. Die Ressourcen, die Tesla nutzt, sind natürlich Zulieferer. Es sind aber auch Energieversorger, die das flächendeckende Strom-Tankstellen-Netzwerk zur Verfügung stellen. Es ist Spotify, die Musikplattform, die übrigens sehr zu empfehlen ist im Tesla. Es sind aber auch staatliche Ressourcen, Steuererleichterungen, Subventionen. Die Ressourcen, die der Kunde einbringt, sind seine Planungsfähigkeiten, seine Bereitschaft, sich auf den Gedanken einzulassen, je langsamer man fährt, desto früher kommt man an. Seine Bereitschaft, auch Softwarefehler zu verzeihen. Seine Compliance, das heißt den Autopiloten tatsächlich so zu nutzen, wie er gedacht ist und nicht während des Fahrens zu schlafen oder Filme zu gucken. Oder auch sich tatsächlich in diese Tesla Community einzubringen. Fundamentale Prämisse Nummer 3. Fundamentale Prämisse Nummer 4. Der Wert der Leistung wird ausschließlich durch den Kunden bestimmt. Lassen Sie mich das an folgendem Beispiel näher erläutern. Ein Tesla-Fahrer macht mit seiner geliebten Partnerin eine Spritztour. Und macht ihr während dieser Autofahrt einen Heiratsantrag. Die Partnerin nimmt diesen Heiratsantrag an und die beiden heiraten. Für diesen Tesla-Fahrer wird das Auto Tesla für immer mit einer positiven Erfahrung verbunden sein. Versus ein Tesla-Fahrer bleibt auf der Autobahn liegen, muss vom Abschleppdienst zur nächsten Stromtankstelle geschleppt werden, verpasst einen wichtigen Vorstellungstermin und verliert möglicherweise seinen Traumjob. Für diesen Tesla-Fahrer ist das Auto mit einer negativen Erfahrung verbunden. Lassen Sie mich die wichtigsten Punkte der Service Dominant Logic noch einmal zusammenfassen. Ich möchte anfangen mit einem falschen Denken über Produkte. Wir kaufen Produkte nicht wegen ihrer produktspezifischen Eigenschaften. Sondern weil sie uns einen Nutzen stiften, eben diesen Service. Wir kaufen Produkte, weil sie uns sogenannte Intangibles liefern. Also etwas nicht Greifbares, wie der Zugang zu einer Community, die Marke an sich, den Status, den wir erreichen, wenn wir ein bestimmtes Produkt nutzen. Wir kaufen Produkte, weil wir damit eine ganzheitliche Erfahrung machen. Ein falsches Denken über Services wäre folgendes. Services sind eine eigene Produktkategorie e. v. mit einem immateriell Leistungsergebnis. E.V. ein Beratungsgespräch. Oder Services sind allenfalls ein Anhängsel für Produkte, im Sinne von Value-Added-Services. Aber keinesfalls einusted Services. im Vordergrund zu sehen. Ein aus der Service-Dominant-Logic richtiges Denken über Service wäre das folgende. Service ist ein Prozess. Es werden Ressourcen eines Akteurs zum Nutzen eines anderen Akteurs integriert. Service oder andersrum gesprochen, ein Produkt ist ein Vehikel für Service. Die Philosophie wird umgedreht und am Ende ist auch der Kunde als Leistungsnehmer ein Service-Provider. Vielen Dank für die Aufmerksamkeit.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 6.54,
+      "text": " Ich freue mich sehr, heute die komplexe Thematik der Service-Dominant-Logic erklären zu dürfen.",
+      "tokens": [
+        50365,
+        3141,
+        43195,
+        6031,
+        5499,
+        11,
+        9801,
+        978,
+        5207,
+        18945,
+        68,
+        440,
+        15677,
+        1035,
+        1163,
+        9561,
+        12,
+        35,
+        6981,
+        394,
+        12,
+        43,
+        664,
+        299,
+        46528,
+        2164,
+        29493,
+        13,
+        50701
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.10146619993097641,
+      "compression_ratio": 1.3975903614457832,
+      "no_speech_prob": 0.000518035318236798,
+      "confidence": 0.948,
+      "words": [
+        {
+          "text": "Ich",
+          "start": 0.0,
+          "end": 0.44,
+          "confidence": 0.988
+        },
+        {
+          "text": "freue",
+          "start": 0.44,
+          "end": 0.72,
+          "confidence": 0.998
+        },
+        {
+          "text": "mich",
+          "start": 0.72,
+          "end": 0.92,
+          "confidence": 1.0
+        },
+        {
+          "text": "sehr,",
+          "start": 0.92,
+          "end": 1.32,
+          "confidence": 0.966
+        },
+        {
+          "text": "heute",
+          "start": 1.4,
+          "end": 1.64,
+          "confidence": 0.999
+        },
+        {
+          "text": "die",
+          "start": 1.64,
+          "end": 1.84,
+          "confidence": 1.0
+        },
+        {
+          "text": "komplexe",
+          "start": 1.84,
+          "end": 2.6,
+          "confidence": 0.999
+        },
+        {
+          "text": "Thematik",
+          "start": 2.6,
+          "end": 3.24,
+          "confidence": 0.997
+        },
+        {
+          "text": "der",
+          "start": 3.24,
+          "end": 3.46,
+          "confidence": 0.996
+        },
+        {
+          "text": "Service-Dominant-Logic",
+          "start": 3.46,
+          "end": 4.88,
+          "confidence": 0.871
+        },
+        {
+          "text": "[*]",
+          "start": 4.88,
+          "end": 5.5,
+          "confidence": 0
+        },
+        {
+          "text": "erklären",
+          "start": 5.5,
+          "end": 5.76,
+          "confidence": 0.919
+        },
+        {
+          "text": "zu",
+          "start": 5.76,
+          "end": 6.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "dürfen.",
+          "start": 6.16,
+          "end": 6.54,
+          "confidence": 0.999
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 7.5,
+      "end": 18.21,
+      "text": " Service-Dominant-Logic bedeutet, egal was ein Unternehmen verkauft, es geht um den Nutzen oder den Service, den eine Leistung spendet.",
+      "tokens": [
+        50746,
+        9561,
+        12,
+        35,
+        6981,
+        394,
+        12,
+        43,
+        664,
+        299,
+        27018,
+        11,
+        31528,
+        390,
+        1343,
+        27577,
+        22328,
+        28245,
+        11,
+        785,
+        7095,
+        1105,
+        1441,
+        19861,
+        2904,
+        4513,
+        1441,
+        9561,
+        11,
+        1441,
+        3018,
+        39577,
+        1063,
+        3496,
+        302,
+        13,
+        51276
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.10146619993097641,
+      "compression_ratio": 1.3975903614457832,
+      "no_speech_prob": 0.000518035318236798,
+      "confidence": 0.86,
+      "words": [
+        {
+          "text": "[*]",
+          "start": 7.5,
+          "end": 7.87,
+          "confidence": 0
+        },
+        {
+          "text": "Service-Dominant-Logic",
+          "start": 7.87,
+          "end": 9.25,
+          "confidence": 0.634
+        },
+        {
+          "text": "[*]",
+          "start": 9.25,
+          "end": 9.83,
+          "confidence": 0
+        },
+        {
+          "text": "bedeutet,",
+          "start": 9.83,
+          "end": 10.13,
+          "confidence": 0.785
+        },
+        {
+          "text": "egal",
+          "start": 10.53,
+          "end": 10.97,
+          "confidence": 0.988
+        },
+        {
+          "text": "was",
+          "start": 10.97,
+          "end": 11.41,
+          "confidence": 0.97
+        },
+        {
+          "text": "ein",
+          "start": 11.41,
+          "end": 11.59,
+          "confidence": 0.994
+        },
+        {
+          "text": "Unternehmen",
+          "start": 11.59,
+          "end": 12.01,
+          "confidence": 0.995
+        },
+        {
+          "text": "verkauft,",
+          "start": 12.01,
+          "end": 12.83,
+          "confidence": 0.99
+        },
+        {
+          "text": "es",
+          "start": 12.93,
+          "end": 13.15,
+          "confidence": 0.736
+        },
+        {
+          "text": "geht",
+          "start": 13.15,
+          "end": 13.39,
+          "confidence": 0.998
+        },
+        {
+          "text": "um",
+          "start": 13.39,
+          "end": 13.57,
+          "confidence": 0.975
+        },
+        {
+          "text": "den",
+          "start": 13.57,
+          "end": 13.79,
+          "confidence": 0.968
+        },
+        {
+          "text": "Nutzen",
+          "start": 13.79,
+          "end": 14.37,
+          "confidence": 0.944
+        },
+        {
+          "text": "oder",
+          "start": 14.37,
+          "end": 14.77,
+          "confidence": 0.914
+        },
+        {
+          "text": "den",
+          "start": 14.77,
+          "end": 14.97,
+          "confidence": 0.99
+        },
+        {
+          "text": "Service,",
+          "start": 14.97,
+          "end": 15.49,
+          "confidence": 0.997
+        },
+        {
+          "text": "[*]",
+          "start": 15.49,
+          "end": 15.79,
+          "confidence": 0
+        },
+        {
+          "text": "den",
+          "start": 15.79,
+          "end": 16.33,
+          "confidence": 0.963
+        },
+        {
+          "text": "eine",
+          "start": 16.33,
+          "end": 16.47,
+          "confidence": 1.0
+        },
+        {
+          "text": "Leistung",
+          "start": 16.47,
+          "end": 17.27,
+          "confidence": 1.0
+        },
+        {
+          "text": "spendet.",
+          "start": 17.27,
+          "end": 18.21,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 1822,
+      "start": 18.21,
+      "end": 33.55,
+      "text": " Am Beispiel des Krankenhauses. Ein Krankenhaus liefert höchste medizinische Versorgung versus die Menschen verlassen einen Gesundheitsdienstleister mit einer besseren Lebensqualität.",
+      "tokens": [
+        50365,
+        2012,
+        13772,
+        730,
+        39950,
+        1641,
+        8355,
+        13,
+        6391,
+        39950,
+        23321,
+        4544,
+        34784,
+        13531,
+        339,
+        2941,
+        1205,
+        36367,
+        7864,
+        12226,
+        4646,
+        1063,
+        5717,
+        978,
+        8397,
+        19441,
+        8356,
+        4891,
+        44709,
+        67,
+        27366,
+        306,
+        1964,
+        2194,
+        6850,
+        42410,
+        5170,
+        21530,
+        22345,
+        14053,
+        13,
+        51139
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.07311330382356938,
+      "compression_ratio": 1.490272373540856,
+      "no_speech_prob": 5.106925164000131e-05,
+      "confidence": 0.978,
+      "words": [
+        {
+          "text": "[*]",
+          "start": 18.21,
+          "end": 19.23,
+          "confidence": 0
+        },
+        {
+          "text": "Am",
+          "start": 19.23,
+          "end": 19.49,
+          "confidence": 0.853
+        },
+        {
+          "text": "Beispiel",
+          "start": 19.49,
+          "end": 19.85,
+          "confidence": 0.998
+        },
+        {
+          "text": "des",
+          "start": 19.85,
+          "end": 20.07,
+          "confidence": 0.996
+        },
+        {
+          "text": "Krankenhauses.",
+          "start": 20.07,
+          "end": 20.99,
+          "confidence": 0.902
+        },
+        {
+          "text": "Ein",
+          "start": 21.05,
+          "end": 21.41,
+          "confidence": 0.959
+        },
+        {
+          "text": "Krankenhaus",
+          "start": 21.41,
+          "end": 22.13,
+          "confidence": 1.0
+        },
+        {
+          "text": "liefert",
+          "start": 22.13,
+          "end": 22.79,
+          "confidence": 0.999
+        },
+        {
+          "text": "[*]",
+          "start": 22.79,
+          "end": 23.13,
+          "confidence": 0
+        },
+        {
+          "text": "höchste",
+          "start": 23.13,
+          "end": 24.27,
+          "confidence": 0.997
+        },
+        {
+          "text": "medizinische",
+          "start": 24.27,
+          "end": 24.85,
+          "confidence": 0.999
+        },
+        {
+          "text": "Versorgung",
+          "start": 24.85,
+          "end": 25.75,
+          "confidence": 0.999
+        },
+        {
+          "text": "[*]",
+          "start": 25.75,
+          "end": 26.35,
+          "confidence": 0
+        },
+        {
+          "text": "versus",
+          "start": 26.35,
+          "end": 26.53,
+          "confidence": 0.949
+        },
+        {
+          "text": "[*]",
+          "start": 26.53,
+          "end": 27.57,
+          "confidence": 0
+        },
+        {
+          "text": "die",
+          "start": 27.57,
+          "end": 27.83,
+          "confidence": 0.835
+        },
+        {
+          "text": "[*]",
+          "start": 27.83,
+          "end": 28.07,
+          "confidence": 0
+        },
+        {
+          "text": "Menschen",
+          "start": 28.07,
+          "end": 28.21,
+          "confidence": 0.999
+        },
+        {
+          "text": "verlassen",
+          "start": 28.21,
+          "end": 28.85,
+          "confidence": 1.0
+        },
+        {
+          "text": "[*]",
+          "start": 28.85,
+          "end": 29.13,
+          "confidence": 0
+        },
+        {
+          "text": "einen",
+          "start": 29.13,
+          "end": 29.25,
+          "confidence": 0.999
+        },
+        {
+          "text": "[*]",
+          "start": 29.25,
+          "end": 29.53,
+          "confidence": 0
+        },
+        {
+          "text": "Gesundheitsdienstleister",
+          "start": 29.53,
+          "end": 31.19,
+          "confidence": 1.0
+        },
+        {
+          "text": "mit",
+          "start": 31.19,
+          "end": 31.43,
+          "confidence": 1.0
+        },
+        {
+          "text": "einer",
+          "start": 31.43,
+          "end": 31.61,
+          "confidence": 1.0
+        },
+        {
+          "text": "besseren",
+          "start": 31.61,
+          "end": 32.15,
+          "confidence": 1.0
+        },
+        {
+          "text": "Lebensqualität.",
+          "start": 32.15,
+          "end": 33.55,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 1822,
+      "start": 34.51,
+      "end": 45.08,
+      "text": " Die Service-Dominant-Logic basiert auf zehn fundamentalen Prämissen, wovon ich gerne im Folgenden die aus meiner Sicht vier wichtigsten näher erklären möchte.",
+      "tokens": [
+        51198,
+        3229,
+        9561,
+        12,
+        35,
+        6981,
+        394,
+        12,
+        43,
+        664,
+        299,
+        987,
+        4859,
+        2501,
+        33975,
+        8088,
+        268,
+        2114,
+        9559,
+        10987,
+        11,
+        261,
+        5179,
+        266,
+        1893,
+        15689,
+        566,
+        15255,
+        70,
+        8896,
+        978,
+        3437,
+        20529,
+        36615,
+        17634,
+        13621,
+        6266,
+        6433,
+        511,
+        46528,
+        14570,
+        13,
+        51715
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.07311330382356938,
+      "compression_ratio": 1.490272373540856,
+      "no_speech_prob": 5.106925164000131e-05,
+      "confidence": 0.876,
+      "words": [
+        {
+          "text": "Die",
+          "start": 34.51,
+          "end": 35.0,
+          "confidence": 0.95
+        },
+        {
+          "text": "Service-Dominant-Logic",
+          "start": 35.0,
+          "end": 36.16,
+          "confidence": 0.828
+        },
+        {
+          "text": "basiert",
+          "start": 36.16,
+          "end": 36.68,
+          "confidence": 0.996
+        },
+        {
+          "text": "auf",
+          "start": 36.68,
+          "end": 36.88,
+          "confidence": 0.997
+        },
+        {
+          "text": "zehn",
+          "start": 36.88,
+          "end": 37.18,
+          "confidence": 0.762
+        },
+        {
+          "text": "[*]",
+          "start": 37.18,
+          "end": 37.48,
+          "confidence": 0
+        },
+        {
+          "text": "fundamentalen",
+          "start": 37.48,
+          "end": 38.44,
+          "confidence": 0.994
+        },
+        {
+          "text": "Prämissen,",
+          "start": 38.44,
+          "end": 38.96,
+          "confidence": 0.985
+        },
+        {
+          "text": "wovon",
+          "start": 39.12,
+          "end": 40.08,
+          "confidence": 0.805
+        },
+        {
+          "text": "ich",
+          "start": 40.08,
+          "end": 40.14,
+          "confidence": 0.982
+        },
+        {
+          "text": "[*]",
+          "start": 40.14,
+          "end": 40.3,
+          "confidence": 0
+        },
+        {
+          "text": "gerne",
+          "start": 40.3,
+          "end": 40.44,
+          "confidence": 0.902
+        },
+        {
+          "text": "im",
+          "start": 40.44,
+          "end": 40.6,
+          "confidence": 0.478
+        },
+        {
+          "text": "Folgenden",
+          "start": 40.6,
+          "end": 41.18,
+          "confidence": 0.669
+        },
+        {
+          "text": "die",
+          "start": 41.18,
+          "end": 41.44,
+          "confidence": 0.801
+        },
+        {
+          "text": "aus",
+          "start": 41.44,
+          "end": 41.6,
+          "confidence": 0.886
+        },
+        {
+          "text": "meiner",
+          "start": 41.6,
+          "end": 42.06,
+          "confidence": 0.984
+        },
+        {
+          "text": "Sicht",
+          "start": 42.06,
+          "end": 42.38,
+          "confidence": 0.984
+        },
+        {
+          "text": "vier",
+          "start": 42.38,
+          "end": 42.74,
+          "confidence": 0.928
+        },
+        {
+          "text": "wichtigsten",
+          "start": 42.74,
+          "end": 43.62,
+          "confidence": 0.967
+        },
+        {
+          "text": "näher",
+          "start": 43.62,
+          "end": 44.34,
+          "confidence": 0.988
+        },
+        {
+          "text": "erklären",
+          "start": 44.34,
+          "end": 44.54,
+          "confidence": 0.994
+        },
+        {
+          "text": "[*]",
+          "start": 44.54,
+          "end": 44.82,
+          "confidence": 0
+        },
+        {
+          "text": "möchte.",
+          "start": 44.82,
+          "end": 45.08,
+          "confidence": 0.97
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 1822,
+      "start": 45.46,
+      "end": 47.84,
+      "text": " Fundamentale Prämisse Nummer eins.",
+      "tokens": [
+        51746,
+        13493,
+        2466,
+        1220,
+        2114,
+        9559,
+        7746,
+        47034,
+        21889,
+        13,
+        51853
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.07311330382356938,
+      "compression_ratio": 1.490272373540856,
+      "no_speech_prob": 5.106925164000131e-05,
+      "confidence": 0.828,
+      "words": [
+        {
+          "text": "Fundamentale",
+          "start": 45.46,
+          "end": 46.68,
+          "confidence": 0.994
+        },
+        {
+          "text": "Prämisse",
+          "start": 46.68,
+          "end": 47.12,
+          "confidence": 0.999
+        },
+        {
+          "text": "Nummer",
+          "start": 47.12,
+          "end": 47.4,
+          "confidence": 0.944
+        },
+        {
+          "text": "eins.",
+          "start": 47.4,
+          "end": 47.84,
+          "confidence": 0.445
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 4822,
+      "start": 48.18,
+      "end": 53.66,
+      "text": " Die Basis eines jeden Leistungsaustausches ist Service gegen Service.",
+      "tokens": [
+        50382,
+        3229,
+        5859,
+        271,
+        18599,
+        12906,
+        39577,
+        1063,
+        5790,
+        381,
+        8463,
+        3781,
+        1418,
+        9561,
+        13953,
+        9561,
+        13,
+        50646
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.14124899722160178,
+      "compression_ratio": 1.4419642857142858,
+      "no_speech_prob": 0.0006278329528868198,
+      "confidence": 0.989,
+      "words": [
+        {
+          "text": "Die",
+          "start": 48.18,
+          "end": 48.68,
+          "confidence": 0.915
+        },
+        {
+          "text": "Basis",
+          "start": 48.68,
+          "end": 49.26,
+          "confidence": 0.999
+        },
+        {
+          "text": "eines",
+          "start": 49.26,
+          "end": 49.54,
+          "confidence": 0.999
+        },
+        {
+          "text": "jeden",
+          "start": 49.54,
+          "end": 49.92,
+          "confidence": 0.997
+        },
+        {
+          "text": "Leistungsaustausches",
+          "start": 49.92,
+          "end": 51.72,
+          "confidence": 0.994
+        },
+        {
+          "text": "ist",
+          "start": 51.72,
+          "end": 52.02,
+          "confidence": 0.99
+        },
+        {
+          "text": "Service",
+          "start": 52.02,
+          "end": 52.5,
+          "confidence": 0.99
+        },
+        {
+          "text": "gegen",
+          "start": 52.5,
+          "end": 53.18,
+          "confidence": 0.996
+        },
+        {
+          "text": "[*]",
+          "start": 53.18,
+          "end": 53.2,
+          "confidence": 0
+        },
+        {
+          "text": "Service.",
+          "start": 53.2,
+          "end": 53.66,
+          "confidence": 0.992
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 4822,
+      "start": 53.66,
+      "end": 67.48,
+      "text": " Der Service von Tesla. Elektromobilität, ressourcenschonend, mit einem flächendeckenden Strom-Tankstellennetzwerk, komfortabel.",
+      "tokens": [
+        50646,
+        5618,
+        9561,
+        2957,
+        13666,
+        13,
+        40321,
+        4397,
+        21725,
+        14053,
+        11,
+        24689,
+        396,
+        66,
+        26590,
+        266,
+        521,
+        11,
+        2194,
+        6827,
+        932,
+        10168,
+        5445,
+        547,
+        8896,
+        39126,
+        12,
+        51,
+        657,
+        17816,
+        1857,
+        10074,
+        26833,
+        11,
+        5207,
+        2728,
+        18657,
+        13,
+        51305
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.14124899722160178,
+      "compression_ratio": 1.4419642857142858,
+      "no_speech_prob": 0.0006278329528868198,
+      "confidence": 0.871,
+      "words": [
+        {
+          "text": "[*]",
+          "start": 53.66,
+          "end": 53.96,
+          "confidence": 0
+        },
+        {
+          "text": "Der",
+          "start": 53.96,
+          "end": 54.66,
+          "confidence": 0.897
+        },
+        {
+          "text": "Service",
+          "start": 54.66,
+          "end": 55.0,
+          "confidence": 0.98
+        },
+        {
+          "text": "von",
+          "start": 55.0,
+          "end": 55.22,
+          "confidence": 0.992
+        },
+        {
+          "text": "[*]",
+          "start": 55.22,
+          "end": 55.38,
+          "confidence": 0
+        },
+        {
+          "text": "Tesla.",
+          "start": 55.38,
+          "end": 55.6,
+          "confidence": 0.247
+        },
+        {
+          "text": "[*]",
+          "start": 55.94,
+          "end": 56.66,
+          "confidence": 0
+        },
+        {
+          "text": "Elektromobilität,",
+          "start": 57.64,
+          "end": 58.84,
+          "confidence": 0.929
+        },
+        {
+          "text": "[*]",
+          "start": 59.06,
+          "end": 59.76,
+          "confidence": 0
+        },
+        {
+          "text": "ressourcenschonend,",
+          "start": 59.76,
+          "end": 61.2,
+          "confidence": 0.968
+        },
+        {
+          "text": "[*]",
+          "start": 61.34,
+          "end": 61.66,
+          "confidence": 0
+        },
+        {
+          "text": "mit",
+          "start": 61.66,
+          "end": 61.96,
+          "confidence": 0.88
+        },
+        {
+          "text": "einem",
+          "start": 61.96,
+          "end": 62.18,
+          "confidence": 0.994
+        },
+        {
+          "text": "flächendeckenden",
+          "start": 62.18,
+          "end": 63.34,
+          "confidence": 0.992
+        },
+        {
+          "text": "[*]",
+          "start": 63.34,
+          "end": 63.72,
+          "confidence": 0
+        },
+        {
+          "text": "Strom-Tankstellennetzwerk,",
+          "start": 63.72,
+          "end": 66.14,
+          "confidence": 0.862
+        },
+        {
+          "text": "komfortabel.",
+          "start": 66.24,
+          "end": 67.48,
+          "confidence": 0.98
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 4822,
+      "start": 68.78,
+      "end": 75.82,
+      "text": " Der Service, den der Kunde liefert, ist dafür zu bezahlen im Anschaffungspreis.",
+      "tokens": [
+        51362,
+        5618,
+        9561,
+        11,
+        1441,
+        1163,
+        591,
+        13271,
+        4544,
+        34784,
+        11,
+        1418,
+        13747,
+        2164,
+        10782,
+        21128,
+        566,
+        45062,
+        2518,
+        5846,
+        3712,
+        271,
+        13,
+        51697
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.14124899722160178,
+      "compression_ratio": 1.4419642857142858,
+      "no_speech_prob": 0.0006278329528868198,
+      "confidence": 0.987,
+      "words": [
+        {
+          "text": "Der",
+          "start": 68.78,
+          "end": 69.3,
+          "confidence": 0.988
+        },
+        {
+          "text": "Service,",
+          "start": 69.3,
+          "end": 69.68,
+          "confidence": 0.984
+        },
+        {
+          "text": "den",
+          "start": 69.88,
+          "end": 70.26,
+          "confidence": 0.999
+        },
+        {
+          "text": "der",
+          "start": 70.26,
+          "end": 70.36,
+          "confidence": 1.0
+        },
+        {
+          "text": "Kunde",
+          "start": 70.36,
+          "end": 70.9,
+          "confidence": 0.999
+        },
+        {
+          "text": "liefert,",
+          "start": 70.9,
+          "end": 71.6,
+          "confidence": 0.993
+        },
+        {
+          "text": "[*]",
+          "start": 71.84,
+          "end": 72.4,
+          "confidence": 0
+        },
+        {
+          "text": "ist",
+          "start": 72.4,
+          "end": 72.68,
+          "confidence": 0.98
+        },
+        {
+          "text": "dafür",
+          "start": 72.68,
+          "end": 73.06,
+          "confidence": 0.966
+        },
+        {
+          "text": "zu",
+          "start": 73.06,
+          "end": 73.26,
+          "confidence": 0.999
+        },
+        {
+          "text": "bezahlen",
+          "start": 73.26,
+          "end": 74.14,
+          "confidence": 0.998
+        },
+        {
+          "text": "im",
+          "start": 74.14,
+          "end": 74.56,
+          "confidence": 0.914
+        },
+        {
+          "text": "Anschaffungspreis.",
+          "start": 74.56,
+          "end": 75.82,
+          "confidence": 0.987
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 4822,
+      "start": 75.82,
+      "end": 79.38,
+      "text": " Aber auch die Gebühren für die Leistung.",
+      "tokens": [
+        51697,
+        5992,
+        2168,
+        978,
+        24984,
+        29540,
+        2959,
+        978,
+        39577,
+        1063,
+        13,
+        51847
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.14124899722160178,
+      "compression_ratio": 1.4419642857142858,
+      "no_speech_prob": 0.0006278329528868198,
+      "confidence": 0.264,
+      "words": [
+        {
+          "text": "[*]",
+          "start": 75.82,
+          "end": 76.58,
+          "confidence": 0
+        },
+        {
+          "text": "Aber",
+          "start": 76.58,
+          "end": 76.82,
+          "confidence": 0.186
+        },
+        {
+          "text": "auch",
+          "start": 76.82,
+          "end": 77.26,
+          "confidence": 0.996
+        },
+        {
+          "text": "[*]",
+          "start": 77.26,
+          "end": 77.9,
+          "confidence": 0
+        },
+        {
+          "text": "die",
+          "start": 77.9,
+          "end": 78.56,
+          "confidence": 0.984
+        },
+        {
+          "text": "Gebühren",
+          "start": 78.56,
+          "end": 79.0,
+          "confidence": 0.998
+        },
+        {
+          "text": "für",
+          "start": 79.0,
+          "end": 79.14,
+          "confidence": 0.989
+        },
+        {
+          "text": "die",
+          "start": 79.14,
+          "end": 79.24,
+          "confidence": 0.993
+        },
+        {
+          "text": "Leistung.",
+          "start": 79.24,
+          "end": 79.38,
+          "confidence": 0.021
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 7822,
+      "start": 79.38,
+      "end": 85.02,
+      "text": " Die Strom-Tankstellen natürlich zu entrichten, beziehungsweise Daten zu liefern.",
+      "tokens": [
+        50365,
+        3229,
+        39126,
+        12,
+        51,
+        657,
+        17538,
+        8762,
+        2164,
+        948,
+        40825,
+        11,
+        312,
+        28213,
+        5846,
+        13109,
+        31126,
+        2164,
+        4544,
+        28958,
+        13,
+        50659
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17116937270531288,
+      "compression_ratio": 1.4369747899159664,
+      "no_speech_prob": 0.003455759957432747,
+      "confidence": 0.535,
+      "words": [
+        {
+          "text": "Die",
+          "start": 79.38,
+          "end": 79.4,
+          "confidence": 0.004
+        },
+        {
+          "text": "Strom-Tankstellen",
+          "start": 79.4,
+          "end": 80.2,
+          "confidence": 0.385
+        },
+        {
+          "text": "[*]",
+          "start": 80.2,
+          "end": 80.52,
+          "confidence": 0
+        },
+        {
+          "text": "natürlich",
+          "start": 80.52,
+          "end": 80.72,
+          "confidence": 0.808
+        },
+        {
+          "text": "zu",
+          "start": 80.72,
+          "end": 81.04,
+          "confidence": 0.98
+        },
+        {
+          "text": "entrichten,",
+          "start": 81.04,
+          "end": 81.64,
+          "confidence": 0.646
+        },
+        {
+          "text": "beziehungsweise",
+          "start": 81.86,
+          "end": 83.2,
+          "confidence": 0.864
+        },
+        {
+          "text": "Daten",
+          "start": 83.2,
+          "end": 83.7,
+          "confidence": 0.985
+        },
+        {
+          "text": "zu",
+          "start": 83.7,
+          "end": 84.44,
+          "confidence": 0.99
+        },
+        {
+          "text": "liefern.",
+          "start": 84.44,
+          "end": 85.02,
+          "confidence": 0.977
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 7822,
+      "start": 86.8,
+      "end": 89.01,
+      "text": " Fundamentale Prämisse Nummer zwei.",
+      "tokens": [
+        50711,
+        13493,
+        2466,
+        1220,
+        2114,
+        9559,
+        7746,
+        47034,
+        12002,
+        13,
+        50812
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17116937270531288,
+      "compression_ratio": 1.4369747899159664,
+      "no_speech_prob": 0.003455759957432747,
+      "confidence": 0.866,
+      "words": [
+        {
+          "text": "[*]",
+          "start": 86.8,
+          "end": 86.91,
+          "confidence": 0
+        },
+        {
+          "text": "Fundamentale",
+          "start": 86.91,
+          "end": 87.85,
+          "confidence": 0.994
+        },
+        {
+          "text": "Prämisse",
+          "start": 87.85,
+          "end": 88.29,
+          "confidence": 0.999
+        },
+        {
+          "text": "Nummer",
+          "start": 88.29,
+          "end": 88.55,
+          "confidence": 0.943
+        },
+        {
+          "text": "zwei.",
+          "start": 88.55,
+          "end": 89.01,
+          "confidence": 0.543
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 7822,
+      "start": 89.51,
+      "end": 93.47,
+      "text": " Der Kunde ist immer Mitgestalter des Wertes.",
+      "tokens": [
+        50853,
+        5618,
+        591,
+        13271,
+        1418,
+        5578,
+        10821,
+        2629,
+        43420,
+        730,
+        37205,
+        279,
+        13,
+        51032
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17116937270531288,
+      "compression_ratio": 1.4369747899159664,
+      "no_speech_prob": 0.003455759957432747,
+      "confidence": 0.978,
+      "words": [
+        {
+          "text": "Der",
+          "start": 89.51,
+          "end": 90.01,
+          "confidence": 0.867
+        },
+        {
+          "text": "Kunde",
+          "start": 90.01,
+          "end": 90.43,
+          "confidence": 0.987
+        },
+        {
+          "text": "ist",
+          "start": 90.43,
+          "end": 90.61,
+          "confidence": 0.998
+        },
+        {
+          "text": "immer",
+          "start": 90.61,
+          "end": 91.01,
+          "confidence": 0.996
+        },
+        {
+          "text": "Mitgestalter",
+          "start": 91.01,
+          "end": 92.43,
+          "confidence": 0.989
+        },
+        {
+          "text": "des",
+          "start": 92.43,
+          "end": 92.69,
+          "confidence": 0.996
+        },
+        {
+          "text": "Wertes.",
+          "start": 92.69,
+          "end": 93.47,
+          "confidence": 0.982
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "seek": 7822,
+      "start": 93.51,
+      "end": 98.85,
+      "text": " Das heißt, es kommt sehr stark darauf an, wie er das Auto nutzt.",
+      "tokens": [
+        51053,
+        2846,
+        13139,
+        11,
+        785,
+        10047,
+        5499,
+        17417,
+        18654,
+        364,
+        11,
+        3355,
+        1189,
+        1482,
+        13738,
+        5393,
+        2682,
+        13,
+        51302
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17116937270531288,
+      "compression_ratio": 1.4369747899159664,
+      "no_speech_prob": 0.003455759957432747,
+      "confidence": 0.986,
+      "words": [
+        {
+          "text": "Das",
+          "start": 93.51,
+          "end": 93.99,
+          "confidence": 0.888
+        },
+        {
+          "text": "heißt,",
+          "start": 93.99,
+          "end": 94.23,
+          "confidence": 0.957
+        },
+        {
+          "text": "es",
+          "start": 94.31,
+          "end": 94.43,
+          "confidence": 0.999
+        },
+        {
+          "text": "kommt",
+          "start": 94.43,
+          "end": 94.61,
+          "confidence": 1.0
+        },
+        {
+          "text": "sehr",
+          "start": 94.61,
+          "end": 94.85,
+          "confidence": 1.0
+        },
+        {
+          "text": "stark",
+          "start": 94.85,
+          "end": 95.27,
+          "confidence": 1.0
+        },
+        {
+          "text": "darauf",
+          "start": 95.27,
+          "end": 95.59,
+          "confidence": 1.0
+        },
+        {
+          "text": "an,",
+          "start": 95.59,
+          "end": 95.99,
+          "confidence": 0.996
+        },
+        {
+          "text": "[*]",
+          "start": 96.09,
+          "end": 96.55,
+          "confidence": 0
+        },
+        {
+          "text": "wie",
+          "start": 96.55,
+          "end": 96.85,
+          "confidence": 0.987
+        },
+        {
+          "text": "er",
+          "start": 96.85,
+          "end": 97.33,
+          "confidence": 0.998
+        },
+        {
+          "text": "das",
+          "start": 97.33,
+          "end": 97.63,
+          "confidence": 0.999
+        },
+        {
+          "text": "Auto",
+          "start": 97.63,
+          "end": 98.09,
+          "confidence": 0.999
+        },
+        {
+          "text": "nutzt.",
+          "start": 98.09,
+          "end": 98.85,
+          "confidence": 0.998
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "seek": 7822,
+      "start": 100.22,
+      "end": 103.82,
+      "text": " Ob er entsprechend plant.",
+      "tokens": [
+        51352,
+        4075,
+        1189,
+        47823,
+        3709,
+        13,
+        51514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17116937270531288,
+      "compression_ratio": 1.4369747899159664,
+      "no_speech_prob": 0.003455759957432747,
+      "confidence": 0.589,
+      "words": [
+        {
+          "text": "Ob",
+          "start": 100.22,
+          "end": 100.82,
+          "confidence": 0.134
+        },
+        {
+          "text": "[*]",
+          "start": 100.82,
+          "end": 101.0,
+          "confidence": 0
+        },
+        {
+          "text": "er",
+          "start": 101.0,
+          "end": 101.14,
+          "confidence": 0.995
+        },
+        {
+          "text": "[*]",
+          "start": 101.14,
+          "end": 101.98,
+          "confidence": 0
+        },
+        {
+          "text": "entsprechend",
+          "start": 102.16,
+          "end": 103.02,
+          "confidence": 0.928
+        },
+        {
+          "text": "[*]",
+          "start": 103.02,
+          "end": 103.66,
+          "confidence": 0
+        },
+        {
+          "text": "plant.",
+          "start": 103.66,
+          "end": 103.82,
+          "confidence": 0.756
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "seek": 7822,
+      "start": 105.01,
+      "end": 108.35,
+      "text": " Ob er sich traut, den Autopilot zu nutzen.",
+      "tokens": [
+        51561,
+        4075,
+        1189,
+        3041,
+        944,
+        325,
+        11,
+        1441,
+        6049,
+        404,
+        31516,
+        2164,
+        36905,
+        13,
+        51722
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17116937270531288,
+      "compression_ratio": 1.4369747899159664,
+      "no_speech_prob": 0.003455759957432747,
+      "confidence": 0.858,
+      "words": [
+        {
+          "text": "[*]",
+          "start": 105.01,
+          "end": 105.39,
+          "confidence": 0
+        },
+        {
+          "text": "Ob",
+          "start": 105.39,
+          "end": 105.59,
+          "confidence": 0.36
+        },
+        {
+          "text": "er",
+          "start": 105.59,
+          "end": 105.89,
+          "confidence": 0.994
+        },
+        {
+          "text": "sich",
+          "start": 105.89,
+          "end": 106.13,
+          "confidence": 0.989
+        },
+        {
+          "text": "traut,",
+          "start": 106.13,
+          "end": 106.79,
+          "confidence": 0.914
+        },
+        {
+          "text": "den",
+          "start": 106.79,
+          "end": 107.05,
+          "confidence": 0.99
+        },
+        {
+          "text": "Autopilot",
+          "start": 107.05,
+          "end": 107.71,
+          "confidence": 0.993
+        },
+        {
+          "text": "zu",
+          "start": 107.71,
+          "end": 107.89,
+          "confidence": 0.997
+        },
+        {
+          "text": "nutzen.",
+          "start": 107.89,
+          "end": 108.35,
+          "confidence": 0.725
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "seek": 7822,
+      "start": 108.35,
+      "end": 111.53,
+      "text": " Ob er dieses flächendeckende Strom nähert.",
+      "tokens": [
+        51722,
+        4075,
+        1189,
+        12113,
+        932,
+        10168,
+        5445,
+        547,
+        5445,
+        39126,
+        6433,
+        511,
+        83,
+        13,
+        51864
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17116937270531288,
+      "compression_ratio": 1.4369747899159664,
+      "no_speech_prob": 0.003455759957432747,
+      "confidence": 0.276,
+      "words": [
+        {
+          "text": "Ob",
+          "start": 108.35,
+          "end": 108.83,
+          "confidence": 0.021
+        },
+        {
+          "text": "er",
+          "start": 108.83,
+          "end": 109.05,
+          "confidence": 0.975
+        },
+        {
+          "text": "dieses",
+          "start": 109.05,
+          "end": 109.29,
+          "confidence": 0.965
+        },
+        {
+          "text": "flächendeckende",
+          "start": 109.29,
+          "end": 110.47,
+          "confidence": 0.993
+        },
+        {
+          "text": "Strom",
+          "start": 110.47,
+          "end": 110.71,
+          "confidence": 0.99
+        },
+        {
+          "text": "nähert.",
+          "start": 110.71,
+          "end": 111.53,
+          "confidence": 0.041
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "seek": 10822,
+      "start": 111.53,
+      "end": 113.39,
+      "text": " Ob er das Netzwerk tatsächlich in Anspruch nimmt.",
+      "tokens": [
+        50365,
+        4075,
+        1189,
+        1482,
+        38889,
+        26833,
+        20796,
+        294,
+        14590,
+        45788,
+        38891,
+        13,
+        50515
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.2133981432233538,
+      "compression_ratio": 1.4819277108433735,
+      "no_speech_prob": 0.001783070620149374,
+      "confidence": 0.126,
+      "words": [
+        {
+          "text": "Ob",
+          "start": 111.53,
+          "end": 111.77,
+          "confidence": 0.0
+        },
+        {
+          "text": "er",
+          "start": 111.77,
+          "end": 111.79,
+          "confidence": 0.78
+        },
+        {
+          "text": "das",
+          "start": 111.79,
+          "end": 111.81,
+          "confidence": 0.039
+        },
+        {
+          "text": "Netzwerk",
+          "start": 111.81,
+          "end": 111.83,
+          "confidence": 0.01
+        },
+        {
+          "text": "tatsächlich",
+          "start": 111.83,
+          "end": 112.03,
+          "confidence": 0.913
+        },
+        {
+          "text": "[*]",
+          "start": 112.03,
+          "end": 112.33,
+          "confidence": 0
+        },
+        {
+          "text": "in",
+          "start": 112.33,
+          "end": 112.53,
+          "confidence": 0.991
+        },
+        {
+          "text": "Anspruch",
+          "start": 112.53,
+          "end": 113.03,
+          "confidence": 0.997
+        },
+        {
+          "text": "nimmt.",
+          "start": 113.03,
+          "end": 113.39,
+          "confidence": 0.484
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "seek": 10822,
+      "start": 113.79,
+      "end": 120.17,
+      "text": " Ob er sich in die Software einarbeitet und alle Finessen zu nutzen weiß.",
+      "tokens": [
+        50515,
+        4075,
+        1189,
+        3041,
+        294,
+        978,
+        27428,
+        1343,
+        24024,
+        302,
+        674,
+        5430,
+        479,
+        1324,
+        268,
+        2164,
+        36905,
+        13385,
+        13,
+        50853
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.2133981432233538,
+      "compression_ratio": 1.4819277108433735,
+      "no_speech_prob": 0.001783070620149374,
+      "confidence": 0.873,
+      "words": [
+        {
+          "text": "Ob",
+          "start": 113.79,
+          "end": 114.23,
+          "confidence": 0.193
+        },
+        {
+          "text": "er",
+          "start": 114.23,
+          "end": 114.31,
+          "confidence": 0.992
+        },
+        {
+          "text": "sich",
+          "start": 114.31,
+          "end": 114.57,
+          "confidence": 0.993
+        },
+        {
+          "text": "[*]",
+          "start": 114.57,
+          "end": 114.91,
+          "confidence": 0
+        },
+        {
+          "text": "in",
+          "start": 114.91,
+          "end": 115.13,
+          "confidence": 0.992
+        },
+        {
+          "text": "die",
+          "start": 115.13,
+          "end": 115.53,
+          "confidence": 0.996
+        },
+        {
+          "text": "[*]",
+          "start": 115.53,
+          "end": 115.55,
+          "confidence": 0
+        },
+        {
+          "text": "Software",
+          "start": 115.55,
+          "end": 116.17,
+          "confidence": 0.951
+        },
+        {
+          "text": "einarbeitet",
+          "start": 116.17,
+          "end": 117.53,
+          "confidence": 0.988
+        },
+        {
+          "text": "und",
+          "start": 117.53,
+          "end": 118.19,
+          "confidence": 0.888
+        },
+        {
+          "text": "alle",
+          "start": 118.19,
+          "end": 118.43,
+          "confidence": 0.992
+        },
+        {
+          "text": "Finessen",
+          "start": 118.43,
+          "end": 119.15,
+          "confidence": 0.995
+        },
+        {
+          "text": "zu",
+          "start": 119.15,
+          "end": 119.29,
+          "confidence": 0.983
+        },
+        {
+          "text": "nutzen",
+          "start": 119.29,
+          "end": 119.67,
+          "confidence": 0.943
+        },
+        {
+          "text": "weiß.",
+          "start": 119.67,
+          "end": 120.17,
+          "confidence": 0.793
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "seek": 10822,
+      "start": 120.55,
+      "end": 125.49,
+      "text": " Ob er sich in die Tesla Community einbringt und dort neue Menschen kennenlernt.",
+      "tokens": [
+        50853,
+        4075,
+        1189,
+        3041,
+        294,
+        978,
+        13666,
+        10421,
+        1343,
+        1443,
+        23190,
+        674,
+        15775,
+        16842,
+        8397,
+        28445,
+        1918,
+        580,
+        13,
+        51138
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.2133981432233538,
+      "compression_ratio": 1.4819277108433735,
+      "no_speech_prob": 0.001783070620149374,
+      "confidence": 0.835,
+      "words": [
+        {
+          "text": "Ob",
+          "start": 120.55,
+          "end": 120.97,
+          "confidence": 0.226
+        },
+        {
+          "text": "er",
+          "start": 120.97,
+          "end": 121.07,
+          "confidence": 0.991
+        },
+        {
+          "text": "sich",
+          "start": 121.07,
+          "end": 121.21,
+          "confidence": 0.997
+        },
+        {
+          "text": "in",
+          "start": 121.21,
+          "end": 121.37,
+          "confidence": 0.995
+        },
+        {
+          "text": "die",
+          "start": 121.37,
+          "end": 121.51,
+          "confidence": 0.998
+        },
+        {
+          "text": "Tesla",
+          "start": 121.51,
+          "end": 121.79,
+          "confidence": 0.952
+        },
+        {
+          "text": "Community",
+          "start": 121.79,
+          "end": 122.19,
+          "confidence": 0.593
+        },
+        {
+          "text": "einbringt",
+          "start": 122.19,
+          "end": 123.29,
+          "confidence": 0.992
+        },
+        {
+          "text": "und",
+          "start": 123.29,
+          "end": 123.55,
+          "confidence": 0.897
+        },
+        {
+          "text": "dort",
+          "start": 123.55,
+          "end": 123.89,
+          "confidence": 0.989
+        },
+        {
+          "text": "neue",
+          "start": 123.89,
+          "end": 124.23,
+          "confidence": 0.987
+        },
+        {
+          "text": "Menschen",
+          "start": 124.23,
+          "end": 124.55,
+          "confidence": 0.986
+        },
+        {
+          "text": "kennenlernt.",
+          "start": 124.55,
+          "end": 125.49,
+          "confidence": 0.778
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "seek": 10822,
+      "start": 127.66,
+      "end": 134.58,
+      "text": " All diese Faktoren beeinflussen den Wert, den der Kunde verspürt.",
+      "tokens": [
+        51138,
+        1057,
+        6705,
+        479,
+        5886,
+        10948,
+        17479,
+        27850,
+        29202,
+        1441,
+        37205,
+        11,
+        1441,
+        1163,
+        591,
+        13271,
+        1774,
+        79,
+        1655,
+        83,
+        13,
+        51493
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.2133981432233538,
+      "compression_ratio": 1.4819277108433735,
+      "no_speech_prob": 0.001783070620149374,
+      "confidence": 0.995,
+      "words": [
+        {
+          "text": "All",
+          "start": 127.66,
+          "end": 128.1,
+          "confidence": 0.936
+        },
+        {
+          "text": "diese",
+          "start": 128.1,
+          "end": 128.4,
+          "confidence": 1.0
+        },
+        {
+          "text": "Faktoren",
+          "start": 128.4,
+          "end": 129.1,
+          "confidence": 1.0
+        },
+        {
+          "text": "[*]",
+          "start": 129.1,
+          "end": 129.86,
+          "confidence": 0
+        },
+        {
+          "text": "beeinflussen",
+          "start": 129.86,
+          "end": 130.9,
+          "confidence": 0.999
+        },
+        {
+          "text": "[*]",
+          "start": 130.9,
+          "end": 131.68,
+          "confidence": 0
+        },
+        {
+          "text": "den",
+          "start": 131.68,
+          "end": 132.08,
+          "confidence": 0.995
+        },
+        {
+          "text": "Wert,",
+          "start": 132.08,
+          "end": 132.84,
+          "confidence": 0.998
+        },
+        {
+          "text": "den",
+          "start": 133.04,
+          "end": 133.34,
+          "confidence": 0.989
+        },
+        {
+          "text": "der",
+          "start": 133.34,
+          "end": 133.46,
+          "confidence": 1.0
+        },
+        {
+          "text": "Kunde",
+          "start": 133.46,
+          "end": 133.8,
+          "confidence": 1.0
+        },
+        {
+          "text": "verspürt.",
+          "start": 133.8,
+          "end": 134.58,
+          "confidence": 0.999
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "seek": 10822,
+      "start": 134.76,
+      "end": 139.32,
+      "text": " Das heißt, es gibt keinen objektiven Wert eines Autos Tesla.",
+      "tokens": [
+        51493,
+        2846,
+        13139,
+        11,
+        785,
+        6089,
+        20624,
+        1111,
+        14930,
+        5709,
+        37205,
+        18599,
+        6049,
+        329,
+        13666,
+        13,
+        51753
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.2133981432233538,
+      "compression_ratio": 1.4819277108433735,
+      "no_speech_prob": 0.001783070620149374,
+      "confidence": 0.97,
+      "words": [
+        {
+          "text": "Das",
+          "start": 134.76,
+          "end": 135.1,
+          "confidence": 0.788
+        },
+        {
+          "text": "heißt,",
+          "start": 135.1,
+          "end": 135.34,
+          "confidence": 0.921
+        },
+        {
+          "text": "es",
+          "start": 135.42,
+          "end": 135.54,
+          "confidence": 1.0
+        },
+        {
+          "text": "gibt",
+          "start": 135.54,
+          "end": 135.82,
+          "confidence": 1.0
+        },
+        {
+          "text": "keinen",
+          "start": 135.82,
+          "end": 136.16,
+          "confidence": 0.999
+        },
+        {
+          "text": "objektiven",
+          "start": 136.16,
+          "end": 137.18,
+          "confidence": 0.999
+        },
+        {
+          "text": "[*]",
+          "start": 137.18,
+          "end": 137.58,
+          "confidence": 0
+        },
+        {
+          "text": "Wert",
+          "start": 137.58,
+          "end": 137.96,
+          "confidence": 0.991
+        },
+        {
+          "text": "eines",
+          "start": 137.96,
+          "end": 138.38,
+          "confidence": 0.996
+        },
+        {
+          "text": "Autos",
+          "start": 138.38,
+          "end": 138.98,
+          "confidence": 0.998
+        },
+        {
+          "text": "Tesla.",
+          "start": 138.98,
+          "end": 139.32,
+          "confidence": 0.982
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "seek": 10822,
+      "start": 140.04,
+      "end": 142.57,
+      "text": " Fundamentale Prämisse Nummer drei.",
+      "tokens": [
+        51753,
+        13493,
+        2466,
+        1220,
+        2114,
+        9559,
+        7746,
+        47034,
+        16809,
+        13,
+        51853
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.2133981432233538,
+      "compression_ratio": 1.4819277108433735,
+      "no_speech_prob": 0.001783070620149374,
+      "confidence": 0.803,
+      "words": [
+        {
+          "text": "[*]",
+          "start": 140.04,
+          "end": 140.22,
+          "confidence": 0
+        },
+        {
+          "text": "Fundamentale",
+          "start": 140.4,
+          "end": 141.45,
+          "confidence": 0.979
+        },
+        {
+          "text": "Prämisse",
+          "start": 141.45,
+          "end": 141.95,
+          "confidence": 0.998
+        },
+        {
+          "text": "Nummer",
+          "start": 141.95,
+          "end": 142.21,
+          "confidence": 0.788
+        },
+        {
+          "text": "[*]",
+          "start": 142.21,
+          "end": 142.45,
+          "confidence": 0
+        },
+        {
+          "text": "drei.",
+          "start": 142.45,
+          "end": 142.57,
+          "confidence": 0.434
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "seek": 13798,
+      "start": 142.57,
+      "end": 147.27,
+      "text": " Alle Akteure sind Ressourcen, Integratoren.",
+      "tokens": [
+        50365,
+        25318,
+        9629,
+        975,
+        540,
+        3290,
+        497,
+        442,
+        396,
+        13037,
+        11,
+        23894,
+        267,
+        10948,
+        13,
+        50615
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.21175036869995983,
+      "compression_ratio": 1.982608695652174,
+      "no_speech_prob": 0.03361080586910248,
+      "confidence": 0.992,
+      "words": [
+        {
+          "text": "[*]",
+          "start": 142.57,
+          "end": 143.33,
+          "confidence": 0
+        },
+        {
+          "text": "Alle",
+          "start": 143.33,
+          "end": 143.79,
+          "confidence": 0.953
+        },
+        {
+          "text": "Akteure",
+          "start": 143.79,
+          "end": 144.65,
+          "confidence": 0.999
+        },
+        {
+          "text": "sind",
+          "start": 144.65,
+          "end": 144.97,
+          "confidence": 0.999
+        },
+        {
+          "text": "Ressourcen,",
+          "start": 144.97,
+          "end": 145.91,
+          "confidence": 0.993
+        },
+        {
+          "text": "[*]",
+          "start": 145.95,
+          "end": 146.17,
+          "confidence": 0
+        },
+        {
+          "text": "Integratoren.",
+          "start": 146.17,
+          "end": 147.27,
+          "confidence": 0.995
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "seek": 13798,
+      "start": 147.27,
+      "end": 152.01,
+      "text": " Wir sprechen von sogenannten Operanten-Ressourcen mit T.",
+      "tokens": [
+        50615,
+        4347,
+        27853,
+        2957,
+        37467,
+        14970,
+        12480,
+        29646,
+        12,
+        49,
+        442,
+        396,
+        13037,
+        2194,
+        314,
+        13,
+        50865
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.21175036869995983,
+      "compression_ratio": 1.982608695652174,
+      "no_speech_prob": 0.03361080586910248,
+      "confidence": 0.9,
+      "words": [
+        {
+          "text": "Wir",
+          "start": 147.27,
+          "end": 148.23,
+          "confidence": 0.962
+        },
+        {
+          "text": "sprechen",
+          "start": 148.23,
+          "end": 148.59,
+          "confidence": 0.999
+        },
+        {
+          "text": "von",
+          "start": 148.59,
+          "end": 148.87,
+          "confidence": 0.999
+        },
+        {
+          "text": "sogenannten",
+          "start": 148.87,
+          "end": 149.51,
+          "confidence": 0.992
+        },
+        {
+          "text": "Operanten-Ressourcen",
+          "start": 149.51,
+          "end": 151.61,
+          "confidence": 0.824
+        },
+        {
+          "text": "mit",
+          "start": 151.61,
+          "end": 151.79,
+          "confidence": 0.977
+        },
+        {
+          "text": "T.",
+          "start": 151.79,
+          "end": 152.01,
+          "confidence": 0.926
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "seek": 13798,
+      "start": 152.11,
+      "end": 155.73,
+      "text": " Das ist Wissen, die Batterietechnologie zum Beispiel.",
+      "tokens": [
+        50865,
+        2846,
+        1418,
+        343,
+        10987,
+        11,
+        978,
+        33066,
+        40462,
+        1377,
+        20121,
+        5919,
+        13772,
+        13,
+        51065
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.21175036869995983,
+      "compression_ratio": 1.982608695652174,
+      "no_speech_prob": 0.03361080586910248,
+      "confidence": 0.899,
+      "words": [
+        {
+          "text": "Das",
+          "start": 152.11,
+          "end": 152.85,
+          "confidence": 0.454
+        },
+        {
+          "text": "ist",
+          "start": 152.85,
+          "end": 153.03,
+          "confidence": 0.968
+        },
+        {
+          "text": "Wissen,",
+          "start": 153.03,
+          "end": 153.63,
+          "confidence": 0.922
+        },
+        {
+          "text": "die",
+          "start": 153.73,
+          "end": 153.99,
+          "confidence": 0.93
+        },
+        {
+          "text": "Batterietechnologie",
+          "start": 153.99,
+          "end": 155.03,
+          "confidence": 0.992
+        },
+        {
+          "text": "zum",
+          "start": 155.03,
+          "end": 155.23,
+          "confidence": 0.924
+        },
+        {
+          "text": "Beispiel.",
+          "start": 155.23,
+          "end": 155.73,
+          "confidence": 0.932
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "seek": 13798,
+      "start": 156.11,
+      "end": 163.55,
+      "text": " Software, Autopilot, aber auch eine Philosophie.",
+      "tokens": [
+        51065,
+        27428,
+        11,
+        6049,
+        404,
+        31516,
+        11,
+        4340,
+        2168,
+        3018,
+        31182,
+        5317,
+        414,
+        13,
+        51415
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.21175036869995983,
+      "compression_ratio": 1.982608695652174,
+      "no_speech_prob": 0.03361080586910248,
+      "confidence": 0.935,
+      "words": [
+        {
+          "text": "[*]",
+          "start": 156.11,
+          "end": 157.59,
+          "confidence": 0
+        },
+        {
+          "text": "Software,",
+          "start": 157.59,
+          "end": 157.85,
+          "confidence": 0.781
+        },
+        {
+          "text": "[*]",
+          "start": 158.41,
+          "end": 159.05,
+          "confidence": 0
+        },
+        {
+          "text": "Autopilot,",
+          "start": 159.05,
+          "end": 159.75,
+          "confidence": 0.961
+        },
+        {
+          "text": "[*]",
+          "start": 160.01,
+          "end": 160.72,
+          "confidence": 0
+        },
+        {
+          "text": "aber",
+          "start": 161.19,
+          "end": 161.67,
+          "confidence": 0.92
+        },
+        {
+          "text": "auch",
+          "start": 161.67,
+          "end": 162.01,
+          "confidence": 0.998
+        },
+        {
+          "text": "eine",
+          "start": 162.01,
+          "end": 162.69,
+          "confidence": 0.99
+        },
+        {
+          "text": "Philosophie.",
+          "start": 162.69,
+          "end": 163.55,
+          "confidence": 0.969
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "seek": 13798,
+      "start": 163.55,
+      "end": 170.25,
+      "text": " Und von sogenannten Operanden-Ressourcen, in unserem Fall im wesentlichen Zeit und Geld.",
+      "tokens": [
+        51415,
+        2719,
+        2957,
+        37467,
+        14970,
+        12480,
+        28762,
+        12,
+        49,
+        442,
+        396,
+        13037,
+        11,
+        294,
+        26792,
+        7465,
+        566,
+        38384,
+        7698,
+        268,
+        9394,
+        674,
+        16535,
+        13,
+        51765
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.21175036869995983,
+      "compression_ratio": 1.982608695652174,
+      "no_speech_prob": 0.03361080586910248,
+      "confidence": 0.739,
+      "words": [
+        {
+          "text": "Und",
+          "start": 163.55,
+          "end": 164.37,
+          "confidence": 0.015
+        },
+        {
+          "text": "von",
+          "start": 164.37,
+          "end": 164.57,
+          "confidence": 0.998
+        },
+        {
+          "text": "sogenannten",
+          "start": 164.57,
+          "end": 165.19,
+          "confidence": 0.998
+        },
+        {
+          "text": "Operanden-Ressourcen,",
+          "start": 165.19,
+          "end": 167.17,
+          "confidence": 0.851
+        },
+        {
+          "text": "in",
+          "start": 167.25,
+          "end": 167.71,
+          "confidence": 0.988
+        },
+        {
+          "text": "unserem",
+          "start": 167.71,
+          "end": 168.03,
+          "confidence": 1.0
+        },
+        {
+          "text": "[*]",
+          "start": 168.03,
+          "end": 168.19,
+          "confidence": 0
+        },
+        {
+          "text": "Fall",
+          "start": 168.19,
+          "end": 168.31,
+          "confidence": 1.0
+        },
+        {
+          "text": "im",
+          "start": 168.31,
+          "end": 168.47,
+          "confidence": 0.999
+        },
+        {
+          "text": "wesentlichen",
+          "start": 168.47,
+          "end": 169.15,
+          "confidence": 0.622
+        },
+        {
+          "text": "Zeit",
+          "start": 169.15,
+          "end": 169.31,
+          "confidence": 0.999
+        },
+        {
+          "text": "und",
+          "start": 169.31,
+          "end": 169.77,
+          "confidence": 1.0
+        },
+        {
+          "text": "Geld.",
+          "start": 169.77,
+          "end": 170.25,
+          "confidence": 0.997
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "seek": 13798,
+      "start": 170.49,
+      "end": 172.61,
+      "text": " Die Ressourcen, die Tesla nutzt, sind natürlich die Ressourcen, die Tesla nutzt.",
+      "tokens": [
+        51765,
+        3229,
+        497,
+        442,
+        396,
+        13037,
+        11,
+        978,
+        13666,
+        5393,
+        2682,
+        11,
+        3290,
+        8762,
+        978,
+        497,
+        442,
+        396,
+        13037,
+        11,
+        978,
+        13666,
+        5393,
+        2682,
+        13,
+        51815
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.21175036869995983,
+      "compression_ratio": 1.982608695652174,
+      "no_speech_prob": 0.03361080586910248,
+      "confidence": 0.546,
+      "words": [
+        {
+          "text": "Die",
+          "start": 170.49,
+          "end": 170.99,
+          "confidence": 0.853
+        },
+        {
+          "text": "Ressourcen,",
+          "start": 170.99,
+          "end": 171.53,
+          "confidence": 0.983
+        },
+        {
+          "text": "die",
+          "start": 171.57,
+          "end": 171.67,
+          "confidence": 1.0
+        },
+        {
+          "text": "Tesla",
+          "start": 171.67,
+          "end": 171.93,
+          "confidence": 0.998
+        },
+        {
+          "text": "nutzt,",
+          "start": 171.93,
+          "end": 172.33,
+          "confidence": 0.942
+        },
+        {
+          "text": "sind",
+          "start": 172.47,
+          "end": 172.49,
+          "confidence": 0.622
+        },
+        {
+          "text": "natürlich",
+          "start": 172.49,
+          "end": 172.51,
+          "confidence": 0.002
+        },
+        {
+          "text": "die",
+          "start": 172.51,
+          "end": 172.53,
+          "confidence": 0.014
+        },
+        {
+          "text": "Ressourcen,",
+          "start": 172.53,
+          "end": 172.55,
+          "confidence": 0.586
+        },
+        {
+          "text": "die",
+          "start": 172.55,
+          "end": 172.57,
+          "confidence": 0.985
+        },
+        {
+          "text": "Tesla",
+          "start": 172.57,
+          "end": 172.59,
+          "confidence": 0.857
+        },
+        {
+          "text": "nutzt.",
+          "start": 172.59,
+          "end": 172.61,
+          "confidence": 0.841
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "seek": 13798,
+      "start": 172.61,
+      "end": 173.51,
+      "text": " Die Ressourcen, die Tesla nutzt, sind natürlich die Ressourcen, die Tesla nutzt.",
+      "tokens": [
+        51815,
+        3229,
+        497,
+        442,
+        396,
+        13037,
+        11,
+        978,
+        13666,
+        5393,
+        2682,
+        11,
+        3290,
+        8762,
+        978,
+        497,
+        442,
+        396,
+        13037,
+        11,
+        978,
+        13666,
+        5393,
+        2682,
+        13,
+        51865
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.21175036869995983,
+      "compression_ratio": 1.982608695652174,
+      "no_speech_prob": 0.03361080586910248,
+      "confidence": 0.099,
+      "words": [
+        {
+          "text": "Die",
+          "start": 172.61,
+          "end": 172.63,
+          "confidence": 0.014
+        },
+        {
+          "text": "Ressourcen,",
+          "start": 172.63,
+          "end": 172.65,
+          "confidence": 0.116
+        },
+        {
+          "text": "die",
+          "start": 172.65,
+          "end": 172.67,
+          "confidence": 0.964
+        },
+        {
+          "text": "Tesla",
+          "start": 172.67,
+          "end": 172.69,
+          "confidence": 0.0
+        },
+        {
+          "text": "nutzt,",
+          "start": 172.69,
+          "end": 172.71,
+          "confidence": 0.302
+        },
+        {
+          "text": "sind",
+          "start": 172.71,
+          "end": 172.73,
+          "confidence": 0.998
+        },
+        {
+          "text": "natürlich",
+          "start": 172.73,
+          "end": 172.95,
+          "confidence": 0.995
+        },
+        {
+          "text": "die",
+          "start": 172.95,
+          "end": 173.09,
+          "confidence": 0.0
+        },
+        {
+          "text": "Ressourcen,",
+          "start": 173.09,
+          "end": 173.43,
+          "confidence": 0.231
+        },
+        {
+          "text": "die",
+          "start": 173.43,
+          "end": 173.47,
+          "confidence": 0.98
+        },
+        {
+          "text": "Tesla",
+          "start": 173.47,
+          "end": 173.49,
+          "confidence": 0.183
+        },
+        {
+          "text": "nutzt.",
+          "start": 173.49,
+          "end": 173.51,
+          "confidence": 0.787
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "seek": 16798,
+      "start": 173.51,
+      "end": 174.03,
+      "text": " Die Ressourcen, die Tesla nutzt, sind natürlich Zulieferer.",
+      "tokens": [
+        50365,
+        3229,
+        497,
+        442,
+        396,
+        13037,
+        11,
+        978,
+        13666,
+        5393,
+        2682,
+        11,
+        3290,
+        8762,
+        1176,
+        425,
+        414,
+        612,
+        260,
+        13,
+        50465
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09124286651611328,
+      "compression_ratio": 1.5159817351598173,
+      "no_speech_prob": 0.0013314702082425356,
+      "confidence": 0.067,
+      "words": [
+        {
+          "text": "Die",
+          "start": 173.51,
+          "end": 173.53,
+          "confidence": 0.002
+        },
+        {
+          "text": "Ressourcen,",
+          "start": 173.53,
+          "end": 173.55,
+          "confidence": 0.101
+        },
+        {
+          "text": "die",
+          "start": 173.55,
+          "end": 173.57,
+          "confidence": 0.688
+        },
+        {
+          "text": "Tesla",
+          "start": 173.57,
+          "end": 173.59,
+          "confidence": 0.0
+        },
+        {
+          "text": "nutzt,",
+          "start": 173.59,
+          "end": 173.61,
+          "confidence": 0.078
+        },
+        {
+          "text": "sind",
+          "start": 173.61,
+          "end": 173.63,
+          "confidence": 0.439
+        },
+        {
+          "text": "natürlich",
+          "start": 173.63,
+          "end": 173.65,
+          "confidence": 0.011
+        },
+        {
+          "text": "Zulieferer.",
+          "start": 173.65,
+          "end": 174.03,
+          "confidence": 0.267
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "seek": 16798,
+      "start": 174.49,
+      "end": 185.07,
+      "text": " Es sind aber auch Energieversorger, die das flächendeckende Strom-Tankstellen-Netzwerk zur Verfügung stellen.",
+      "tokens": [
+        50465,
+        2313,
+        3290,
+        4340,
+        2168,
+        35309,
+        840,
+        284,
+        1321,
+        11,
+        978,
+        1482,
+        932,
+        10168,
+        5445,
+        547,
+        5445,
+        39126,
+        12,
+        51,
+        657,
+        17538,
+        12,
+        45,
+        10074,
+        26833,
+        7147,
+        43026,
+        24407,
+        13,
+        51015
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09124286651611328,
+      "compression_ratio": 1.5159817351598173,
+      "no_speech_prob": 0.0013314702082425356,
+      "confidence": 0.959,
+      "words": [
+        {
+          "text": "Es",
+          "start": 174.49,
+          "end": 175.27,
+          "confidence": 0.984
+        },
+        {
+          "text": "sind",
+          "start": 175.27,
+          "end": 175.57,
+          "confidence": 0.994
+        },
+        {
+          "text": "aber",
+          "start": 175.57,
+          "end": 175.81,
+          "confidence": 0.998
+        },
+        {
+          "text": "[*]",
+          "start": 175.81,
+          "end": 176.05,
+          "confidence": 0
+        },
+        {
+          "text": "auch",
+          "start": 176.05,
+          "end": 176.33,
+          "confidence": 1.0
+        },
+        {
+          "text": "[*]",
+          "start": 176.33,
+          "end": 176.93,
+          "confidence": 0
+        },
+        {
+          "text": "Energieversorger,",
+          "start": 176.93,
+          "end": 178.17,
+          "confidence": 0.998
+        },
+        {
+          "text": "die",
+          "start": 178.33,
+          "end": 178.61,
+          "confidence": 0.968
+        },
+        {
+          "text": "das",
+          "start": 178.61,
+          "end": 178.79,
+          "confidence": 0.998
+        },
+        {
+          "text": "flächendeckende",
+          "start": 178.79,
+          "end": 179.93,
+          "confidence": 1.0
+        },
+        {
+          "text": "[*]",
+          "start": 179.93,
+          "end": 181.29,
+          "confidence": 0
+        },
+        {
+          "text": "Strom-Tankstellen-Netzwerk",
+          "start": 181.29,
+          "end": 183.85,
+          "confidence": 0.888
+        },
+        {
+          "text": "zur",
+          "start": 183.85,
+          "end": 184.01,
+          "confidence": 0.924
+        },
+        {
+          "text": "Verfügung",
+          "start": 184.01,
+          "end": 184.47,
+          "confidence": 0.999
+        },
+        {
+          "text": "[*]",
+          "start": 184.47,
+          "end": 184.93,
+          "confidence": 0
+        },
+        {
+          "text": "stellen.",
+          "start": 184.93,
+          "end": 185.07,
+          "confidence": 0.999
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "seek": 16798,
+      "start": 185.49,
+      "end": 192.23,
+      "text": " Es ist Spotify, die Musikplattform, die übrigens sehr zu empfehlen ist im Tesla.",
+      "tokens": [
+        51015,
+        2313,
+        1418,
+        29036,
+        11,
+        978,
+        14156,
+        564,
+        49952,
+        11,
+        978,
+        38215,
+        5499,
+        2164,
+        4012,
+        33865,
+        6698,
+        1418,
+        566,
+        13666,
+        13,
+        51365
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09124286651611328,
+      "compression_ratio": 1.5159817351598173,
+      "no_speech_prob": 0.0013314702082425356,
+      "confidence": 0.922,
+      "words": [
+        {
+          "text": "Es",
+          "start": 185.49,
+          "end": 185.87,
+          "confidence": 0.696
+        },
+        {
+          "text": "ist",
+          "start": 185.87,
+          "end": 186.07,
+          "confidence": 0.993
+        },
+        {
+          "text": "Spotify,",
+          "start": 186.07,
+          "end": 186.55,
+          "confidence": 0.897
+        },
+        {
+          "text": "[*]",
+          "start": 186.55,
+          "end": 187.15,
+          "confidence": 0
+        },
+        {
+          "text": "die",
+          "start": 187.15,
+          "end": 187.75,
+          "confidence": 0.783
+        },
+        {
+          "text": "Musikplattform,",
+          "start": 187.75,
+          "end": 189.99,
+          "confidence": 0.961
+        },
+        {
+          "text": "die",
+          "start": 190.19,
+          "end": 190.35,
+          "confidence": 0.956
+        },
+        {
+          "text": "übrigens",
+          "start": 190.35,
+          "end": 190.59,
+          "confidence": 0.99
+        },
+        {
+          "text": "sehr",
+          "start": 190.59,
+          "end": 190.85,
+          "confidence": 0.983
+        },
+        {
+          "text": "zu",
+          "start": 190.85,
+          "end": 190.99,
+          "confidence": 0.995
+        },
+        {
+          "text": "empfehlen",
+          "start": 190.99,
+          "end": 191.53,
+          "confidence": 0.993
+        },
+        {
+          "text": "ist",
+          "start": 191.53,
+          "end": 191.71,
+          "confidence": 0.994
+        },
+        {
+          "text": "im",
+          "start": 191.71,
+          "end": 191.91,
+          "confidence": 0.625
+        },
+        {
+          "text": "Tesla.",
+          "start": 191.91,
+          "end": 192.23,
+          "confidence": 0.973
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "seek": 16798,
+      "start": 192.49,
+      "end": 200.79,
+      "text": " Es sind aber auch staatliche Ressourcen, Steuererleichterungen, Subventionen.",
+      "tokens": [
+        51365,
+        2313,
+        3290,
+        4340,
+        2168,
+        28836,
+        10185,
+        497,
+        442,
+        396,
+        13037,
+        11,
+        44250,
+        260,
+        306,
+        1405,
+        260,
+        5084,
+        11,
+        8511,
+        6411,
+        268,
+        13,
+        51765
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09124286651611328,
+      "compression_ratio": 1.5159817351598173,
+      "no_speech_prob": 0.0013314702082425356,
+      "confidence": 0.996,
+      "words": [
+        {
+          "text": "[*]",
+          "start": 192.49,
+          "end": 192.91,
+          "confidence": 0
+        },
+        {
+          "text": "Es",
+          "start": 193.68,
+          "end": 194.15,
+          "confidence": 0.955
+        },
+        {
+          "text": "sind",
+          "start": 194.15,
+          "end": 194.39,
+          "confidence": 0.999
+        },
+        {
+          "text": "aber",
+          "start": 194.39,
+          "end": 194.67,
+          "confidence": 0.999
+        },
+        {
+          "text": "[*]",
+          "start": 194.67,
+          "end": 194.89,
+          "confidence": 0
+        },
+        {
+          "text": "auch",
+          "start": 194.89,
+          "end": 195.15,
+          "confidence": 1.0
+        },
+        {
+          "text": "[*]",
+          "start": 195.15,
+          "end": 196.03,
+          "confidence": 0
+        },
+        {
+          "text": "staatliche",
+          "start": 196.03,
+          "end": 196.75,
+          "confidence": 0.999
+        },
+        {
+          "text": "Ressourcen,",
+          "start": 196.75,
+          "end": 198.03,
+          "confidence": 0.997
+        },
+        {
+          "text": "[*]",
+          "start": 198.11,
+          "end": 198.61,
+          "confidence": 0
+        },
+        {
+          "text": "Steuererleichterungen,",
+          "start": 198.61,
+          "end": 199.75,
+          "confidence": 0.998
+        },
+        {
+          "text": "Subventionen.",
+          "start": 199.81,
+          "end": 200.79,
+          "confidence": 0.997
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "seek": 19598,
+      "start": 200.97,
+      "end": 215.04,
+      "text": " Die Ressourcen, die der Kunde einbringt, sind seine Planungsfähigkeiten, seine Bereitschaft, sich auf den Gedanken einzulassen, je langsamer man fährt, desto früher kommt man an.",
+      "tokens": [
+        50365,
+        3229,
+        497,
+        442,
+        396,
+        13037,
+        11,
+        978,
+        1163,
+        591,
+        13271,
+        1343,
+        1443,
+        23190,
+        11,
+        3290,
+        15925,
+        8112,
+        5846,
+        44616,
+        37545,
+        11,
+        15925,
+        17684,
+        1208,
+        7118,
+        11,
+        3041,
+        2501,
+        1441,
+        44612,
+        21586,
+        425,
+        8356,
+        11,
+        1506,
+        2265,
+        82,
+        13530,
+        587,
+        283,
+        37458,
+        11,
+        2677,
+        78,
+        32349,
+        10047,
+        587,
+        364,
+        13,
+        51065
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.07066052550569586,
+      "compression_ratio": 1.52734375,
+      "no_speech_prob": 0.0005150981014594436,
+      "confidence": 0.933,
+      "words": [
+        {
+          "text": "[*]",
+          "start": 200.97,
+          "end": 201.49,
+          "confidence": 0
+        },
+        {
+          "text": "Die",
+          "start": 201.8,
+          "end": 202.0,
+          "confidence": 0.875
+        },
+        {
+          "text": "Ressourcen,",
+          "start": 202.0,
+          "end": 202.68,
+          "confidence": 0.972
+        },
+        {
+          "text": "die",
+          "start": 202.74,
+          "end": 202.92,
+          "confidence": 0.998
+        },
+        {
+          "text": "der",
+          "start": 202.92,
+          "end": 203.02,
+          "confidence": 0.998
+        },
+        {
+          "text": "Kunde",
+          "start": 203.02,
+          "end": 203.46,
+          "confidence": 0.997
+        },
+        {
+          "text": "einbringt,",
+          "start": 203.46,
+          "end": 204.28,
+          "confidence": 0.951
+        },
+        {
+          "text": "sind",
+          "start": 204.3,
+          "end": 204.56,
+          "confidence": 0.979
+        },
+        {
+          "text": "seine",
+          "start": 204.56,
+          "end": 204.74,
+          "confidence": 0.953
+        },
+        {
+          "text": "Planungsfähigkeiten,",
+          "start": 204.74,
+          "end": 206.14,
+          "confidence": 0.978
+        },
+        {
+          "text": "seine",
+          "start": 206.34,
+          "end": 207.2,
+          "confidence": 0.697
+        },
+        {
+          "text": "Bereitschaft,",
+          "start": 207.2,
+          "end": 208.16,
+          "confidence": 0.943
+        },
+        {
+          "text": "sich",
+          "start": 208.3,
+          "end": 208.8,
+          "confidence": 0.393
+        },
+        {
+          "text": "auf",
+          "start": 208.8,
+          "end": 209.02,
+          "confidence": 0.937
+        },
+        {
+          "text": "den",
+          "start": 209.02,
+          "end": 209.16,
+          "confidence": 0.959
+        },
+        {
+          "text": "Gedanken",
+          "start": 209.16,
+          "end": 209.56,
+          "confidence": 0.992
+        },
+        {
+          "text": "einzulassen,",
+          "start": 209.56,
+          "end": 210.5,
+          "confidence": 0.959
+        },
+        {
+          "text": "je",
+          "start": 210.64,
+          "end": 211.24,
+          "confidence": 0.603
+        },
+        {
+          "text": "langsamer",
+          "start": 211.24,
+          "end": 211.96,
+          "confidence": 1.0
+        },
+        {
+          "text": "man",
+          "start": 211.96,
+          "end": 212.16,
+          "confidence": 0.999
+        },
+        {
+          "text": "fährt,",
+          "start": 212.16,
+          "end": 212.7,
+          "confidence": 1.0
+        },
+        {
+          "text": "desto",
+          "start": 212.84,
+          "end": 213.38,
+          "confidence": 0.999
+        },
+        {
+          "text": "früher",
+          "start": 213.38,
+          "end": 214.0,
+          "confidence": 0.998
+        },
+        {
+          "text": "kommt",
+          "start": 214.0,
+          "end": 214.26,
+          "confidence": 0.999
+        },
+        {
+          "text": "man",
+          "start": 214.26,
+          "end": 214.66,
+          "confidence": 1.0
+        },
+        {
+          "text": "an.",
+          "start": 214.66,
+          "end": 215.04,
+          "confidence": 0.825
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "seek": 19598,
+      "start": 215.04,
+      "end": 220.62,
+      "text": " Seine Bereitschaft, auch Softwarefehler zu verzeihen.",
+      "tokens": [
+        51065,
+        1100,
+        533,
+        17684,
+        1208,
+        7118,
+        11,
+        2168,
+        27428,
+        33865,
+        1918,
+        2164,
+        1306,
+        1381,
+        29842,
+        13,
+        51365
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.07066052550569586,
+      "compression_ratio": 1.52734375,
+      "no_speech_prob": 0.0005150981014594436,
+      "confidence": 0.815,
+      "words": [
+        {
+          "text": "[*]",
+          "start": 215.04,
+          "end": 215.64,
+          "confidence": 0
+        },
+        {
+          "text": "Seine",
+          "start": 215.64,
+          "end": 216.34,
+          "confidence": 0.287
+        },
+        {
+          "text": "[*]",
+          "start": 216.34,
+          "end": 216.74,
+          "confidence": 0
+        },
+        {
+          "text": "Bereitschaft,",
+          "start": 216.74,
+          "end": 217.6,
+          "confidence": 0.932
+        },
+        {
+          "text": "auch",
+          "start": 217.66,
+          "end": 217.92,
+          "confidence": 0.946
+        },
+        {
+          "text": "Softwarefehler",
+          "start": 217.92,
+          "end": 219.38,
+          "confidence": 0.992
+        },
+        {
+          "text": "zu",
+          "start": 219.38,
+          "end": 219.76,
+          "confidence": 0.999
+        },
+        {
+          "text": "verzeihen.",
+          "start": 219.76,
+          "end": 220.62,
+          "confidence": 0.95
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "seek": 19598,
+      "start": 221.0,
+      "end": 230.38,
+      "text": " Seine Compliance, das heißt den Autopiloten tatsächlich so zu nutzen, wie er gedacht ist und nicht während des Fahrens zu schlafen oder Filme zu gucken.",
+      "tokens": [
+        51365,
+        1100,
+        533,
+        33736,
+        6276,
+        11,
+        1482,
+        13139,
+        1441,
+        6049,
+        404,
+        388,
+        21990,
+        20796,
+        370,
+        2164,
+        36905,
+        11,
+        3355,
+        1189,
+        33296,
+        1418,
+        674,
+        1979,
+        33624,
+        730,
+        29109,
+        82,
+        2164,
+        956,
+        875,
+        6570,
+        4513,
+        7905,
+        1398,
+        2164,
+        33135,
+        13,
+        51815
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.07066052550569586,
+      "compression_ratio": 1.52734375,
+      "no_speech_prob": 0.0005150981014594436,
+      "confidence": 0.843,
+      "words": [
+        {
+          "text": "[*]",
+          "start": 221.0,
+          "end": 221.34,
+          "confidence": 0
+        },
+        {
+          "text": "Seine",
+          "start": 221.34,
+          "end": 221.8,
+          "confidence": 0.239
+        },
+        {
+          "text": "Compliance,",
+          "start": 221.8,
+          "end": 222.46,
+          "confidence": 0.912
+        },
+        {
+          "text": "das",
+          "start": 222.68,
+          "end": 222.82,
+          "confidence": 0.779
+        },
+        {
+          "text": "heißt",
+          "start": 222.82,
+          "end": 223.06,
+          "confidence": 0.961
+        },
+        {
+          "text": "den",
+          "start": 223.06,
+          "end": 223.24,
+          "confidence": 0.821
+        },
+        {
+          "text": "Autopiloten",
+          "start": 223.24,
+          "end": 224.0,
+          "confidence": 0.992
+        },
+        {
+          "text": "tatsächlich",
+          "start": 224.0,
+          "end": 224.34,
+          "confidence": 0.934
+        },
+        {
+          "text": "so",
+          "start": 224.34,
+          "end": 224.68,
+          "confidence": 0.982
+        },
+        {
+          "text": "zu",
+          "start": 224.68,
+          "end": 224.92,
+          "confidence": 0.978
+        },
+        {
+          "text": "[*]",
+          "start": 224.92,
+          "end": 225.12,
+          "confidence": 0
+        },
+        {
+          "text": "nutzen,",
+          "start": 225.12,
+          "end": 225.28,
+          "confidence": 0.778
+        },
+        {
+          "text": "wie",
+          "start": 225.38,
+          "end": 225.5,
+          "confidence": 0.833
+        },
+        {
+          "text": "er",
+          "start": 225.5,
+          "end": 225.62,
+          "confidence": 0.938
+        },
+        {
+          "text": "gedacht",
+          "start": 225.62,
+          "end": 225.82,
+          "confidence": 0.874
+        },
+        {
+          "text": "ist",
+          "start": 225.82,
+          "end": 226.3,
+          "confidence": 0.89
+        },
+        {
+          "text": "[*]",
+          "start": 226.3,
+          "end": 226.7,
+          "confidence": 0
+        },
+        {
+          "text": "und",
+          "start": 226.7,
+          "end": 226.84,
+          "confidence": 0.276
+        },
+        {
+          "text": "nicht",
+          "start": 226.84,
+          "end": 227.08,
+          "confidence": 0.952
+        },
+        {
+          "text": "während",
+          "start": 227.08,
+          "end": 227.26,
+          "confidence": 0.989
+        },
+        {
+          "text": "des",
+          "start": 227.26,
+          "end": 227.46,
+          "confidence": 0.988
+        },
+        {
+          "text": "Fahrens",
+          "start": 227.46,
+          "end": 228.12,
+          "confidence": 0.971
+        },
+        {
+          "text": "[*]",
+          "start": 228.12,
+          "end": 228.3,
+          "confidence": 0
+        },
+        {
+          "text": "zu",
+          "start": 228.3,
+          "end": 228.76,
+          "confidence": 0.974
+        },
+        {
+          "text": "schlafen",
+          "start": 228.76,
+          "end": 229.34,
+          "confidence": 0.995
+        },
+        {
+          "text": "oder",
+          "start": 229.34,
+          "end": 229.48,
+          "confidence": 0.985
+        },
+        {
+          "text": "Filme",
+          "start": 229.48,
+          "end": 229.86,
+          "confidence": 0.996
+        },
+        {
+          "text": "zu",
+          "start": 229.86,
+          "end": 229.98,
+          "confidence": 0.998
+        },
+        {
+          "text": "[*]",
+          "start": 229.98,
+          "end": 230.2,
+          "confidence": 0
+        },
+        {
+          "text": "gucken.",
+          "start": 230.2,
+          "end": 230.38,
+          "confidence": 0.974
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "seek": 22498,
+      "start": 230.38,
+      "end": 238.94,
+      "text": " Oder auch sich tatsächlich in diese Tesla Community einzubringen.",
+      "tokens": [
+        50365,
+        20988,
+        2168,
+        3041,
+        20796,
+        294,
+        6705,
+        13666,
+        10421,
+        21586,
+        836,
+        2937,
+        268,
+        13,
+        50715
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.0777755578358968,
+      "compression_ratio": 1.4844444444444445,
+      "no_speech_prob": 0.0002224646887043491,
+      "confidence": 0.762,
+      "words": [
+        {
+          "text": "[*]",
+          "start": 230.38,
+          "end": 231.25,
+          "confidence": 0
+        },
+        {
+          "text": "Oder",
+          "start": 232.7,
+          "end": 233.06,
+          "confidence": 0.093
+        },
+        {
+          "text": "auch",
+          "start": 233.06,
+          "end": 233.56,
+          "confidence": 0.928
+        },
+        {
+          "text": "[*]",
+          "start": 233.56,
+          "end": 234.44,
+          "confidence": 0
+        },
+        {
+          "text": "sich",
+          "start": 234.44,
+          "end": 234.54,
+          "confidence": 0.595
+        },
+        {
+          "text": "[*]",
+          "start": 234.54,
+          "end": 235.02,
+          "confidence": 0
+        },
+        {
+          "text": "tatsächlich",
+          "start": 235.02,
+          "end": 235.22,
+          "confidence": 0.98
+        },
+        {
+          "text": "in",
+          "start": 235.22,
+          "end": 236.1,
+          "confidence": 0.987
+        },
+        {
+          "text": "diese",
+          "start": 236.1,
+          "end": 236.4,
+          "confidence": 0.977
+        },
+        {
+          "text": "Tesla",
+          "start": 236.4,
+          "end": 236.7,
+          "confidence": 0.88
+        },
+        {
+          "text": "[*]",
+          "start": 236.7,
+          "end": 236.96,
+          "confidence": 0
+        },
+        {
+          "text": "Community",
+          "start": 236.96,
+          "end": 237.12,
+          "confidence": 0.775
+        },
+        {
+          "text": "[*]",
+          "start": 237.12,
+          "end": 238.08,
+          "confidence": 0
+        },
+        {
+          "text": "einzubringen.",
+          "start": 238.08,
+          "end": 238.94,
+          "confidence": 0.978
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "seek": 22498,
+      "start": 238.94,
+      "end": 242.75,
+      "text": " Fundamentale Prämisse Nummer 3.",
+      "tokens": [
+        50715,
+        13493,
+        2466,
+        1220,
+        2114,
+        9559,
+        7746,
+        47034,
+        805,
+        13,
+        50915
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.0777755578358968,
+      "compression_ratio": 1.4844444444444445,
+      "no_speech_prob": 0.0002224646887043491,
+      "confidence": 0.842,
+      "words": [
+        {
+          "text": "[*]",
+          "start": 238.94,
+          "end": 239.63,
+          "confidence": 0
+        },
+        {
+          "text": "Fundamentale",
+          "start": 240.25,
+          "end": 241.19,
+          "confidence": 0.99
+        },
+        {
+          "text": "Prämisse",
+          "start": 241.19,
+          "end": 241.77,
+          "confidence": 0.999
+        },
+        {
+          "text": "[*]",
+          "start": 241.77,
+          "end": 242.15,
+          "confidence": 0
+        },
+        {
+          "text": "Nummer",
+          "start": 242.15,
+          "end": 242.37,
+          "confidence": 0.958
+        },
+        {
+          "text": "[*]",
+          "start": 242.37,
+          "end": 242.59,
+          "confidence": 0
+        },
+        {
+          "text": "3.",
+          "start": 242.59,
+          "end": 242.75,
+          "confidence": 0.478
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "seek": 22498,
+      "start": 246.28,
+      "end": 247.76,
+      "text": " Fundamentale Prämisse Nummer 4.",
+      "tokens": [
+        50915,
+        13493,
+        2466,
+        1220,
+        2114,
+        9559,
+        7746,
+        47034,
+        1017,
+        13,
+        51065
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.0777755578358968,
+      "compression_ratio": 1.4844444444444445,
+      "no_speech_prob": 0.0002224646887043491,
+      "confidence": 0.785,
+      "words": [
+        {
+          "text": "Fundamentale",
+          "start": 246.28,
+          "end": 246.82,
+          "confidence": 0.77
+        },
+        {
+          "text": "Prämisse",
+          "start": 246.82,
+          "end": 247.22,
+          "confidence": 0.995
+        },
+        {
+          "text": "Nummer",
+          "start": 247.22,
+          "end": 247.44,
+          "confidence": 0.904
+        },
+        {
+          "text": "4.",
+          "start": 247.44,
+          "end": 247.76,
+          "confidence": 0.528
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "seek": 22498,
+      "start": 247.98,
+      "end": 254.58,
+      "text": " Der Wert der Leistung wird ausschließlich durch den Kunden bestimmt.",
+      "tokens": [
+        51065,
+        5618,
+        37205,
+        1163,
+        39577,
+        1063,
+        4578,
+        5730,
+        339,
+        44697,
+        7131,
+        1441,
+        38192,
+        46871,
+        13,
+        51365
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.0777755578358968,
+      "compression_ratio": 1.4844444444444445,
+      "no_speech_prob": 0.0002224646887043491,
+      "confidence": 0.999,
+      "words": [
+        {
+          "text": "[*]",
+          "start": 247.98,
+          "end": 248.56,
+          "confidence": 0
+        },
+        {
+          "text": "Der",
+          "start": 249.1,
+          "end": 249.6,
+          "confidence": 0.996
+        },
+        {
+          "text": "Wert",
+          "start": 249.6,
+          "end": 249.96,
+          "confidence": 1.0
+        },
+        {
+          "text": "der",
+          "start": 249.96,
+          "end": 250.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "Leistung",
+          "start": 250.24,
+          "end": 251.06,
+          "confidence": 1.0
+        },
+        {
+          "text": "wird",
+          "start": 251.06,
+          "end": 251.38,
+          "confidence": 0.999
+        },
+        {
+          "text": "ausschließlich",
+          "start": 251.38,
+          "end": 252.34,
+          "confidence": 0.998
+        },
+        {
+          "text": "[*]",
+          "start": 252.34,
+          "end": 253.18,
+          "confidence": 0
+        },
+        {
+          "text": "durch",
+          "start": 253.18,
+          "end": 253.36,
+          "confidence": 0.997
+        },
+        {
+          "text": "den",
+          "start": 253.36,
+          "end": 253.56,
+          "confidence": 1.0
+        },
+        {
+          "text": "[*]",
+          "start": 253.56,
+          "end": 253.72,
+          "confidence": 0
+        },
+        {
+          "text": "Kunden",
+          "start": 253.72,
+          "end": 253.9,
+          "confidence": 1.0
+        },
+        {
+          "text": "[*]",
+          "start": 253.9,
+          "end": 254.46,
+          "confidence": 0
+        },
+        {
+          "text": "bestimmt.",
+          "start": 254.46,
+          "end": 254.58,
+          "confidence": 0.997
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "seek": 22498,
+      "start": 254.58,
+      "end": 259.08,
+      "text": " Lassen Sie mich das an folgendem Beispiel näher erläutern.",
+      "tokens": [
+        51365,
+        441,
+        8356,
+        3559,
+        6031,
+        1482,
+        364,
+        3339,
+        9395,
+        443,
+        13772,
+        6433,
+        511,
+        1189,
+        22882,
+        325,
+        1248,
+        13,
+        51565
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.0777755578358968,
+      "compression_ratio": 1.4844444444444445,
+      "no_speech_prob": 0.0002224646887043491,
+      "confidence": 0.882,
+      "words": [
+        {
+          "text": "Lassen",
+          "start": 254.58,
+          "end": 255.96,
+          "confidence": 0.765
+        },
+        {
+          "text": "Sie",
+          "start": 255.96,
+          "end": 256.12,
+          "confidence": 0.907
+        },
+        {
+          "text": "mich",
+          "start": 256.12,
+          "end": 256.28,
+          "confidence": 0.999
+        },
+        {
+          "text": "das",
+          "start": 256.28,
+          "end": 256.44,
+          "confidence": 0.986
+        },
+        {
+          "text": "an",
+          "start": 256.44,
+          "end": 256.58,
+          "confidence": 0.953
+        },
+        {
+          "text": "folgendem",
+          "start": 256.58,
+          "end": 257.24,
+          "confidence": 0.858
+        },
+        {
+          "text": "[*]",
+          "start": 257.24,
+          "end": 257.42,
+          "confidence": 0
+        },
+        {
+          "text": "Beispiel",
+          "start": 257.42,
+          "end": 257.56,
+          "confidence": 0.995
+        },
+        {
+          "text": "[*]",
+          "start": 257.56,
+          "end": 257.8,
+          "confidence": 0
+        },
+        {
+          "text": "näher",
+          "start": 257.8,
+          "end": 258.44,
+          "confidence": 0.986
+        },
+        {
+          "text": "erläutern.",
+          "start": 258.44,
+          "end": 259.08,
+          "confidence": 0.827
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "seek": 22498,
+      "start": 259.08,
+      "end": 264.78,
+      "text": " Ein Tesla-Fahrer macht mit seiner geliebten Partnerin eine Spritztour.",
+      "tokens": [
+        51565,
+        6391,
+        13666,
+        12,
+        37,
+        5398,
+        260,
+        10857,
+        2194,
+        23114,
+        4087,
+        414,
+        65,
+        1147,
+        32736,
+        259,
+        3018,
+        7702,
+        270,
+        2682,
+        396,
+        13,
+        51865
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.0777755578358968,
+      "compression_ratio": 1.4844444444444445,
+      "no_speech_prob": 0.0002224646887043491,
+      "confidence": 0.969,
+      "words": [
+        {
+          "text": "[*]",
+          "start": 259.08,
+          "end": 259.9,
+          "confidence": 0
+        },
+        {
+          "text": "Ein",
+          "start": 259.9,
+          "end": 260.2,
+          "confidence": 0.986
+        },
+        {
+          "text": "Tesla-Fahrer",
+          "start": 260.2,
+          "end": 261.26,
+          "confidence": 0.992
+        },
+        {
+          "text": "[*]",
+          "start": 261.26,
+          "end": 261.66,
+          "confidence": 0
+        },
+        {
+          "text": "macht",
+          "start": 261.66,
+          "end": 262.02,
+          "confidence": 0.999
+        },
+        {
+          "text": "mit",
+          "start": 262.02,
+          "end": 262.26,
+          "confidence": 0.998
+        },
+        {
+          "text": "seiner",
+          "start": 262.26,
+          "end": 262.5,
+          "confidence": 1.0
+        },
+        {
+          "text": "geliebten",
+          "start": 262.5,
+          "end": 262.98,
+          "confidence": 0.999
+        },
+        {
+          "text": "Partnerin",
+          "start": 262.98,
+          "end": 263.64,
+          "confidence": 0.999
+        },
+        {
+          "text": "eine",
+          "start": 263.64,
+          "end": 263.84,
+          "confidence": 0.998
+        },
+        {
+          "text": "Spritztour.",
+          "start": 263.84,
+          "end": 264.78,
+          "confidence": 0.885
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "seek": 25498,
+      "start": 264.78,
+      "end": 270.32,
+      "text": " Und macht ihr während dieser Autofahrt einen Heiratsantrag.",
+      "tokens": [
+        50365,
+        2719,
+        10857,
+        5553,
+        33624,
+        9053,
+        6049,
+        2670,
+        5398,
+        83,
+        4891,
+        634,
+        347,
+        1720,
+        394,
+        3731,
+        13,
+        50665
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.05621703624725342,
+      "compression_ratio": 1.5627705627705628,
+      "no_speech_prob": 0.010325719602406025,
+      "confidence": 0.79,
+      "words": [
+        {
+          "text": "Und",
+          "start": 264.78,
+          "end": 265.74,
+          "confidence": 0.03
+        },
+        {
+          "text": "[*]",
+          "start": 265.74,
+          "end": 266.64,
+          "confidence": 0
+        },
+        {
+          "text": "macht",
+          "start": 266.64,
+          "end": 266.92,
+          "confidence": 0.98
+        },
+        {
+          "text": "ihr",
+          "start": 266.92,
+          "end": 267.34,
+          "confidence": 0.981
+        },
+        {
+          "text": "[*]",
+          "start": 267.34,
+          "end": 267.58,
+          "confidence": 0
+        },
+        {
+          "text": "während",
+          "start": 267.58,
+          "end": 267.96,
+          "confidence": 0.993
+        },
+        {
+          "text": "dieser",
+          "start": 267.96,
+          "end": 268.24,
+          "confidence": 0.993
+        },
+        {
+          "text": "Autofahrt",
+          "start": 268.24,
+          "end": 269.02,
+          "confidence": 0.999
+        },
+        {
+          "text": "einen",
+          "start": 269.02,
+          "end": 269.2,
+          "confidence": 0.993
+        },
+        {
+          "text": "Heiratsantrag.",
+          "start": 269.2,
+          "end": 270.32,
+          "confidence": 0.966
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "seek": 25498,
+      "start": 270.52,
+      "end": 276.04,
+      "text": " Die Partnerin nimmt diesen Heiratsantrag an und die beiden heiraten.",
+      "tokens": [
+        50665,
+        3229,
+        32736,
+        259,
+        38891,
+        12862,
+        634,
+        347,
+        1720,
+        394,
+        3731,
+        364,
+        674,
+        978,
+        23446,
+        30038,
+        7186,
+        13,
+        50915
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.05621703624725342,
+      "compression_ratio": 1.5627705627705628,
+      "no_speech_prob": 0.010325719602406025,
+      "confidence": 0.991,
+      "words": [
+        {
+          "text": "[*]",
+          "start": 270.52,
+          "end": 271.1,
+          "confidence": 0
+        },
+        {
+          "text": "Die",
+          "start": 271.1,
+          "end": 271.46,
+          "confidence": 0.957
+        },
+        {
+          "text": "Partnerin",
+          "start": 271.46,
+          "end": 272.04,
+          "confidence": 0.995
+        },
+        {
+          "text": "nimmt",
+          "start": 272.04,
+          "end": 272.2,
+          "confidence": 0.999
+        },
+        {
+          "text": "diesen",
+          "start": 272.2,
+          "end": 272.38,
+          "confidence": 0.984
+        },
+        {
+          "text": "Heiratsantrag",
+          "start": 272.38,
+          "end": 273.38,
+          "confidence": 0.995
+        },
+        {
+          "text": "[*]",
+          "start": 273.38,
+          "end": 273.62,
+          "confidence": 0
+        },
+        {
+          "text": "an",
+          "start": 273.62,
+          "end": 273.76,
+          "confidence": 0.998
+        },
+        {
+          "text": "[*]",
+          "start": 273.76,
+          "end": 274.24,
+          "confidence": 0
+        },
+        {
+          "text": "und",
+          "start": 274.24,
+          "end": 274.58,
+          "confidence": 0.963
+        },
+        {
+          "text": "die",
+          "start": 274.58,
+          "end": 275.12,
+          "confidence": 0.997
+        },
+        {
+          "text": "beiden",
+          "start": 275.12,
+          "end": 275.44,
+          "confidence": 0.994
+        },
+        {
+          "text": "heiraten.",
+          "start": 275.44,
+          "end": 276.04,
+          "confidence": 0.997
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "seek": 25498,
+      "start": 276.04,
+      "end": 283.74,
+      "text": " Für diesen Tesla-Fahrer wird das Auto Tesla für immer mit einer positiven Erfahrung verbunden sein.",
+      "tokens": [
+        50915,
+        14990,
+        12862,
+        13666,
+        12,
+        37,
+        5398,
+        260,
+        4578,
+        1482,
+        13738,
+        13666,
+        2959,
+        5578,
+        2194,
+        6850,
+        11218,
+        5709,
+        49318,
+        9595,
+        10028,
+        6195,
+        13,
+        51315
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.05621703624725342,
+      "compression_ratio": 1.5627705627705628,
+      "no_speech_prob": 0.010325719602406025,
+      "confidence": 0.968,
+      "words": [
+        {
+          "text": "Für",
+          "start": 276.04,
+          "end": 277.08,
+          "confidence": 0.894
+        },
+        {
+          "text": "diesen",
+          "start": 277.08,
+          "end": 277.36,
+          "confidence": 0.963
+        },
+        {
+          "text": "Tesla-Fahrer",
+          "start": 277.36,
+          "end": 278.32,
+          "confidence": 0.97
+        },
+        {
+          "text": "[*]",
+          "start": 278.32,
+          "end": 278.34,
+          "confidence": 0
+        },
+        {
+          "text": "wird",
+          "start": 278.34,
+          "end": 278.78,
+          "confidence": 0.991
+        },
+        {
+          "text": "das",
+          "start": 278.78,
+          "end": 279.02,
+          "confidence": 0.981
+        },
+        {
+          "text": "Auto",
+          "start": 279.02,
+          "end": 279.34,
+          "confidence": 0.956
+        },
+        {
+          "text": "[*]",
+          "start": 279.34,
+          "end": 279.7,
+          "confidence": 0
+        },
+        {
+          "text": "Tesla",
+          "start": 279.7,
+          "end": 279.8,
+          "confidence": 0.953
+        },
+        {
+          "text": "für",
+          "start": 279.8,
+          "end": 280.4,
+          "confidence": 0.966
+        },
+        {
+          "text": "immer",
+          "start": 280.4,
+          "end": 280.64,
+          "confidence": 0.998
+        },
+        {
+          "text": "mit",
+          "start": 280.64,
+          "end": 280.78,
+          "confidence": 0.988
+        },
+        {
+          "text": "einer",
+          "start": 280.78,
+          "end": 280.98,
+          "confidence": 0.995
+        },
+        {
+          "text": "positiven",
+          "start": 280.98,
+          "end": 281.66,
+          "confidence": 0.996
+        },
+        {
+          "text": "[*]",
+          "start": 281.66,
+          "end": 282.08,
+          "confidence": 0
+        },
+        {
+          "text": "Erfahrung",
+          "start": 282.08,
+          "end": 282.32,
+          "confidence": 0.992
+        },
+        {
+          "text": "verbunden",
+          "start": 282.32,
+          "end": 283.32,
+          "confidence": 0.986
+        },
+        {
+          "text": "sein.",
+          "start": 283.32,
+          "end": 283.74,
+          "confidence": 0.91
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "seek": 25498,
+      "start": 283.74,
+      "end": 293.16,
+      "text": " Versus ein Tesla-Fahrer bleibt auf der Autobahn liegen, muss vom Abschleppdienst zur nächsten Stromtankstelle geschleppt werden,",
+      "tokens": [
+        51315,
+        12226,
+        301,
+        1343,
+        13666,
+        12,
+        37,
+        5398,
+        260,
+        24814,
+        2501,
+        1163,
+        49909,
+        12140,
+        35100,
+        11,
+        6425,
+        10135,
+        5813,
+        339,
+        306,
+        427,
+        67,
+        27366,
+        7147,
+        19101,
+        39126,
+        83,
+        657,
+        372,
+        4434,
+        13511,
+        306,
+        42562,
+        4604,
+        11,
+        51815
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.05621703624725342,
+      "compression_ratio": 1.5627705627705628,
+      "no_speech_prob": 0.010325719602406025,
+      "confidence": 0.875,
+      "words": [
+        {
+          "text": "Versus",
+          "start": 283.74,
+          "end": 285.0,
+          "confidence": 0.756
+        },
+        {
+          "text": "[*]",
+          "start": 285.0,
+          "end": 285.38,
+          "confidence": 0
+        },
+        {
+          "text": "ein",
+          "start": 285.38,
+          "end": 285.66,
+          "confidence": 0.513
+        },
+        {
+          "text": "Tesla-Fahrer",
+          "start": 285.66,
+          "end": 286.52,
+          "confidence": 0.942
+        },
+        {
+          "text": "bleibt",
+          "start": 286.52,
+          "end": 286.66,
+          "confidence": 0.961
+        },
+        {
+          "text": "auf",
+          "start": 286.66,
+          "end": 286.96,
+          "confidence": 0.996
+        },
+        {
+          "text": "der",
+          "start": 286.96,
+          "end": 287.18,
+          "confidence": 0.998
+        },
+        {
+          "text": "Autobahn",
+          "start": 287.18,
+          "end": 287.66,
+          "confidence": 0.985
+        },
+        {
+          "text": "[*]",
+          "start": 287.66,
+          "end": 287.84,
+          "confidence": 0
+        },
+        {
+          "text": "liegen,",
+          "start": 287.84,
+          "end": 287.98,
+          "confidence": 0.926
+        },
+        {
+          "text": "[*]",
+          "start": 288.16,
+          "end": 288.92,
+          "confidence": 0
+        },
+        {
+          "text": "muss",
+          "start": 288.92,
+          "end": 289.18,
+          "confidence": 0.53
+        },
+        {
+          "text": "vom",
+          "start": 289.18,
+          "end": 289.42,
+          "confidence": 0.984
+        },
+        {
+          "text": "Abschleppdienst",
+          "start": 289.42,
+          "end": 290.28,
+          "confidence": 0.948
+        },
+        {
+          "text": "zur",
+          "start": 290.28,
+          "end": 290.44,
+          "confidence": 0.951
+        },
+        {
+          "text": "nächsten",
+          "start": 290.44,
+          "end": 290.76,
+          "confidence": 0.996
+        },
+        {
+          "text": "Stromtankstelle",
+          "start": 290.76,
+          "end": 292.18,
+          "confidence": 0.94
+        },
+        {
+          "text": "geschleppt",
+          "start": 292.18,
+          "end": 292.76,
+          "confidence": 0.998
+        },
+        {
+          "text": "[*]",
+          "start": 292.76,
+          "end": 292.96,
+          "confidence": 0
+        },
+        {
+          "text": "werden,",
+          "start": 292.96,
+          "end": 293.16,
+          "confidence": 0.457
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "seek": 28398,
+      "start": 293.52,
+      "end": 300.52,
+      "text": " verpasst einen wichtigen Vorstellungstermin und verliert möglicherweise seinen Traumjob.",
+      "tokens": [
+        50365,
+        1306,
+        20990,
+        372,
+        4891,
+        26244,
+        3213,
+        12231,
+        30016,
+        372,
+        966,
+        259,
+        674,
+        49331,
+        83,
+        16294,
+        44071,
+        24427,
+        5403,
+        449,
+        50208,
+        13,
+        50715
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.05279583033948842,
+      "compression_ratio": 1.5133079847908746,
+      "no_speech_prob": 0.00016640190733596683,
+      "confidence": 0.978,
+      "words": [
+        {
+          "text": "[*]",
+          "start": 293.52,
+          "end": 294.3,
+          "confidence": 0
+        },
+        {
+          "text": "verpasst",
+          "start": 294.3,
+          "end": 295.04,
+          "confidence": 0.957
+        },
+        {
+          "text": "[*]",
+          "start": 295.04,
+          "end": 295.3,
+          "confidence": 0
+        },
+        {
+          "text": "einen",
+          "start": 295.3,
+          "end": 295.52,
+          "confidence": 0.992
+        },
+        {
+          "text": "wichtigen",
+          "start": 295.52,
+          "end": 296.04,
+          "confidence": 0.997
+        },
+        {
+          "text": "Vorstellungstermin",
+          "start": 296.04,
+          "end": 297.44,
+          "confidence": 0.988
+        },
+        {
+          "text": "und",
+          "start": 297.44,
+          "end": 297.68,
+          "confidence": 0.883
+        },
+        {
+          "text": "verliert",
+          "start": 297.68,
+          "end": 298.44,
+          "confidence": 0.993
+        },
+        {
+          "text": "[*]",
+          "start": 298.44,
+          "end": 298.52,
+          "confidence": 0
+        },
+        {
+          "text": "möglicherweise",
+          "start": 298.52,
+          "end": 299.62,
+          "confidence": 0.975
+        },
+        {
+          "text": "seinen",
+          "start": 299.62,
+          "end": 299.9,
+          "confidence": 0.99
+        },
+        {
+          "text": "Traumjob.",
+          "start": 299.9,
+          "end": 300.52,
+          "confidence": 0.985
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "seek": 28398,
+      "start": 300.52,
+      "end": 308.28,
+      "text": " Für diesen Tesla-Fahrer ist das Auto mit einer negativen Erfahrung verbunden.",
+      "tokens": [
+        50715,
+        14990,
+        12862,
+        13666,
+        12,
+        37,
+        5398,
+        260,
+        1418,
+        1482,
+        13738,
+        2194,
+        6850,
+        2485,
+        267,
+        5709,
+        49318,
+        9595,
+        10028,
+        13,
+        51115
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.05279583033948842,
+      "compression_ratio": 1.5133079847908746,
+      "no_speech_prob": 0.00016640190733596683,
+      "confidence": 0.996,
+      "words": [
+        {
+          "text": "Für",
+          "start": 300.52,
+          "end": 301.28,
+          "confidence": 0.981
+        },
+        {
+          "text": "diesen",
+          "start": 301.28,
+          "end": 301.56,
+          "confidence": 0.997
+        },
+        {
+          "text": "Tesla-Fahrer",
+          "start": 301.56,
+          "end": 303.22,
+          "confidence": 0.992
+        },
+        {
+          "text": "[*]",
+          "start": 303.22,
+          "end": 303.6,
+          "confidence": 0
+        },
+        {
+          "text": "ist",
+          "start": 303.6,
+          "end": 303.82,
+          "confidence": 0.998
+        },
+        {
+          "text": "das",
+          "start": 303.82,
+          "end": 303.96,
+          "confidence": 1.0
+        },
+        {
+          "text": "Auto",
+          "start": 303.96,
+          "end": 304.44,
+          "confidence": 0.999
+        },
+        {
+          "text": "[*]",
+          "start": 304.44,
+          "end": 305.39,
+          "confidence": 0
+        },
+        {
+          "text": "mit",
+          "start": 305.58,
+          "end": 306.02,
+          "confidence": 0.996
+        },
+        {
+          "text": "einer",
+          "start": 306.02,
+          "end": 306.36,
+          "confidence": 1.0
+        },
+        {
+          "text": "negativen",
+          "start": 306.36,
+          "end": 307.04,
+          "confidence": 1.0
+        },
+        {
+          "text": "Erfahrung",
+          "start": 307.04,
+          "end": 307.5,
+          "confidence": 1.0
+        },
+        {
+          "text": "verbunden.",
+          "start": 307.5,
+          "end": 308.28,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "seek": 28398,
+      "start": 308.76,
+      "end": 314.33,
+      "text": " Lassen Sie mich die wichtigsten Punkte der Service Dominant Logic noch einmal zusammenfassen.",
+      "tokens": [
+        51115,
+        441,
+        8356,
+        3559,
+        6031,
+        978,
+        13621,
+        6266,
+        47352,
+        1163,
+        9561,
+        18027,
+        394,
+        49898,
+        3514,
+        11078,
+        14311,
+        69,
+        8356,
+        13,
+        51365
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.05279583033948842,
+      "compression_ratio": 1.5133079847908746,
+      "no_speech_prob": 0.00016640190733596683,
+      "confidence": 0.914,
+      "words": [
+        {
+          "text": "[*]",
+          "start": 308.76,
+          "end": 309.14,
+          "confidence": 0
+        },
+        {
+          "text": "Lassen",
+          "start": 309.27,
+          "end": 309.91,
+          "confidence": 0.968
+        },
+        {
+          "text": "Sie",
+          "start": 309.91,
+          "end": 309.99,
+          "confidence": 0.907
+        },
+        {
+          "text": "mich",
+          "start": 309.99,
+          "end": 310.13,
+          "confidence": 0.998
+        },
+        {
+          "text": "die",
+          "start": 310.13,
+          "end": 310.25,
+          "confidence": 0.992
+        },
+        {
+          "text": "wichtigsten",
+          "start": 310.25,
+          "end": 310.99,
+          "confidence": 0.997
+        },
+        {
+          "text": "Punkte",
+          "start": 310.99,
+          "end": 311.33,
+          "confidence": 0.985
+        },
+        {
+          "text": "der",
+          "start": 311.33,
+          "end": 311.59,
+          "confidence": 0.93
+        },
+        {
+          "text": "Service",
+          "start": 311.59,
+          "end": 311.81,
+          "confidence": 0.906
+        },
+        {
+          "text": "Dominant",
+          "start": 311.81,
+          "end": 312.29,
+          "confidence": 0.681
+        },
+        {
+          "text": "Logic",
+          "start": 312.29,
+          "end": 312.59,
+          "confidence": 0.905
+        },
+        {
+          "text": "noch",
+          "start": 312.59,
+          "end": 313.01,
+          "confidence": 0.9
+        },
+        {
+          "text": "einmal",
+          "start": 313.01,
+          "end": 313.35,
+          "confidence": 0.978
+        },
+        {
+          "text": "zusammenfassen.",
+          "start": 313.35,
+          "end": 314.33,
+          "confidence": 0.92
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "seek": 28398,
+      "start": 314.33,
+      "end": 318.03,
+      "text": " Ich möchte anfangen mit einem falschen Denken über Produkte.",
+      "tokens": [
+        51365,
+        3141,
+        14570,
+        33709,
+        10784,
+        2194,
+        6827,
+        16720,
+        2470,
+        6458,
+        2653,
+        4502,
+        11793,
+        18844,
+        13,
+        51565
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.05279583033948842,
+      "compression_ratio": 1.5133079847908746,
+      "no_speech_prob": 0.00016640190733596683,
+      "confidence": 0.996,
+      "words": [
+        {
+          "text": "Ich",
+          "start": 314.33,
+          "end": 314.91,
+          "confidence": 0.98
+        },
+        {
+          "text": "möchte",
+          "start": 314.91,
+          "end": 315.15,
+          "confidence": 0.999
+        },
+        {
+          "text": "anfangen",
+          "start": 315.15,
+          "end": 315.71,
+          "confidence": 0.998
+        },
+        {
+          "text": "mit",
+          "start": 315.71,
+          "end": 315.87,
+          "confidence": 0.996
+        },
+        {
+          "text": "einem",
+          "start": 315.87,
+          "end": 316.09,
+          "confidence": 0.999
+        },
+        {
+          "text": "falschen",
+          "start": 316.09,
+          "end": 316.73,
+          "confidence": 0.998
+        },
+        {
+          "text": "Denken",
+          "start": 316.73,
+          "end": 317.21,
+          "confidence": 0.998
+        },
+        {
+          "text": "über",
+          "start": 317.21,
+          "end": 317.45,
+          "confidence": 0.998
+        },
+        {
+          "text": "Produkte.",
+          "start": 317.45,
+          "end": 318.03,
+          "confidence": 0.994
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "seek": 28398,
+      "start": 319.39,
+      "end": 323.67,
+      "text": " Wir kaufen Produkte nicht wegen ihrer produktspezifischen Eigenschaften.",
+      "tokens": [
+        51565,
+        4347,
+        42083,
+        11793,
+        18844,
+        1979,
+        32855,
+        23990,
+        33699,
+        1373,
+        15144,
+        351,
+        6282,
+        40561,
+        20996,
+        268,
+        13,
+        51815
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.05279583033948842,
+      "compression_ratio": 1.5133079847908746,
+      "no_speech_prob": 0.00016640190733596683,
+      "confidence": 0.966,
+      "words": [
+        {
+          "text": "Wir",
+          "start": 319.39,
+          "end": 319.41,
+          "confidence": 0.85
+        },
+        {
+          "text": "kaufen",
+          "start": 319.41,
+          "end": 319.77,
+          "confidence": 0.996
+        },
+        {
+          "text": "Produkte",
+          "start": 319.77,
+          "end": 320.25,
+          "confidence": 0.995
+        },
+        {
+          "text": "nicht",
+          "start": 320.25,
+          "end": 320.67,
+          "confidence": 0.969
+        },
+        {
+          "text": "wegen",
+          "start": 320.67,
+          "end": 321.01,
+          "confidence": 0.952
+        },
+        {
+          "text": "ihrer",
+          "start": 321.01,
+          "end": 321.35,
+          "confidence": 0.982
+        },
+        {
+          "text": "produktspezifischen",
+          "start": 321.35,
+          "end": 322.57,
+          "confidence": 0.982
+        },
+        {
+          "text": "Eigenschaften.",
+          "start": 322.57,
+          "end": 323.67,
+          "confidence": 0.957
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "seek": 31298,
+      "start": 323.67,
+      "end": 327.95,
+      "text": " Sondern weil sie uns einen Nutzen stiften, eben diesen Service.",
+      "tokens": [
+        50365,
+        318,
+        10881,
+        7689,
+        2804,
+        2693,
+        4891,
+        19861,
+        2904,
+        342,
+        351,
+        1147,
+        11,
+        11375,
+        12862,
+        9561,
+        13,
+        50615
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09196773488470848,
+      "compression_ratio": 1.6108597285067874,
+      "no_speech_prob": 0.02205667644739151,
+      "confidence": 0.762,
+      "words": [
+        {
+          "text": "Sondern",
+          "start": 323.67,
+          "end": 324.61,
+          "confidence": 0.209
+        },
+        {
+          "text": "weil",
+          "start": 324.61,
+          "end": 324.77,
+          "confidence": 0.804
+        },
+        {
+          "text": "sie",
+          "start": 324.77,
+          "end": 324.93,
+          "confidence": 0.937
+        },
+        {
+          "text": "uns",
+          "start": 324.93,
+          "end": 325.15,
+          "confidence": 0.989
+        },
+        {
+          "text": "einen",
+          "start": 325.15,
+          "end": 325.49,
+          "confidence": 0.915
+        },
+        {
+          "text": "Nutzen",
+          "start": 325.49,
+          "end": 326.11,
+          "confidence": 0.953
+        },
+        {
+          "text": "stiften,",
+          "start": 326.11,
+          "end": 326.77,
+          "confidence": 0.871
+        },
+        {
+          "text": "eben",
+          "start": 326.79,
+          "end": 327.09,
+          "confidence": 0.947
+        },
+        {
+          "text": "diesen",
+          "start": 327.09,
+          "end": 327.39,
+          "confidence": 0.974
+        },
+        {
+          "text": "Service.",
+          "start": 327.39,
+          "end": 327.95,
+          "confidence": 0.945
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "seek": 31298,
+      "start": 327.95,
+      "end": 334.07,
+      "text": " Wir kaufen Produkte, weil sie uns sogenannte Intangibles liefern.",
+      "tokens": [
+        50615,
+        4347,
+        42083,
+        11793,
+        18844,
+        11,
+        7689,
+        2804,
+        2693,
+        37467,
+        9358,
+        5681,
+        656,
+        14428,
+        4544,
+        28958,
+        13,
+        50915
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09196773488470848,
+      "compression_ratio": 1.6108597285067874,
+      "no_speech_prob": 0.02205667644739151,
+      "confidence": 0.91,
+      "words": [
+        {
+          "text": "[*]",
+          "start": 327.95,
+          "end": 328.63,
+          "confidence": 0
+        },
+        {
+          "text": "Wir",
+          "start": 328.63,
+          "end": 328.93,
+          "confidence": 0.817
+        },
+        {
+          "text": "kaufen",
+          "start": 329.01,
+          "end": 329.69,
+          "confidence": 0.989
+        },
+        {
+          "text": "Produkte,",
+          "start": 329.69,
+          "end": 330.35,
+          "confidence": 0.963
+        },
+        {
+          "text": "[*]",
+          "start": 330.49,
+          "end": 331.01,
+          "confidence": 0
+        },
+        {
+          "text": "weil",
+          "start": 331.01,
+          "end": 331.19,
+          "confidence": 0.976
+        },
+        {
+          "text": "sie",
+          "start": 331.19,
+          "end": 331.27,
+          "confidence": 0.957
+        },
+        {
+          "text": "uns",
+          "start": 331.27,
+          "end": 331.47,
+          "confidence": 0.988
+        },
+        {
+          "text": "sogenannte",
+          "start": 331.47,
+          "end": 331.95,
+          "confidence": 0.925
+        },
+        {
+          "text": "Intangibles",
+          "start": 331.95,
+          "end": 332.91,
+          "confidence": 0.765
+        },
+        {
+          "text": "[*]",
+          "start": 332.91,
+          "end": 333.59,
+          "confidence": 0
+        },
+        {
+          "text": "liefern.",
+          "start": 333.59,
+          "end": 334.07,
+          "confidence": 0.952
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "seek": 31298,
+      "start": 334.07,
+      "end": 344.99,
+      "text": " Also etwas nicht Greifbares, wie der Zugang zu einer Community, die Marke an sich, den Status, den wir erreichen, wenn wir ein bestimmtes Produkt nutzen.",
+      "tokens": [
+        50915,
+        2743,
+        9569,
+        1979,
+        14986,
+        351,
+        4231,
+        495,
+        11,
+        3355,
+        1163,
+        34722,
+        656,
+        2164,
+        6850,
+        10421,
+        11,
+        978,
+        2039,
+        330,
+        364,
+        3041,
+        11,
+        1441,
+        47409,
+        11,
+        1441,
+        1987,
+        39464,
+        11,
+        4797,
+        1987,
+        1343,
+        35180,
+        7269,
+        44599,
+        36905,
+        13,
+        51465
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09196773488470848,
+      "compression_ratio": 1.6108597285067874,
+      "no_speech_prob": 0.02205667644739151,
+      "confidence": 0.894,
+      "words": [
+        {
+          "text": "Also",
+          "start": 334.07,
+          "end": 334.69,
+          "confidence": 0.652
+        },
+        {
+          "text": "etwas",
+          "start": 334.69,
+          "end": 335.15,
+          "confidence": 0.964
+        },
+        {
+          "text": "nicht",
+          "start": 335.15,
+          "end": 335.35,
+          "confidence": 0.739
+        },
+        {
+          "text": "Greifbares,",
+          "start": 335.35,
+          "end": 336.17,
+          "confidence": 0.828
+        },
+        {
+          "text": "wie",
+          "start": 336.31,
+          "end": 336.53,
+          "confidence": 0.984
+        },
+        {
+          "text": "der",
+          "start": 336.53,
+          "end": 336.73,
+          "confidence": 0.973
+        },
+        {
+          "text": "Zugang",
+          "start": 336.73,
+          "end": 337.21,
+          "confidence": 0.992
+        },
+        {
+          "text": "zu",
+          "start": 337.21,
+          "end": 337.33,
+          "confidence": 0.992
+        },
+        {
+          "text": "einer",
+          "start": 337.33,
+          "end": 337.51,
+          "confidence": 0.996
+        },
+        {
+          "text": "[*]",
+          "start": 337.51,
+          "end": 337.69,
+          "confidence": 0
+        },
+        {
+          "text": "Community,",
+          "start": 337.69,
+          "end": 337.97,
+          "confidence": 0.934
+        },
+        {
+          "text": "[*]",
+          "start": 337.97,
+          "end": 338.35,
+          "confidence": 0
+        },
+        {
+          "text": "die",
+          "start": 338.35,
+          "end": 338.83,
+          "confidence": 0.789
+        },
+        {
+          "text": "Marke",
+          "start": 338.83,
+          "end": 339.35,
+          "confidence": 0.993
+        },
+        {
+          "text": "an",
+          "start": 339.35,
+          "end": 339.47,
+          "confidence": 0.912
+        },
+        {
+          "text": "sich,",
+          "start": 339.47,
+          "end": 339.83,
+          "confidence": 0.925
+        },
+        {
+          "text": "den",
+          "start": 339.95,
+          "end": 340.17,
+          "confidence": 0.399
+        },
+        {
+          "text": "[*]",
+          "start": 340.17,
+          "end": 340.45,
+          "confidence": 0
+        },
+        {
+          "text": "Status,",
+          "start": 340.45,
+          "end": 340.67,
+          "confidence": 0.874
+        },
+        {
+          "text": "den",
+          "start": 340.87,
+          "end": 341.05,
+          "confidence": 0.745
+        },
+        {
+          "text": "wir",
+          "start": 341.05,
+          "end": 341.21,
+          "confidence": 0.98
+        },
+        {
+          "text": "erreichen,",
+          "start": 341.21,
+          "end": 341.65,
+          "confidence": 0.983
+        },
+        {
+          "text": "wenn",
+          "start": 341.89,
+          "end": 342.43,
+          "confidence": 0.88
+        },
+        {
+          "text": "wir",
+          "start": 342.43,
+          "end": 342.57,
+          "confidence": 0.998
+        },
+        {
+          "text": "ein",
+          "start": 342.57,
+          "end": 342.67,
+          "confidence": 0.998
+        },
+        {
+          "text": "bestimmtes",
+          "start": 342.67,
+          "end": 343.19,
+          "confidence": 0.989
+        },
+        {
+          "text": "Produkt",
+          "start": 343.19,
+          "end": 343.55,
+          "confidence": 0.999
+        },
+        {
+          "text": "[*]",
+          "start": 343.55,
+          "end": 344.87,
+          "confidence": 0
+        },
+        {
+          "text": "nutzen.",
+          "start": 344.87,
+          "end": 344.99,
+          "confidence": 0.984
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "seek": 31298,
+      "start": 344.99,
+      "end": 350.12,
+      "text": " Wir kaufen Produkte, weil wir damit eine ganzheitliche Erfahrung machen.",
+      "tokens": [
+        51465,
+        4347,
+        42083,
+        11793,
+        18844,
+        11,
+        7689,
+        1987,
+        9479,
+        3018,
+        6312,
+        8480,
+        10185,
+        49318,
+        7069,
+        13,
+        51715
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09196773488470848,
+      "compression_ratio": 1.6108597285067874,
+      "no_speech_prob": 0.02205667644739151,
+      "confidence": 0.964,
+      "words": [
+        {
+          "text": "Wir",
+          "start": 344.99,
+          "end": 345.59,
+          "confidence": 0.712
+        },
+        {
+          "text": "kaufen",
+          "start": 346.32,
+          "end": 346.98,
+          "confidence": 0.983
+        },
+        {
+          "text": "Produkte,",
+          "start": 346.98,
+          "end": 347.56,
+          "confidence": 0.973
+        },
+        {
+          "text": "weil",
+          "start": 347.66,
+          "end": 347.8,
+          "confidence": 0.989
+        },
+        {
+          "text": "wir",
+          "start": 347.8,
+          "end": 347.86,
+          "confidence": 0.996
+        },
+        {
+          "text": "damit",
+          "start": 347.86,
+          "end": 348.08,
+          "confidence": 0.996
+        },
+        {
+          "text": "eine",
+          "start": 348.08,
+          "end": 348.32,
+          "confidence": 0.988
+        },
+        {
+          "text": "ganzheitliche",
+          "start": 348.32,
+          "end": 349.16,
+          "confidence": 0.998
+        },
+        {
+          "text": "Erfahrung",
+          "start": 349.16,
+          "end": 349.6,
+          "confidence": 0.991
+        },
+        {
+          "text": "[*]",
+          "start": 349.6,
+          "end": 349.86,
+          "confidence": 0
+        },
+        {
+          "text": "machen.",
+          "start": 349.86,
+          "end": 350.12,
+          "confidence": 0.971
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "seek": 33998,
+      "start": 350.24,
+      "end": 356.07,
+      "text": " Ein falsches Denken über Services wäre folgendes.",
+      "tokens": [
+        50365,
+        6391,
+        16720,
+        3781,
+        6458,
+        2653,
+        4502,
+        12124,
+        14558,
+        3339,
+        9395,
+        279,
+        13,
+        50565
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -0.588606431749132,
+      "compression_ratio": 1.4975124378109452,
+      "no_speech_prob": 0.0074781691655516624,
+      "confidence": 0.91,
+      "words": [
+        {
+          "text": "Ein",
+          "start": 350.24,
+          "end": 351.06,
+          "confidence": 0.919
+        },
+        {
+          "text": "falsches",
+          "start": 352.55,
+          "end": 353.15,
+          "confidence": 0.986
+        },
+        {
+          "text": "Denken",
+          "start": 353.15,
+          "end": 353.81,
+          "confidence": 0.986
+        },
+        {
+          "text": "über",
+          "start": 353.81,
+          "end": 354.09,
+          "confidence": 0.989
+        },
+        {
+          "text": "Services",
+          "start": 354.09,
+          "end": 354.55,
+          "confidence": 0.976
+        },
+        {
+          "text": "wäre",
+          "start": 354.55,
+          "end": 355.29,
+          "confidence": 0.982
+        },
+        {
+          "text": "folgendes.",
+          "start": 355.29,
+          "end": 356.07,
+          "confidence": 0.79
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "seek": 33998,
+      "start": 356.07,
+      "end": 364.59,
+      "text": " Services sind eine eigene Produktkategorie e. v. mit einem immateriell Leistungsergebnis.",
+      "tokens": [
+        50565,
+        12124,
+        3290,
+        3018,
+        38549,
+        44599,
+        74,
+        2968,
+        17473,
+        308,
+        13,
+        371,
+        13,
+        2194,
+        6827,
+        3397,
+        771,
+        32562,
+        39577,
+        5846,
+        260,
+        10848,
+        10661,
+        13,
+        51015
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -0.588606431749132,
+      "compression_ratio": 1.4975124378109452,
+      "no_speech_prob": 0.0074781691655516624,
+      "confidence": 0.268,
+      "words": [
+        {
+          "text": "Services",
+          "start": 356.07,
+          "end": 357.05,
+          "confidence": 0.94
+        },
+        {
+          "text": "sind",
+          "start": 357.05,
+          "end": 357.41,
+          "confidence": 0.998
+        },
+        {
+          "text": "eine",
+          "start": 357.41,
+          "end": 357.77,
+          "confidence": 0.996
+        },
+        {
+          "text": "[*]",
+          "start": 357.77,
+          "end": 358.09,
+          "confidence": 0
+        },
+        {
+          "text": "eigene",
+          "start": 358.09,
+          "end": 358.39,
+          "confidence": 0.998
+        },
+        {
+          "text": "Produktkategorie",
+          "start": 358.39,
+          "end": 360.05,
+          "confidence": 0.999
+        },
+        {
+          "text": "e.",
+          "start": 360.05,
+          "end": 360.71,
+          "confidence": 0.004
+        },
+        {
+          "text": "v.",
+          "start": 360.71,
+          "end": 360.89,
+          "confidence": 0.046
+        },
+        {
+          "text": "mit",
+          "start": 361.31,
+          "end": 361.57,
+          "confidence": 0.938
+        },
+        {
+          "text": "[*]",
+          "start": 361.57,
+          "end": 361.89,
+          "confidence": 0
+        },
+        {
+          "text": "einem",
+          "start": 361.89,
+          "end": 362.17,
+          "confidence": 0.954
+        },
+        {
+          "text": "[*]",
+          "start": 362.17,
+          "end": 362.51,
+          "confidence": 0
+        },
+        {
+          "text": "immateriell",
+          "start": 362.51,
+          "end": 363.33,
+          "confidence": 0.069
+        },
+        {
+          "text": "Leistungsergebnis.",
+          "start": 363.33,
+          "end": 364.59,
+          "confidence": 0.454
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "seek": 33998,
+      "start": 364.59,
+      "end": 367.83,
+      "text": " E.V. ein Beratungsgespräch.",
+      "tokens": [
+        51015,
+        462,
+        13,
+        53,
+        13,
+        1343,
+        5637,
+        267,
+        5846,
+        2880,
+        1424,
+        10168,
+        13,
+        51215
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -0.588606431749132,
+      "compression_ratio": 1.4975124378109452,
+      "no_speech_prob": 0.0074781691655516624,
+      "confidence": 0.334,
+      "words": [
+        {
+          "text": "E.V.",
+          "start": 364.59,
+          "end": 365.39,
+          "confidence": 0.04
+        },
+        {
+          "text": "ein",
+          "start": 365.77,
+          "end": 366.03,
+          "confidence": 0.928
+        },
+        {
+          "text": "Beratungsgespräch.",
+          "start": 366.03,
+          "end": 367.83,
+          "confidence": 0.971
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "seek": 33998,
+      "start": 368.92,
+      "end": 380.22,
+      "text": " Oder Services sind allenfalls ein Anhängsel für Produkte, im Sinne von Value-Added-Services.",
+      "tokens": [
+        51215,
+        20988,
+        12124,
+        3290,
+        18440,
+        18542,
+        1343,
+        23574,
+        9935,
+        790,
+        2959,
+        11793,
+        18844,
+        11,
+        566,
+        47041,
+        2957,
+        39352,
+        12,
+        15830,
+        9207,
+        12,
+        50,
+        47480,
+        13,
+        51715
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -0.588606431749132,
+      "compression_ratio": 1.4975124378109452,
+      "no_speech_prob": 0.0074781691655516624,
+      "confidence": 0.738,
+      "words": [
+        {
+          "text": "Oder",
+          "start": 368.92,
+          "end": 369.71,
+          "confidence": 0.59
+        },
+        {
+          "text": "Services",
+          "start": 372.17,
+          "end": 372.63,
+          "confidence": 0.93
+        },
+        {
+          "text": "[*]",
+          "start": 372.63,
+          "end": 373.25,
+          "confidence": 0
+        },
+        {
+          "text": "sind",
+          "start": 373.25,
+          "end": 373.53,
+          "confidence": 0.994
+        },
+        {
+          "text": "[*]",
+          "start": 373.53,
+          "end": 374.45,
+          "confidence": 0
+        },
+        {
+          "text": "allenfalls",
+          "start": 374.82,
+          "end": 375.56,
+          "confidence": 0.993
+        },
+        {
+          "text": "ein",
+          "start": 375.56,
+          "end": 375.86,
+          "confidence": 0.987
+        },
+        {
+          "text": "Anhängsel",
+          "start": 375.86,
+          "end": 376.82,
+          "confidence": 0.997
+        },
+        {
+          "text": "[*]",
+          "start": 376.82,
+          "end": 377.14,
+          "confidence": 0
+        },
+        {
+          "text": "für",
+          "start": 377.14,
+          "end": 377.28,
+          "confidence": 0.993
+        },
+        {
+          "text": "Produkte,",
+          "start": 377.28,
+          "end": 377.98,
+          "confidence": 0.264
+        },
+        {
+          "text": "im",
+          "start": 378.14,
+          "end": 378.4,
+          "confidence": 0.848
+        },
+        {
+          "text": "Sinne",
+          "start": 378.4,
+          "end": 378.64,
+          "confidence": 0.997
+        },
+        {
+          "text": "von",
+          "start": 378.64,
+          "end": 378.88,
+          "confidence": 0.997
+        },
+        {
+          "text": "Value-Added-Services.",
+          "start": 378.88,
+          "end": 380.22,
+          "confidence": 0.734
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "seek": 33998,
+      "start": 380.24,
+      "end": 383.24,
+      "text": " Aber keinesfalls einusted Services.",
+      "tokens": [
+        51715,
+        5992,
+        803,
+        1652,
+        18542,
+        1343,
+        6589,
+        12124,
+        13,
+        51815
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -0.588606431749132,
+      "compression_ratio": 1.4975124378109452,
+      "no_speech_prob": 0.0074781691655516624,
+      "confidence": 0.02,
+      "words": [
+        {
+          "text": "Aber",
+          "start": 380.24,
+          "end": 380.72,
+          "confidence": 0.213
+        },
+        {
+          "text": "keinesfalls",
+          "start": 380.72,
+          "end": 382.06,
+          "confidence": 0.996
+        },
+        {
+          "text": "[*]",
+          "start": 382.06,
+          "end": 382.46,
+          "confidence": 0
+        },
+        {
+          "text": "einusted",
+          "start": 382.46,
+          "end": 383.22,
+          "confidence": 0.0
+        },
+        {
+          "text": "Services.",
+          "start": 383.22,
+          "end": 383.24,
+          "confidence": 0.002
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "seek": 36998,
+      "start": 383.24,
+      "end": 392.38,
+      "text": " im Vordergrund zu sehen. Ein aus der Service-Dominant-Logic richtiges Denken über Service wäre das",
+      "tokens": [
+        50365,
+        566,
+        691,
+        4687,
+        23701,
+        2164,
+        11333,
+        13,
+        6391,
+        3437,
+        1163,
+        9561,
+        12,
+        35,
+        6981,
+        394,
+        12,
+        43,
+        664,
+        299,
+        13129,
+        279,
+        6458,
+        2653,
+        4502,
+        9561,
+        14558,
+        1482,
+        50736
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.0857431073732014,
+      "compression_ratio": 1.4816753926701571,
+      "no_speech_prob": 0.003864230588078499,
+      "confidence": 0.88,
+      "words": [
+        {
+          "text": "[*]",
+          "start": 383.24,
+          "end": 383.98,
+          "confidence": 0
+        },
+        {
+          "text": "im",
+          "start": 383.98,
+          "end": 384.14,
+          "confidence": 0.678
+        },
+        {
+          "text": "Vordergrund",
+          "start": 384.14,
+          "end": 384.92,
+          "confidence": 0.946
+        },
+        {
+          "text": "zu",
+          "start": 384.92,
+          "end": 385.04,
+          "confidence": 0.986
+        },
+        {
+          "text": "sehen.",
+          "start": 385.04,
+          "end": 385.4,
+          "confidence": 0.967
+        },
+        {
+          "text": "[*]",
+          "start": 385.5,
+          "end": 386.07,
+          "confidence": 0
+        },
+        {
+          "text": "Ein",
+          "start": 387.7,
+          "end": 387.92,
+          "confidence": 0.756
+        },
+        {
+          "text": "aus",
+          "start": 387.92,
+          "end": 388.14,
+          "confidence": 0.937
+        },
+        {
+          "text": "der",
+          "start": 388.14,
+          "end": 388.36,
+          "confidence": 0.992
+        },
+        {
+          "text": "Service-Dominant-Logic",
+          "start": 388.36,
+          "end": 389.86,
+          "confidence": 0.82
+        },
+        {
+          "text": "richtiges",
+          "start": 389.86,
+          "end": 390.6,
+          "confidence": 0.922
+        },
+        {
+          "text": "Denken",
+          "start": 390.6,
+          "end": 391.08,
+          "confidence": 0.907
+        },
+        {
+          "text": "über",
+          "start": 391.08,
+          "end": 391.36,
+          "confidence": 0.867
+        },
+        {
+          "text": "Service",
+          "start": 391.36,
+          "end": 391.74,
+          "confidence": 0.96
+        },
+        {
+          "text": "wäre",
+          "start": 391.74,
+          "end": 392.12,
+          "confidence": 0.926
+        },
+        {
+          "text": "das",
+          "start": 392.12,
+          "end": 392.38,
+          "confidence": 0.949
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "seek": 36998,
+      "start": 392.38,
+      "end": 401.77,
+      "text": " folgende. Service ist ein Prozess. Es werden Ressourcen eines Akteurs zum Nutzen eines anderen",
+      "tokens": [
+        50736,
+        3339,
+        27429,
+        13,
+        9561,
+        1418,
+        1343,
+        1705,
+        37575,
+        13,
+        2313,
+        4604,
+        497,
+        442,
+        396,
+        13037,
+        18599,
+        9629,
+        975,
+        2156,
+        5919,
+        19861,
+        2904,
+        18599,
+        11122,
+        51193
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.0857431073732014,
+      "compression_ratio": 1.4816753926701571,
+      "no_speech_prob": 0.003864230588078499,
+      "confidence": 0.835,
+      "words": [
+        {
+          "text": "folgende.",
+          "start": 392.38,
+          "end": 392.92,
+          "confidence": 0.324
+        },
+        {
+          "text": "[*]",
+          "start": 393.04,
+          "end": 393.62,
+          "confidence": 0
+        },
+        {
+          "text": "Service",
+          "start": 393.62,
+          "end": 394.02,
+          "confidence": 0.869
+        },
+        {
+          "text": "ist",
+          "start": 394.02,
+          "end": 394.44,
+          "confidence": 0.999
+        },
+        {
+          "text": "ein",
+          "start": 394.44,
+          "end": 394.8,
+          "confidence": 0.997
+        },
+        {
+          "text": "Prozess.",
+          "start": 394.8,
+          "end": 395.54,
+          "confidence": 0.949
+        },
+        {
+          "text": "[*]",
+          "start": 395.76,
+          "end": 396.32,
+          "confidence": 0
+        },
+        {
+          "text": "Es",
+          "start": 396.78,
+          "end": 397.31,
+          "confidence": 0.982
+        },
+        {
+          "text": "werden",
+          "start": 397.31,
+          "end": 397.73,
+          "confidence": 0.993
+        },
+        {
+          "text": "Ressourcen",
+          "start": 397.73,
+          "end": 398.71,
+          "confidence": 0.993
+        },
+        {
+          "text": "eines",
+          "start": 398.71,
+          "end": 399.39,
+          "confidence": 0.984
+        },
+        {
+          "text": "Akteurs",
+          "start": 399.39,
+          "end": 400.25,
+          "confidence": 0.992
+        },
+        {
+          "text": "zum",
+          "start": 400.25,
+          "end": 400.49,
+          "confidence": 0.75
+        },
+        {
+          "text": "Nutzen",
+          "start": 400.49,
+          "end": 401.05,
+          "confidence": 0.942
+        },
+        {
+          "text": "eines",
+          "start": 401.05,
+          "end": 401.35,
+          "confidence": 0.981
+        },
+        {
+          "text": "anderen",
+          "start": 401.35,
+          "end": 401.77,
+          "confidence": 0.885
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "seek": 36998,
+      "start": 401.77,
+      "end": 414.19,
+      "text": " Akteurs integriert. Service oder andersrum gesprochen, ein Produkt ist ein Vehikel für",
+      "tokens": [
+        51193,
+        9629,
+        975,
+        2156,
+        16200,
+        470,
+        911,
+        13,
+        9561,
+        4513,
+        17999,
+        6247,
+        42714,
+        11,
+        1343,
+        44599,
+        1418,
+        1343,
+        41230,
+        41486,
+        2959,
+        51650
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.0857431073732014,
+      "compression_ratio": 1.4816753926701571,
+      "no_speech_prob": 0.003864230588078499,
+      "confidence": 0.796,
+      "words": [
+        {
+          "text": "Akteurs",
+          "start": 401.77,
+          "end": 402.63,
+          "confidence": 0.827
+        },
+        {
+          "text": "integriert.",
+          "start": 402.63,
+          "end": 403.51,
+          "confidence": 0.971
+        },
+        {
+          "text": "[*]",
+          "start": 403.65,
+          "end": 404.34,
+          "confidence": 0
+        },
+        {
+          "text": "Service",
+          "start": 407.42,
+          "end": 407.76,
+          "confidence": 0.934
+        },
+        {
+          "text": "[*]",
+          "start": 407.76,
+          "end": 408.69,
+          "confidence": 0
+        },
+        {
+          "text": "oder",
+          "start": 409.61,
+          "end": 409.77,
+          "confidence": 0.577
+        },
+        {
+          "text": "andersrum",
+          "start": 409.77,
+          "end": 410.33,
+          "confidence": 0.903
+        },
+        {
+          "text": "gesprochen,",
+          "start": 410.33,
+          "end": 410.81,
+          "confidence": 0.447
+        },
+        {
+          "text": "ein",
+          "start": 411.07,
+          "end": 411.57,
+          "confidence": 0.967
+        },
+        {
+          "text": "Produkt",
+          "start": 411.57,
+          "end": 411.95,
+          "confidence": 0.992
+        },
+        {
+          "text": "[*]",
+          "start": 411.95,
+          "end": 412.31,
+          "confidence": 0
+        },
+        {
+          "text": "ist",
+          "start": 412.31,
+          "end": 412.41,
+          "confidence": 0.981
+        },
+        {
+          "text": "ein",
+          "start": 412.41,
+          "end": 412.57,
+          "confidence": 0.967
+        },
+        {
+          "text": "Vehikel",
+          "start": 412.57,
+          "end": 413.59,
+          "confidence": 0.548
+        },
+        {
+          "text": "für",
+          "start": 413.59,
+          "end": 414.19,
+          "confidence": 0.873
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "seek": 39568,
+      "start": 414.19,
+      "end": 423.07,
+      "text": " Service. Die Philosophie wird umgedreht und am Ende ist auch der Kunde als Leistungsnehmer",
+      "tokens": [
+        50365,
+        9561,
+        13,
+        3229,
+        31182,
+        5317,
+        414,
+        4578,
+        1105,
+        3004,
+        265,
+        357,
+        674,
+        669,
+        15152,
+        1418,
+        2168,
+        1163,
+        591,
+        13271,
+        3907,
+        39577,
+        5846,
+        38370,
+        50810
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.053920745849609375,
+      "compression_ratio": 1.1640625,
+      "no_speech_prob": 3.5954512895841617e-06,
+      "confidence": 0.923,
+      "words": [
+        {
+          "text": "Service.",
+          "start": 414.19,
+          "end": 414.71,
+          "confidence": 0.59
+        },
+        {
+          "text": "[*]",
+          "start": 415.37,
+          "end": 416.07,
+          "confidence": 0
+        },
+        {
+          "text": "Die",
+          "start": 416.07,
+          "end": 416.25,
+          "confidence": 0.985
+        },
+        {
+          "text": "Philosophie",
+          "start": 416.25,
+          "end": 416.85,
+          "confidence": 0.994
+        },
+        {
+          "text": "wird",
+          "start": 416.85,
+          "end": 417.05,
+          "confidence": 0.997
+        },
+        {
+          "text": "umgedreht",
+          "start": 417.05,
+          "end": 417.83,
+          "confidence": 0.999
+        },
+        {
+          "text": "[*]",
+          "start": 417.83,
+          "end": 418.27,
+          "confidence": 0
+        },
+        {
+          "text": "und",
+          "start": 418.27,
+          "end": 418.53,
+          "confidence": 0.647
+        },
+        {
+          "text": "am",
+          "start": 418.53,
+          "end": 418.79,
+          "confidence": 0.994
+        },
+        {
+          "text": "[*]",
+          "start": 418.79,
+          "end": 419.05,
+          "confidence": 0
+        },
+        {
+          "text": "Ende",
+          "start": 419.05,
+          "end": 419.21,
+          "confidence": 0.979
+        },
+        {
+          "text": "ist",
+          "start": 419.21,
+          "end": 419.67,
+          "confidence": 0.975
+        },
+        {
+          "text": "auch",
+          "start": 419.67,
+          "end": 420.13,
+          "confidence": 0.985
+        },
+        {
+          "text": "der",
+          "start": 420.13,
+          "end": 420.35,
+          "confidence": 0.999
+        },
+        {
+          "text": "Kunde",
+          "start": 420.35,
+          "end": 420.93,
+          "confidence": 0.991
+        },
+        {
+          "text": "[*]",
+          "start": 420.93,
+          "end": 421.49,
+          "confidence": 0
+        },
+        {
+          "text": "als",
+          "start": 421.49,
+          "end": 421.83,
+          "confidence": 0.974
+        },
+        {
+          "text": "Leistungsnehmer",
+          "start": 421.83,
+          "end": 423.07,
+          "confidence": 0.934
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "seek": 39568,
+      "start": 423.07,
+      "end": 429.72,
+      "text": " ein Service-Provider. Vielen Dank für die Aufmerksamkeit.",
+      "tokens": [
+        50810,
+        1343,
+        9561,
+        12,
+        12681,
+        85,
+        1438,
+        13,
+        22502,
+        14148,
+        2959,
+        978,
+        9462,
+        936,
+        28665,
+        9238,
+        13,
+        51085
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.053920745849609375,
+      "compression_ratio": 1.1640625,
+      "no_speech_prob": 3.5954512895841617e-06,
+      "confidence": 0.749,
+      "words": [
+        {
+          "text": "ein",
+          "start": 423.07,
+          "end": 423.81,
+          "confidence": 0.292
+        },
+        {
+          "text": "[*]",
+          "start": 423.81,
+          "end": 424.51,
+          "confidence": 0
+        },
+        {
+          "text": "Service-Provider.",
+          "start": 424.51,
+          "end": 425.85,
+          "confidence": 0.644
+        },
+        {
+          "text": "[*]",
+          "start": 426.05,
+          "end": 426.71,
+          "confidence": 0
+        },
+        {
+          "text": "Vielen",
+          "start": 428.18,
+          "end": 428.38,
+          "confidence": 0.826
+        },
+        {
+          "text": "Dank",
+          "start": 428.38,
+          "end": 428.64,
+          "confidence": 0.963
+        },
+        {
+          "text": "für",
+          "start": 428.64,
+          "end": 428.78,
+          "confidence": 0.995
+        },
+        {
+          "text": "die",
+          "start": 428.78,
+          "end": 428.9,
+          "confidence": 0.996
+        },
+        {
+          "text": "Aufmerksamkeit.",
+          "start": 428.9,
+          "end": 429.72,
+          "confidence": 0.903
+        }
+      ]
+    }
+  ],
+  "language": "de",
+  "speech_activity": [
+    {
+      "start": 0.0,
+      "end": 7.41
+    },
+    {
+      "start": 7.502,
+      "end": 34.482
+    },
+    {
+      "start": 34.51,
+      "end": 56.658
+    },
+    {
+      "start": 57.198,
+      "end": 68.402
+    },
+    {
+      "start": 68.782,
+      "end": 85.81
+    },
+    {
+      "start": 86.798,
+      "end": 99.442
+    },
+    {
+      "start": 100.174,
+      "end": 102.034
+    },
+    {
+      "start": 102.158,
+      "end": 104.818
+    },
+    {
+      "start": 105.006,
+      "end": 126.194
+    },
+    {
+      "start": 127.598,
+      "end": 140.242
+    },
+    {
+      "start": 140.398,
+      "end": 160.722
+    },
+    {
+      "start": 161.102,
+      "end": 193.202
+    },
+    {
+      "start": 193.678,
+      "end": 201.49
+    },
+    {
+      "start": 201.518,
+      "end": 231.25
+    },
+    {
+      "start": 232.59,
+      "end": 239.634
+    },
+    {
+      "start": 240.11,
+      "end": 243.698
+    },
+    {
+      "start": 245.87,
+      "end": 248.562
+    },
+    {
+      "start": 249.102,
+      "end": 305.394
+    },
+    {
+      "start": 305.55,
+      "end": 309.138
+    },
+    {
+      "start": 309.23,
+      "end": 328.946
+    },
+    {
+      "start": 329.006,
+      "end": 345.906
+    },
+    {
+      "start": 346.318,
+      "end": 351.058
+    },
+    {
+      "start": 352.046,
+      "end": 367.826
+    },
+    {
+      "start": 367.854,
+      "end": 369.714
+    },
+    {
+      "start": 371.662,
+      "end": 374.45
+    },
+    {
+      "start": 374.478,
+      "end": 386.066
+    },
+    {
+      "start": 387.374,
+      "end": 396.434
+    },
+    {
+      "start": 396.782,
+      "end": 404.338
+    },
+    {
+      "start": 407.086,
+      "end": 408.69
+    },
+    {
+      "start": 409.198,
+      "end": 426.706
+    },
+    {
+      "start": 427.822,
+      "end": 430.226
+    }
+  ]
+}

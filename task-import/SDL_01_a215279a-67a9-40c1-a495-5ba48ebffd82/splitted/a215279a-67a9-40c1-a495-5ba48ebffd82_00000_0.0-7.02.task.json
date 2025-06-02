@@ -1,0 +1,11 @@
+{
+    "language": "de",
+    "course": "SDL",
+    "courseAcronym": "SDL",
+    "semester": "?",
+    "lecturer": "Prof. Dr. Andrea Raab-Kuchenbuch",
+    "faculty": "Business School",
+    "facultyAcronym": "BS",
+    "university": "Technische Hochschule Ingolstadt",
+    "universityAcronym": "THI"
+,"originalVideo":"SDL_01.mp4","title":"Demo1","video":"s3://assets/a215279a-67a9-40c1-a495-5ba48ebffd82_00000_0.0-7.02.mp4","audio":"s3://assets/a215279a-67a9-40c1-a495-5ba48ebffd82_00000_0.0-7.02.wav","transcript":"s3://assets/a215279a-67a9-40c1-a495-5ba48ebffd82_00000_0.0-7.02.html","asrResult":"s3://assets/a215279a-67a9-40c1-a495-5ba48ebffd82_00000_0.0-7.02.json","splitIndex":"00000","interval":[0.0,7.02]}

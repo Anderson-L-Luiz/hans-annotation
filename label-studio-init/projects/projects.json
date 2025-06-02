@@ -1,0 +1,276 @@
+{
+  "projects": [
+    {
+      "id": "hans_audio_transcription",
+      "type": "audio_transcription",
+      "project": {
+        "title": "HAnS Audio Transcription",
+        "description": "Fix the transcription errors of the provided audio for HAnS.",
+        "expert_instruction": "Listen carefuly to the audio and fix the transcription errors by editing the transcript.",
+        "show_instruction": true,
+        "show_skip_button": true,
+        "enable_empty_annotation": true,
+        "show_annotation_history": true,
+        "organization": 1,
+        "color": "red",
+        "is_published": true,
+        "is_draft": false
+      },
+      "webhooks": [],
+      "members": {}
+    },
+    {
+      "id": "hans_video_annotation",
+      "type": "video_annotation",
+      "project": {
+        "title": "HAnS Video Annotation",
+        "description": "Use the markers to annotate a full length video for HAnS.",
+        "expert_instruction": "Look and listen carefuly to the video. Annotate the full length video file by setting the markers in the audio and providing appropriate labels for the markers.",
+        "show_instruction": true,
+        "show_skip_button": true,
+        "enable_empty_annotation": true,
+        "show_annotation_history": true,
+        "organization": 1,
+        "color": "blue",
+        "is_published": true,
+        "is_draft": false
+      },
+      "webhooks": [],
+      "members": {}
+    },
+    {
+      "id": "hans_video_snippets",
+      "type": "video_snippets",
+      "project": {
+        "title": "HAnS Video Snippets",
+        "description": "Answer the questions to a short video sequence for HAnS.",
+        "expert_instruction": "Look and listen carefully to the short video. Answer the questions on the right side.",
+        "show_instruction": true,
+        "show_skip_button": true,
+        "enable_empty_annotation": true,
+        "show_annotation_history": true,
+        "organization": 1,
+        "color": "green",
+        "is_published": true,
+        "is_draft": true
+      },
+      "webhooks": [
+        "hans_video_snippets"
+      ],
+      "members": {
+        "questions": [
+          "slideVisible",
+          "slideChange",
+          "exampleShown",
+          "exerciseShown",
+          "boardUsed",
+          "topicSwitch",
+          "anonymizationRequired",
+          "transcriptionContainsTextOfMultipleSpeakers",
+          "asrError",
+          "asrCorrect",
+          "asrMeaningOK",
+          "specialistTermSpoken",
+          "speakerIntelligible"
+        ]
+      }
+    },
+    {
+      "id": "hans_video_snippets_science",
+      "type": "video_snippets",
+      "project": {
+        "title": "HAnS Video Snippets - Science",
+        "description": "Answer the questions to a short video sequence for HAnS.",
+        "expert_instruction": "Look and listen carefully to the short video. Answer the questions on the right side.",
+        "show_instruction": true,
+        "show_skip_button": true,
+        "enable_empty_annotation": true,
+        "show_annotation_history": true,
+        "organization": 1,
+        "color": "green",
+        "is_published": true,
+        "is_draft": true
+      },
+      "webhooks": [
+        "hans_video_snippets"
+      ],
+      "members": {
+        "questions": [
+          "slideVisible",
+          "slideChange",
+          "exampleShown",
+          "exerciseShown",
+          "boardUsed",
+          "topicSwitch",
+          "anonymizationRequired",
+          "transcriptionContainsTextOfMultipleSpeakers",
+          "asrCorrect",
+          "asrMeaningOK",
+          "specialistTermSpoken",
+          "formulaSpoken",
+          "variableSpoken",
+          "speakerIntelligible"
+        ]
+      }
+    },
+    {
+      "id": "hans_audio_speaker_diarization",
+      "type": "audio_speaker_diarization",
+      "project": {
+        "title": "HAnS Audio Speaker Diarization",
+        "description": "Annotate the speakers in the provided audio for HAnS.",
+        "expert_instruction": "Listen carefuly to the audio and mark the regions of the main speaker and the other speakers.",
+        "show_instruction": true,
+        "show_skip_button": true,
+        "enable_empty_annotation": true,
+        "show_annotation_history": true,
+        "organization": 1,
+        "color": "orange",
+        "is_published": true,
+        "is_draft": false
+      },
+      "webhooks": [],
+      "members": {}
+    },
+    {
+      "id": "hans_video_snippets_warmup_01",
+      "type": "video_snippets",
+      "project": {
+        "title": "HAnS Video Snippets WarmUp 01",
+        "description": "Answer the questions to a short video sequence for HAnS. Only used for warm up.",
+        "expert_instruction": "Look and listen carefully to the short video. Answer the questions on the right side.",
+        "show_instruction": true,
+        "show_skip_button": true,
+        "enable_empty_annotation": true,
+        "show_annotation_history": true,
+        "organization": 1,
+        "color": "gray",
+        "is_published": true,
+        "is_draft": true
+      },
+      "webhooks": [],
+      "members": {
+        "questions": [
+          "slideVisible",
+          "slideChange",
+          "exampleShown",
+          "exerciseShown",
+          "boardUsed",
+          "topicSwitch",
+          "anonymizationRequired",
+          "transcriptionContainsTextOfMultipleSpeakers",
+          "asrError",
+          "asrCorrect",
+          "asrMeaningOK",
+          "specialistTermSpoken",
+          "speakerIntelligible"
+        ]
+      }
+    },
+    {
+      "id": "hans_video_snippets_warmup_02",
+      "type": "video_snippets",
+      "project": {
+        "title": "HAnS Video Snippets WarmUp 02",
+        "description": "Answer the questions to a short video sequence for HAnS. Only used for warm up.",
+        "expert_instruction": "Look and listen carefully to the short video. Answer the questions on the right side.",
+        "show_instruction": true,
+        "show_skip_button": true,
+        "enable_empty_annotation": true,
+        "show_annotation_history": true,
+        "organization": 1,
+        "color": "gray",
+        "is_published": true,
+        "is_draft": true
+      },
+      "webhooks": [],
+      "members": {
+        "questions": [
+          "slideVisible",
+          "slideChange",
+          "exampleShown",
+          "exerciseShown",
+          "boardUsed",
+          "topicSwitch",
+          "anonymizationRequired",
+          "transcriptionContainsTextOfMultipleSpeakers",
+          "asrError",
+          "asrCorrect",
+          "asrMeaningOK",
+          "specialistTermSpoken",
+          "speakerIntelligible"
+        ]
+      }
+    },
+    {
+      "id": "hans_video_snippets_warmup_03",
+      "type": "video_snippets",
+      "project": {
+        "title": "HAnS Video Snippets WarmUp 03",
+        "description": "Answer the questions to a short video sequence for HAnS. Only used for warm up.",
+        "expert_instruction": "Look and listen carefully to the short video. Answer the questions on the right side.",
+        "show_instruction": true,
+        "show_skip_button": true,
+        "enable_empty_annotation": true,
+        "show_annotation_history": true,
+        "organization": 1,
+        "color": "gray",
+        "is_published": true,
+        "is_draft": true
+      },
+      "webhooks": [],
+      "members": {
+        "questions": [
+          "slideVisible",
+          "slideChange",
+          "exampleShown",
+          "exerciseShown",
+          "boardUsed",
+          "topicSwitch",
+          "anonymizationRequired",
+          "transcriptionContainsTextOfMultipleSpeakers",
+          "asrError",
+          "asrCorrect",
+          "asrMeaningOK",
+          "specialistTermSpoken",
+          "speakerIntelligible"
+        ]
+      }
+    },
+    {
+      "id": "hans_video_snippets_warmup_04",
+      "type": "video_snippets",
+      "project": {
+        "title": "HAnS Video Snippets WarmUp 04",
+        "description": "Answer the questions to a short video sequence for HAnS. Only used for warm up.",
+        "expert_instruction": "Look and listen carefully to the short video. Answer the questions on the right side.",
+        "show_instruction": true,
+        "show_skip_button": true,
+        "enable_empty_annotation": true,
+        "show_annotation_history": true,
+        "organization": 1,
+        "color": "gray",
+        "is_published": true,
+        "is_draft": true
+      },
+      "webhooks": [],
+      "members": {
+        "questions": [
+          "slideVisible",
+          "slideChange",
+          "exampleShown",
+          "exerciseShown",
+          "boardUsed",
+          "topicSwitch",
+          "anonymizationRequired",
+          "transcriptionContainsTextOfMultipleSpeakers",
+          "asrError",
+          "asrCorrect",
+          "asrMeaningOK",
+          "specialistTermSpoken",
+          "speakerIntelligible"
+        ]
+      }
+    }
+  ]
+}

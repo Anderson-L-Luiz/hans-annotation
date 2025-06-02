@@ -1,0 +1,260 @@
+1
+00:00:00,000 --> 00:00:06,540
+Ich freue mich sehr, heute die komplexe Thematik der Service-Dominant-Logic erklären zu dürfen.
+
+2
+00:00:07,500 --> 00:00:18,210
+Service-Dominant-Logic bedeutet, egal was ein Unternehmen verkauft, es geht um den Nutzen oder den Service, den eine Leistung spendet.
+
+3
+00:00:18,210 --> 00:00:33,550
+Am Beispiel des Krankenhauses. Ein Krankenhaus liefert höchste medizinische Versorgung versus die Menschen verlassen einen Gesundheitsdienstleister mit einer besseren Lebensqualität.
+
+4
+00:00:34,510 --> 00:00:45,080
+Die Service-Dominant-Logic basiert auf zehn fundamentalen Prämissen, wovon ich gerne im Folgenden die aus meiner Sicht vier wichtigsten näher erklären möchte.
+
+5
+00:00:45,460 --> 00:00:47,840
+Fundamentale Prämisse Nummer eins.
+
+6
+00:00:48,180 --> 00:00:53,660
+Die Basis eines jeden Leistungsaustausches ist Service gegen Service.
+
+7
+00:00:53,660 --> 00:01:07,480
+Der Service von Tesla. Elektromobilität, ressourcenschonend, mit einem flächendeckenden Strom-Tankstellennetzwerk, komfortabel.
+
+8
+00:01:08,780 --> 00:01:15,820
+Der Service, den der Kunde liefert, ist dafür zu bezahlen im Anschaffungspreis.
+
+9
+00:01:15,820 --> 00:01:19,380
+Aber auch die Gebühren für die Leistung.
+
+10
+00:01:19,380 --> 00:01:25,020
+Die Strom-Tankstellen natürlich zu entrichten, beziehungsweise Daten zu liefern.
+
+11
+00:01:26,800 --> 00:01:29,010
+Fundamentale Prämisse Nummer zwei.
+
+12
+00:01:29,510 --> 00:01:33,470
+Der Kunde ist immer Mitgestalter des Wertes.
+
+13
+00:01:33,510 --> 00:01:38,850
+Das heißt, es kommt sehr stark darauf an, wie er das Auto nutzt.
+
+14
+00:01:40,220 --> 00:01:43,820
+Ob er entsprechend plant.
+
+15
+00:01:45,010 --> 00:01:48,350
+Ob er sich traut, den Autopilot zu nutzen.
+
+16
+00:01:48,350 --> 00:01:51,530
+Ob er dieses flächendeckende Strom nähert.
+
+17
+00:01:51,530 --> 00:01:53,390
+Ob er das Netzwerk tatsächlich in Anspruch nimmt.
+
+18
+00:01:53,790 --> 00:02:00,170
+Ob er sich in die Software einarbeitet und alle Finessen zu nutzen weiß.
+
+19
+00:02:00,550 --> 00:02:05,490
+Ob er sich in die Tesla Community einbringt und dort neue Menschen kennenlernt.
+
+20
+00:02:07,660 --> 00:02:14,580
+All diese Faktoren beeinflussen den Wert, den der Kunde verspürt.
+
+21
+00:02:14,760 --> 00:02:19,320
+Das heißt, es gibt keinen objektiven Wert eines Autos Tesla.
+
+22
+00:02:20,040 --> 00:02:22,570
+Fundamentale Prämisse Nummer drei.
+
+23
+00:02:22,570 --> 00:02:27,270
+Alle Akteure sind Ressourcen, Integratoren.
+
+24
+00:02:27,270 --> 00:02:32,010
+Wir sprechen von sogenannten Operanten-Ressourcen mit T.
+
+25
+00:02:32,110 --> 00:02:35,730
+Das ist Wissen, die Batterietechnologie zum Beispiel.
+
+26
+00:02:36,110 --> 00:02:43,550
+Software, Autopilot, aber auch eine Philosophie.
+
+27
+00:02:43,550 --> 00:02:50,250
+Und von sogenannten Operanden-Ressourcen, in unserem Fall im wesentlichen Zeit und Geld.
+
+28
+00:02:50,490 --> 00:02:52,610
+Die Ressourcen, die Tesla nutzt, sind natürlich die Ressourcen, die Tesla nutzt.
+
+29
+00:02:52,610 --> 00:02:53,510
+Die Ressourcen, die Tesla nutzt, sind natürlich die Ressourcen, die Tesla nutzt.
+
+30
+00:02:53,510 --> 00:02:54,030
+Die Ressourcen, die Tesla nutzt, sind natürlich Zulieferer.
+
+31
+00:02:54,490 --> 00:03:05,070
+Es sind aber auch Energieversorger, die das flächendeckende Strom-Tankstellen-Netzwerk zur Verfügung stellen.
+
+32
+00:03:05,490 --> 00:03:12,230
+Es ist Spotify, die Musikplattform, die übrigens sehr zu empfehlen ist im Tesla.
+
+33
+00:03:12,490 --> 00:03:20,790
+Es sind aber auch staatliche Ressourcen, Steuererleichterungen, Subventionen.
+
+34
+00:03:20,970 --> 00:03:35,040
+Die Ressourcen, die der Kunde einbringt, sind seine Planungsfähigkeiten, seine Bereitschaft, sich auf den Gedanken einzulassen, je langsamer man fährt, desto früher kommt man an.
+
+35
+00:03:35,040 --> 00:03:40,620
+Seine Bereitschaft, auch Softwarefehler zu verzeihen.
+
+36
+00:03:41,000 --> 00:03:50,380
+Seine Compliance, das heißt den Autopiloten tatsächlich so zu nutzen, wie er gedacht ist und nicht während des Fahrens zu schlafen oder Filme zu gucken.
+
+37
+00:03:50,380 --> 00:03:58,940
+Oder auch sich tatsächlich in diese Tesla Community einzubringen.
+
+38
+00:03:58,940 --> 00:04:02,750
+Fundamentale Prämisse Nummer 3.
+
+39
+00:04:06,280 --> 00:04:07,760
+Fundamentale Prämisse Nummer 4.
+
+40
+00:04:07,980 --> 00:04:14,580
+Der Wert der Leistung wird ausschließlich durch den Kunden bestimmt.
+
+41
+00:04:14,580 --> 00:04:19,080
+Lassen Sie mich das an folgendem Beispiel näher erläutern.
+
+42
+00:04:19,080 --> 00:04:24,780
+Ein Tesla-Fahrer macht mit seiner geliebten Partnerin eine Spritztour.
+
+43
+00:04:24,780 --> 00:04:30,320
+Und macht ihr während dieser Autofahrt einen Heiratsantrag.
+
+44
+00:04:30,520 --> 00:04:36,040
+Die Partnerin nimmt diesen Heiratsantrag an und die beiden heiraten.
+
+45
+00:04:36,040 --> 00:04:43,740
+Für diesen Tesla-Fahrer wird das Auto Tesla für immer mit einer positiven Erfahrung verbunden sein.
+
+46
+00:04:43,740 --> 00:04:53,160
+Versus ein Tesla-Fahrer bleibt auf der Autobahn liegen, muss vom Abschleppdienst zur nächsten Stromtankstelle geschleppt werden,
+
+47
+00:04:53,520 --> 00:05:00,520
+verpasst einen wichtigen Vorstellungstermin und verliert möglicherweise seinen Traumjob.
+
+48
+00:05:00,520 --> 00:05:08,280
+Für diesen Tesla-Fahrer ist das Auto mit einer negativen Erfahrung verbunden.
+
+49
+00:05:08,760 --> 00:05:14,330
+Lassen Sie mich die wichtigsten Punkte der Service Dominant Logic noch einmal zusammenfassen.
+
+50
+00:05:14,330 --> 00:05:18,030
+Ich möchte anfangen mit einem falschen Denken über Produkte.
+
+51
+00:05:19,390 --> 00:05:23,670
+Wir kaufen Produkte nicht wegen ihrer produktspezifischen Eigenschaften.
+
+52
+00:05:23,670 --> 00:05:27,950
+Sondern weil sie uns einen Nutzen stiften, eben diesen Service.
+
+53
+00:05:27,950 --> 00:05:34,070
+Wir kaufen Produkte, weil sie uns sogenannte Intangibles liefern.
+
+54
+00:05:34,070 --> 00:05:44,990
+Also etwas nicht Greifbares, wie der Zugang zu einer Community, die Marke an sich, den Status, den wir erreichen, wenn wir ein bestimmtes Produkt nutzen.
+
+55
+00:05:44,990 --> 00:05:50,120
+Wir kaufen Produkte, weil wir damit eine ganzheitliche Erfahrung machen.
+
+56
+00:05:50,240 --> 00:05:56,070
+Ein falsches Denken über Services wäre folgendes.
+
+57
+00:05:56,070 --> 00:06:04,590
+Services sind eine eigene Produktkategorie e. v. mit einem immateriell Leistungsergebnis.
+
+58
+00:06:04,590 --> 00:06:07,830
+E.V. ein Beratungsgespräch.
+
+59
+00:06:08,920 --> 00:06:20,220
+Oder Services sind allenfalls ein Anhängsel für Produkte, im Sinne von Value-Added-Services.
+
+60
+00:06:20,240 --> 00:06:23,240
+Aber keinesfalls einusted Services.
+
+61
+00:06:23,240 --> 00:06:32,380
+im Vordergrund zu sehen. Ein aus der Service-Dominant-Logic richtiges Denken über Service wäre das
+
+62
+00:06:32,380 --> 00:06:41,770
+folgende. Service ist ein Prozess. Es werden Ressourcen eines Akteurs zum Nutzen eines anderen
+
+63
+00:06:41,770 --> 00:06:54,190
+Akteurs integriert. Service oder andersrum gesprochen, ein Produkt ist ein Vehikel für
+
+64
+00:06:54,190 --> 00:07:03,070
+Service. Die Philosophie wird umgedreht und am Ende ist auch der Kunde als Leistungsnehmer
+
+65
+00:07:03,070 --> 00:07:09,720
+ein Service-Provider. Vielen Dank für die Aufmerksamkeit.
+

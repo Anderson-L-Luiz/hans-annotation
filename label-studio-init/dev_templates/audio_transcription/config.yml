@@ -1,0 +1,38 @@
+title: Audio Transcription
+type: community
+group: Audio/Speech Processing
+image: /static/templates/automatic-speech-recognition.png
+details: <h1>Fix the transcript of the provided audio</h1>
+config: |
+  <View>
+    <Header value="Audio Transcription" />
+  
+    <Choices name="annotatorLanguage" toName="audio" choice="single-radio" required="true" showInline="true">
+      <Choice value="English" alias="en" />
+      <Choice value="German" alias="de" selected="true" />
+    </Choices>
+    <View visibleWhen="choice-selected" whenTagName="annotatorLanguage" whenChoiceValue="English">
+      <Header value="Listen to the following audio file:" />
+    </View>
+    <View visibleWhen="choice-selected" whenTagName="annotatorLanguage" whenChoiceValue="German">
+      <Header value="Hören Sie sich die Audio-Datei an:" />
+    </View>
+  
+    <Audio name="audio" value="$audio" />
+  
+    <View visibleWhen="choice-selected" whenTagName="annotatorLanguage" whenChoiceValue="English">
+      <Header value="The ASR engine recognized the following text:" />
+    </View>
+    <View visibleWhen="choice-selected" whenTagName="annotatorLanguage" whenChoiceValue="German">
+      <Header value="Der Spracherkenner hat den folgenden Text erkannt:" />
+    </View>
+    <HyperText name="asrtranscript" value="$transcript" valueType="url" inline="true" saveTextResult="yes" />
+  
+    <View visibleWhen="choice-selected" whenTagName="annotatorLanguage" whenChoiceValue="English">
+      <Header value="Write the corrected transcription:" />
+    </View>
+    <View visibleWhen="choice-selected" whenTagName="annotatorLanguage" whenChoiceValue="German">
+      <Header value="Bitte schreiben Sie eine korrigierte Transkription:" />
+    </View>
+    <TextArea name="transcript" toName="audio" value="$transcriptText" rows="4" editable="true" maxSubmissions="1" />
+  </View>

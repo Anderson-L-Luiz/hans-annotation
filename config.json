@@ -1,0 +1,4 @@
+{
+    "serverUrl": "localhost",
+    "mlBackendUrl": "localhost:8083/airflow"
+}

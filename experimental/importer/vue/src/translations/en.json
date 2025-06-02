@@ -1,0 +1,22 @@
+{
+    "App": {
+        "route" : {
+            "import": "Import",
+            "about": "About",
+            "api": "API"
+        },
+        "welcome": "Hello!",
+        "instructions": "Import a video file (mp4) to create annotation tasks in labelstud.io."
+    },
+    "Import": {
+        "description": "Choose a video file (mp4):",
+        "language": "Language:",
+        "upload": "Upload",
+        "ok": "The upload of your file was completed successfully.",
+        "error": "An error occured during uploading your file, please try again.",
+        "progress": "Uploading..."
+    },
+    "ServiceConfig": {
+        "description": "Current Configuration:"
+    }
+}

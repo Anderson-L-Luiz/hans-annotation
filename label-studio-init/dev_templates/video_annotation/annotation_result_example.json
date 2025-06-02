@@ -1,0 +1,454 @@
+[
+    {
+        "id": 19,
+        "annotations": [
+            {
+                "id": 9,
+                "completed_by": 1,
+                "result": [
+                    {
+                        "id": "3En_P9bo3A",
+                        "type": "labels",
+                        "value": {
+                            "end": "\/div[1]\/div[4]\/div[1]\/p[1]\/text()[1]",
+                            "text": "Interval [21.64,23.04] : thank you ",
+                            "start": "\/div[1]\/div[4]\/div[1]\/p[1]\/b[1]\/text()[1]",
+                            "labels": [
+                                "Error"
+                            ],
+                            "endOffset": 13,
+                            "startOffset": 1,
+                            "globalOffsets": {
+                                "end": 258,
+                                "start": 222
+                            }
+                        },
+                        "origin": "manual",
+                        "to_name": "transcript",
+                        "from_name": "asrError"
+                    },
+                    {
+                        "id": "wavesurfer_tqn9ssg334g",
+                        "type": "labels",
+                        "value": {
+                            "end": 4.527252719129878,
+                            "start": 1.6242815099168264,
+                            "labels": [
+                                "Topic"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "audio",
+                        "from_name": "marker",
+                        "original_length": 54.016
+                    },
+                    {
+                        "id": "wavesurfer_tqn9ssg334g",
+                        "type": "textarea",
+                        "value": {
+                            "end": 4.527252719129878,
+                            "text": [
+                                "Neuronale Netze"
+                            ],
+                            "start": 1.6242815099168264
+                        },
+                        "origin": "manual",
+                        "to_name": "audio",
+                        "from_name": "marker_topic_name",
+                        "original_length": 54.016
+                    },
+                    {
+                        "id": "wavesurfer_a9nvlug98co",
+                        "type": "labels",
+                        "value": {
+                            "end": 13.960110529983577,
+                            "start": 6.391649877392398,
+                            "labels": [
+                                "Exercise"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "audio",
+                        "from_name": "marker",
+                        "original_length": 54.016
+                    },
+                    {
+                        "id": "wavesurfer_a9nvlug98co",
+                        "type": "textarea",
+                        "value": {
+                            "end": 13.960110529983577,
+                            "text": [
+                                "Test"
+                            ],
+                            "start": 6.391649877392398
+                        },
+                        "origin": "manual",
+                        "to_name": "audio",
+                        "from_name": "marker_exercise_name",
+                        "original_length": 54.016
+                    },
+                    {
+                        "id": "wavesurfer_j81pq7mk0no",
+                        "type": "labels",
+                        "value": {
+                            "end": 19.83538360655738,
+                            "start": 1.3322676295501878e-15,
+                            "labels": [
+                                "Chapter"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "audio",
+                        "from_name": "marker",
+                        "original_length": 54.016
+                    },
+                    {
+                        "id": "wavesurfer_j81pq7mk0no",
+                        "type": "textarea",
+                        "value": {
+                            "end": 19.83538360655738,
+                            "text": [
+                                "Networks"
+                            ],
+                            "start": 1.3322676295501878e-15
+                        },
+                        "origin": "manual",
+                        "to_name": "audio",
+                        "from_name": "marker_chapter_name",
+                        "original_length": 54.016
+                    },
+                    {
+                        "id": "wavesurfer_k881p07oifs",
+                        "type": "labels",
+                        "value": {
+                            "end": 17.237892896174863,
+                            "start": 15.584944262295082,
+                            "labels": [
+                                "Slide Number"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "audio",
+                        "from_name": "marker",
+                        "original_length": 54.016
+                    },
+                    {
+                        "id": "wavesurfer_90v7384945o",
+                        "type": "labels",
+                        "value": {
+                            "end": 34.00351475409835,
+                            "start": 22.019637158469944,
+                            "labels": [
+                                "Questionnaire"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "audio",
+                        "from_name": "marker",
+                        "original_length": 54.016
+                    },
+                    {
+                        "id": "wavesurfer_90v7384945o",
+                        "type": "textarea",
+                        "value": {
+                            "end": 34.00351475409835,
+                            "text": [
+                                "600 meter"
+                            ],
+                            "start": 22.019637158469944
+                        },
+                        "origin": "manual",
+                        "to_name": "audio",
+                        "from_name": "marker_questionnaire_answer_1",
+                        "original_length": 54.016
+                    },
+                    {
+                        "id": "wavesurfer_90v7384945o",
+                        "type": "textarea",
+                        "value": {
+                            "end": 34.00351475409835,
+                            "text": [
+                                "Wie hoch ist der Eiffel Turm?"
+                            ],
+                            "start": 22.019637158469944
+                        },
+                        "origin": "manual",
+                        "to_name": "audio",
+                        "from_name": "marker_questionnaire_question_1",
+                        "original_length": 54.016
+                    },
+                    {
+                        "id": "1cu5j8KVB_",
+                        "type": "labels",
+                        "value": {
+                            "end": "\/div[1]\/div[7]\/div[1]\/p[1]\/text()[1]",
+                            "text": "Interval [31.86,33.86] : i'm searching for someone ",
+                            "start": "\/div[1]\/div[7]\/div[1]\/p[1]\/b[1]\/text()[1]",
+                            "labels": [
+                                "Error"
+                            ],
+                            "endOffset": 29,
+                            "startOffset": 1,
+                            "globalOffsets": {
+                                "end": 420,
+                                "start": 368
+                            }
+                        },
+                        "origin": "manual",
+                        "to_name": "transcript",
+                        "from_name": "asrError"
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2022-05-04T13:34:03.556319Z",
+                "updated_at": "2022-05-04T13:34:03.556367Z",
+                "lead_time": 316.251,
+                "prediction": {},
+                "result_count": 0,
+                "task": 19,
+                "parent_prediction": null,
+                "parent_annotation": null
+            }
+        ],
+        "file_upload": "ac55dda2-annotation-task.json",
+        "drafts": [
+            {
+                "id": 48,
+                "user": "hans@localhost",
+                "created_username": "hans@localhost, 1",
+                "created_ago": "3 hours, 3 minutes",
+                "result": [
+                    {
+                        "id": "3En_P9bo3A",
+                        "type": "labels",
+                        "value": {
+                            "end": "\/div[1]\/div[4]\/div[1]\/p[1]\/text()[1]",
+                            "text": "Interval [21.64,23.04] : thank you ",
+                            "start": "\/div[1]\/div[4]\/div[1]\/p[1]\/b[1]\/text()[1]",
+                            "labels": [
+                                "Error"
+                            ],
+                            "endOffset": 13,
+                            "startOffset": 1,
+                            "globalOffsets": {
+                                "end": 258,
+                                "start": 222
+                            }
+                        },
+                        "origin": "manual",
+                        "to_name": "transcript",
+                        "from_name": "asrError"
+                    },
+                    {
+                        "id": "wavesurfer_tqn9ssg334g",
+                        "type": "labels",
+                        "value": {
+                            "end": 4.527252719129878,
+                            "start": 1.6242815099168264,
+                            "labels": [
+                                "Topic"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "audio",
+                        "from_name": "marker",
+                        "original_length": 54.016
+                    },
+                    {
+                        "id": "wavesurfer_tqn9ssg334g",
+                        "type": "textarea",
+                        "value": {
+                            "end": 4.527252719129878,
+                            "text": [
+                                "Neuronale Netze"
+                            ],
+                            "start": 1.6242815099168264
+                        },
+                        "origin": "manual",
+                        "to_name": "audio",
+                        "from_name": "marker_topic_name",
+                        "original_length": 54.016
+                    },
+                    {
+                        "id": "wavesurfer_a9nvlug98co",
+                        "type": "labels",
+                        "value": {
+                            "end": 13.960110529983577,
+                            "start": 6.391649877392398,
+                            "labels": [
+                                "Exercise"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "audio",
+                        "from_name": "marker",
+                        "original_length": 54.016
+                    },
+                    {
+                        "id": "wavesurfer_a9nvlug98co",
+                        "type": "textarea",
+                        "value": {
+                            "end": 13.960110529983577,
+                            "text": [
+                                "Test"
+                            ],
+                            "start": 6.391649877392398
+                        },
+                        "origin": "manual",
+                        "to_name": "audio",
+                        "from_name": "marker_exercise_name",
+                        "original_length": 54.016
+                    },
+                    {
+                        "id": "wavesurfer_j81pq7mk0no",
+                        "type": "labels",
+                        "value": {
+                            "end": 19.83538360655738,
+                            "start": 1.3322676295501878e-15,
+                            "labels": [
+                                "Chapter"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "audio",
+                        "from_name": "marker",
+                        "original_length": 54.016
+                    },
+                    {
+                        "id": "wavesurfer_j81pq7mk0no",
+                        "type": "textarea",
+                        "value": {
+                            "end": 19.83538360655738,
+                            "text": [
+                                "Networks"
+                            ],
+                            "start": 1.3322676295501878e-15
+                        },
+                        "origin": "manual",
+                        "to_name": "audio",
+                        "from_name": "marker_chapter_name",
+                        "original_length": 54.016
+                    },
+                    {
+                        "id": "wavesurfer_k881p07oifs",
+                        "type": "labels",
+                        "value": {
+                            "end": 17.237892896174863,
+                            "start": 15.584944262295082,
+                            "labels": [
+                                "Slide Number"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "audio",
+                        "from_name": "marker",
+                        "original_length": 54.016
+                    },
+                    {
+                        "id": "wavesurfer_90v7384945o",
+                        "type": "labels",
+                        "value": {
+                            "end": 34.00351475409835,
+                            "start": 22.019637158469944,
+                            "labels": [
+                                "Questionnaire"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "audio",
+                        "from_name": "marker",
+                        "original_length": 54.016
+                    },
+                    {
+                        "id": "wavesurfer_90v7384945o",
+                        "type": "textarea",
+                        "value": {
+                            "end": 34.00351475409835,
+                            "text": [
+                                "600 meter"
+                            ],
+                            "start": 22.019637158469944
+                        },
+                        "origin": "manual",
+                        "to_name": "audio",
+                        "from_name": "marker_questionnaire_answer_1",
+                        "original_length": 54.016
+                    },
+                    {
+                        "id": "wavesurfer_90v7384945o",
+                        "type": "textarea",
+                        "value": {
+                            "end": 34.00351475409835,
+                            "text": [
+                                "Wie hoch ist der Eiffel Turm?"
+                            ],
+                            "start": 22.019637158469944
+                        },
+                        "origin": "manual",
+                        "to_name": "audio",
+                        "from_name": "marker_questionnaire_question_1",
+                        "original_length": 54.016
+                    },
+                    {
+                        "id": "1cu5j8KVB_",
+                        "type": "labels",
+                        "value": {
+                            "end": "\/div[1]\/div[7]\/div[1]\/p[1]\/text()[1]",
+                            "text": "Interval [31.86,33.86] : i'm searching for someone ",
+                            "start": "\/div[1]\/div[7]\/div[1]\/p[1]\/b[1]\/text()[1]",
+                            "labels": [
+                                "Error"
+                            ],
+                            "endOffset": 29,
+                            "startOffset": 1,
+                            "globalOffsets": {
+                                "end": 420,
+                                "start": 368
+                            }
+                        },
+                        "origin": "manual",
+                        "to_name": "transcript",
+                        "from_name": "asrError"
+                    },
+                    {
+                        "id": "rLiWwVhjtV",
+                        "type": "labels",
+                        "value": {
+                            "end": "\/div[1]\/div[2]\/div[1]\/p[1]\/text()[1]",
+                            "text": "Interval [7.02,11.7] : in a shed much blood ",
+                            "start": "\/div[1]\/div[2]\/div[1]\/p[1]\/b[1]\/text()[1]",
+                            "labels": [
+                                "Error"
+                            ],
+                            "endOffset": 24,
+                            "startOffset": 1,
+                            "globalOffsets": {
+                                "end": 95,
+                                "start": 50
+                            }
+                        },
+                        "origin": "manual",
+                        "to_name": "transcript",
+                        "from_name": "asrError"
+                    }
+                ],
+                "lead_time": 4170.613,
+                "created_at": "2022-05-05T09:59:22.961806Z",
+                "updated_at": "2022-05-05T09:59:22.961814Z",
+                "task": 19,
+                "annotation": 9
+            }
+        ],
+        "predictions": [],
+        "data": {
+            "video": "http:\/\/localhost:9001\/assets\/1d36f6f2-ecb6-43c0-816d-d18ed101fd91.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=minio%2F20220503%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220503T162459Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=8ef122f5f789313dde54628e62c8416650de1ab6b0f3f0fb9804c5be8cc85835",
+            "asrResult": "http:\/\/localhost:9001\/assets\/1d36f6f2-ecb6-43c0-816d-d18ed101fd91.json?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=minio%2F20220503%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220503T162501Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=176a3c022f9f8df49ad4fd92106e1c28379de8228a38306e8e2fe4e659511c57",
+            "transcript": "http:\/\/localhost:9001\/assets\/1d36f6f2-ecb6-43c0-816d-d18ed101fd91.html?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=minio%2F20220503%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220503T162501Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=b6539d2a0c9b6ccb173e04ecd7ed635933951300b863756d728489488ed9197c"
+        },
+        "meta": {},
+        "created_at": "2022-05-03T16:26:44.623809Z",
+        "updated_at": "2022-05-04T13:34:03.657083Z",
+        "project": 1
+    }
+]

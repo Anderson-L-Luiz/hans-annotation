@@ -1,0 +1,169 @@
+{
+  "questions": {
+    "slideVisible": {
+      "type": "question",
+      "members": {
+        "name": "slideVisible",
+        "question_text": {
+          "type": "text",
+          "en": "Slide visible?",
+          "de": "Präsentationsfolie gezeigt?"
+        }
+      }
+    },
+    "slideChange": {
+      "type": "question",
+      "members": {
+        "name": "slideChange",
+        "question_text": {
+          "type": "text",
+          "en": "Slide changed?",
+          "de": "Folie gewechselt?"
+        }
+      }
+    },
+    "exampleShown": {
+      "type": "question",
+      "members": {
+        "name": "exampleShown",
+        "question_text": {
+          "type": "text",
+          "en": "Example presented?",
+          "de": "Beispiel gezeigt?"
+        }
+      }
+    },
+    "exerciseShown": {
+      "type": "question",
+      "members": {
+        "name": "exerciseShown",
+        "question_text": {
+          "type": "text",
+          "en": "Exercise presented?",
+          "de": "Übungsaufgabe gezeigt?"
+        }
+      }
+    },
+    "boardUsed": {
+      "type": "question",
+      "members": {
+        "name": "boardUsed",
+        "question_text": {
+          "type": "text",
+          "en": "(White-)Board or other teaching aids used?",
+          "de": "Tafel oder anderes Lehrhilfsmittel verwendet?"
+        }
+      }
+    },
+    "topicSwitch": {
+      "type": "question",
+      "members": {
+        "name": "topicSwitch",
+        "question_text": {
+          "type": "text",
+          "en": "Chapter/Topic started?",
+          "de": "Kapitel/Thema angefangen?"
+        }
+      }
+    },
+    "anonymizationRequired": {
+      "type": "question",
+      "members": {
+        "name": "anonymizationRequired",
+        "question_text": {
+          "type": "text",
+          "en": "Voice of s.o. else heard? (e.g. student)",
+          "de": "Stimme von jemand anderem hörbar? (z.B. Student)"
+        }
+      }
+    },
+    "transcriptionContainsTextOfMultipleSpeakers": {
+      "type": "question",
+      "members": {
+        "name": "transcriptionContainsTextOfMultipleSpeakers",
+        "question_text": {
+          "type": "text",
+          "en": "Transcription contains speech of s.o. else?",
+          "de": "Transkription enthält Gesagtes von jemand anderem?"
+        }
+      }
+    },
+    "asrError": {
+      "type": "question",
+      "members": {
+        "name": "asrError",
+        "question_text": {
+          "type": "text",
+          "en": "Error in transcription? [DEPRECATED]",
+          "de": "Fehler in Transkription? [DEPRECATED]"
+        }
+      }
+    },
+    "asrCorrect": {
+      "type": "question",
+      "members": {
+        "name": "asrCorrect",
+        "question_text": {
+          "type": "text",
+          "en": "Transcription correct?",
+          "de": "Transkription korrekt?"
+        }
+      }
+    },
+    "asrMeaningOK": {
+      "type": "question",
+      "members": {
+        "name": "asrMeaningOK",
+        "question_text": {
+          "type": "text",
+          "en": "Meaning preserved in Transcription?",
+          "de": "Sinn in Transkription erhalten?"
+        }
+      }
+    },
+    "specialistTermSpoken": {
+      "type": "question",
+      "members": {
+        "name": "specialistTermSpoken",
+        "question_text": {
+          "type": "text",
+          "en": "Specialist term spoken?",
+          "de": "Fachbegriff ausgesprochen?"
+        }
+      }
+    },
+    "formulaSpoken": {
+      "type": "question",
+      "members": {
+        "name": "formulaSpoken",
+        "question_text": {
+          "type": "text",
+          "en": "Formula spoken?",
+          "de": "Formel ausgesprochen?"
+        }
+      }
+    },
+    "variableSpoken": {
+      "type": "question",
+      "members": {
+        "name": "variableSpoken",
+        "question_text": {
+          "type": "text",
+          "en": "Variable/letter spoken?",
+          "de": "Variable/Buchstabe ausgesprochen?"
+        }
+      }
+    },
+    "speakerIntelligible": {
+      "type": "question",
+      "members": {
+        "name": "speakerIntelligible",
+        "question_text": {
+          "type": "text",
+          "en": "Speaker acoustically intelligible?",
+          "de": "Sprecher akustisch verständlich?"
+        }
+      }
+    }
+  }
+}

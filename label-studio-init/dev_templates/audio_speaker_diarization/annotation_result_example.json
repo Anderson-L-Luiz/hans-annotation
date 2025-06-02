@@ -1,0 +1,92 @@
+[
+    {
+        "id": 12,
+        "annotations": [
+            {
+                "id": 4,
+                "completed_by": 1,
+                "result": [
+                    {
+                        "id": "OD0sfj56wT",
+                        "type": "choices",
+                        "value": {
+                            "choices": [
+                                "de"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "audio",
+                        "from_name": "annotatorLanguage"
+                    },
+                    {
+                        "id": "wavesurfer_82idgp0k1n",
+                        "type": "labels",
+                        "value": {
+                            "end": 1.8830625000000003,
+                            "start": 0,
+                            "labels": [
+                                "OtherSpeaker"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "audio",
+                        "from_name": "label",
+                        "original_length": 7.0186875
+                    },
+                    {
+                        "id": "wavesurfer_c76m1hb48oo",
+                        "type": "labels",
+                        "value": {
+                            "end": 6.53994279661017,
+                            "start": 1.903372881355932,
+                            "labels": [
+                                "MainSpeaker"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "audio",
+                        "from_name": "label",
+                        "original_length": 7.0186875
+                    },
+                    {
+                        "id": "wavesurfer_egqeq2prb2s",
+                        "type": "labels",
+                        "value": {
+                            "end": 7.0186874999999995,
+                            "start": 6.554450211864407,
+                            "labels": [
+                                "OtherSpeaker"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "audio",
+                        "from_name": "label",
+                        "original_length": 7.0186875
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2022-06-21T12:59:04.197083Z",
+                "updated_at": "2022-06-21T12:59:04.197095Z",
+                "lead_time": 95.327,
+                "prediction": {},
+                "result_count": 0,
+                "task": 12,
+                "parent_prediction": null,
+                "parent_annotation": null
+            }
+        ],
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "audio": "http:\/\/localhost:9003\/assets\/195096f1-dbe6-41cd-aafc-6dd80a88343e.000004.28-35.wav",
+            "video": "http:\/\/localhost:9003\/assets\/195096f1-dbe6-41cd-aafc-6dd80a88343e.000004.28-35.mp4",
+            "asrResult": "http:\/\/localhost:9003\/assets\/195096f1-dbe6-41cd-aafc-6dd80a88343e.000004.28-35.json",
+            "transcript": "http:\/\/localhost:9003\/assets\/195096f1-dbe6-41cd-aafc-6dd80a88343e.000004.28-35.html"
+        },
+        "meta": {},
+        "created_at": "2022-06-21T12:52:19.647766Z",
+        "updated_at": "2022-06-21T12:59:04.252782Z",
+        "project": 1
+    }
+]
